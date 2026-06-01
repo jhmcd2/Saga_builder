@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Classification: UNCLASSIFIED -->
+<!--Internal Messaging -->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns="urn:nameserver/internal" elementFormDefault="unqualified"
+	attributeFormDefault="unqualified" xml:lang="en" targetNamespace="urn:nameserver/internal">
+
+	<xsd:element name="NameServerUpdate">
+		<xsd:annotation>
+			<xsd:documentation>
+				Message sent by a name server to push new or updated naming routes to other name servers.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="full" minOccurs="1" type="xsd:boolean">
+					<xsd:annotation>
+						<xsd:documentation>
+							'true' if update contains all known entries.
+							'false' if update contains only changed entries.
+						</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element name="route" minOccurs="0" maxOccurs="unbounded"
+					type="RouteEntry">
+					<xsd:annotation>
+						<xsd:documentation>
+							Route being updated.
+						</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="NameServerPullRequest">
+		<xsd:annotation>
+			<xsd:documentation>
+				Message sent from one name server to another, requesting a full listing of known routes.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="NameServerPullResponse">
+		<xsd:annotation>
+			<xsd:documentation>
+				Message sent by a name server in response to another name server's NameServerPullRequest message.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="outcome" minOccurs="1" type="OutcomeEnum">
+					<xsd:annotation>
+						<xsd:documentation>
+							Failure/Success of the NameServerPullRequest message.
+						</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element name="route" minOccurs="1" maxOccurs="unbounded"
+					type="RouteEntry">
+					<xsd:annotation>
+						<xsd:documentation>List of routes.</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+
+	<xsd:complexType name="RouteEntry">
+		<xsd:annotation>
+			<xsd:documentation>Name server route entry.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="name" minOccurs="1" type="xsd:anyURI">
+				<xsd:annotation>
+					<xsd:documentation>Logical ID.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="type" minOccurs="1" type="ResourceType">
+				<xsd:annotation>
+					<xsd:documentation>
+					Indicates mapping type (Exclusive/Any/All) between the logical ID and the physical ID(s).
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="netId" minOccurs="1" maxOccurs="unbounded"
+				type="NetId">
+				<xsd:annotation>
+					<xsd:documentation>Physical ID(s).</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="NetId">
+		<xsd:annotation>
+			<xsd:documentation>
+			Object that holds information about a SILKWAVE endpoint in relation to a name server resource.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="id" minOccurs="1" type="xsd:anyURI">
+				<xsd:annotation>
+					<xsd:documentation>Physical ID.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="owner" type="xsd:anyURI" minOccurs="0">
+				<xsd:annotation>
+					<xsd:documentation>Name server that owns this NetId in the
+						route.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="timestamp" type="xsd:dateTime"
+				minOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation>
+						Message sender-assigned timestamp.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="action" minOccurs="1" type="ActionEnum">
+				<xsd:annotation>
+					<xsd:documentation>Indicates whether to add or remove NetId.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:simpleType name="ActionEnum">
+		<xsd:annotation>
+			<xsd:documentation>
+			Enumerates actions to be taken for the netID in question relative to an ns address.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="add" />
+			<xsd:enumeration value="remove" />
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="ResourceType">
+		<xsd:annotation>
+			<xsd:documentation> Enumerates resource types.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="Exclusive">
+				<xsd:annotation>
+					<xsd:documentation>
+					Only one physical name can map to this logical name.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="Any">
+				<xsd:annotation>
+					<xsd:documentation>
+					Multiple physical names can be registered to this logical 
+					name, but will resolve on one name. I.e., if a message is 
+					sent to a resource registered as an 'Any', SILKWAVE will 
+					choose one of the physical names to which to send the message.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="All">
+				<xsd:annotation>
+					<xsd:documentation>
+					Multiple physical names can be registered to this logical 
+					name, and will resolve to all of them. I.e., if a message 
+					is sent to a resource registered as an 'All', SILKWAVE 
+					will send the message to all of the physical names.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+
+	<xsd:simpleType name="OutcomeEnum">
+		<xsd:annotation>
+			<xsd:documentation> Enumerates outcomes of a Request Message.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="Failure">
+				<xsd:annotation>
+					<xsd:documentation></xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="Success">
+				<xsd:annotation>
+					<xsd:documentation></xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+</xsd:schema>
+
+
+<!--Classification: UNCLASSIFIED -->
