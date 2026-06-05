@@ -1,5 +1,9 @@
 # Overall Idea
 starting in 2150, The instra-solar war begins when a group of Lunarian terrorist sets of a string a missile attacks.  This is known as Flashpoint day.  Initally the attacks are disregarded and leads to the creation of the UEN or United Earth Nations.  The US and Russia are banned. However an asteroid attack on a tehcological conference pushes the Earth to respond in an almost united Front.  However, many nations obstain from the oragnization an the war.  But Lunarian strikes on the planet force the rest of the planets to war as the Earth fleet atempts to chase them out of the solar system. However, there may be a 3rd party manipulating everything behind the scenes.
+# Tags
+- The folowing shows tags included in this project, tags that mark specific concepts within the story.
+<NOTCOMMON></NOTCOMMON>  The information in these tags is not common knowlege or classified.  
+<IMPORTANT></IMPORTANT> This tag marks an importnat event that may take place in secret but is necessary for plot building. 
 # Detailed Description
 1. Dates 
 - Between 2150-2170
@@ -223,9 +227,23 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - October 24: The moon launches a masive wave a missiles at the Earth.  They are meant to destroy the Kirov fleet.  Bu the fleet doesn't launch then.
      - November 6: A Massive parade is launched in Red Square where nearly 2,000 ships each carrying nearly a thousand people each. The massive launch takes place from all over Russia.
      - November 10: The Battle for the Moon.  
-     - November 11: Kevin Kinsey is killed when his transport crashes into the Moon's surface. 
+     - November 11: Kevin Kinsey Kirov is critically damaged.  It tries to manuever, but the manuever sends it out into deep space never to be recovered.
      - November 12: The ground offensieve on the Battle oges into high gear
-     
+2158. 
+     - Janurary 10: Battle of the Moon concludes. 
+     - Janurary 11: Due to telescopes monitoring the battle the loses are highly publicized.  Drafts open up, and the age drops to 18.  Many families flee population centers.
+     - Feburary 14: The Valentimes Day Massacre.  Brussels, Paris, London, Moscow and Tel-Aviv hit with weapons from Lunarian ships from just outside of the main detection line of stations. Weapons manufacturing is target throughout China.  
+     - Feburary 15: It is discovered that Lunarian official evacuated to Mars.  All outer colonies declare war on the Earth. 
+     - March 23: Neutral Countries start to call for talks.  Meanwhile a mass migration from the UEN countries starts, mainly composed of young men fleeing the draft and familes with younge boys.  Countries such as Brazil, Chile, The Abrahamic Union welcome them. 
+     - May 10: Represenatives from the UEN secure a loan for $3 trillion dollars to fund the Mars offensive, due to be the largest offensive in Human history. 
+     - Northrup Grumman invents the compact high frequency high pressure.  This core is the perfect replacement for the more complex, ahrder to produce, but litterally bullet proof design which Leyland INdustries devised for the Fusion powered rocket over a hundred years earlier.  This causes designers to think about a GEN 3 Warship.  
+     - April 1: Launches for the Ascent and Nova Class ships begins.  They reach nearly 70 launches a day.
+     - April 15: a Labor shortage causes one of the facilities to have to shut down.  Mass migration is to blame. 
+     - April 20: Attempts to quell migration started, with Martial Law declared in several states of the UEN.  As well, they pushed to try and gain allies assitance from non-aligned nations.  
+     - April 30: All non-aligned nations completly refused. 
+     - May 1: Despite Movement laws, mass migration only increases.  In a temporary location in the Salt Mines near Saltzburg, the UEN government decides that Shanhaing people may be the only way to beef up numbers. They also start debating on a permant base
+     - May 5: <IMPORTANT> Agent Leslie Fields approaches the former head of the US CIA now retired and living in Hawaii.  Their conversation is about the how the UEN is failing and how it needs a new branch willing to get things done. (NOTE: they are playing the pronoun game...they know what each otehr is talking about we do not).  He opts to say if the world wants to collapse let it.  He is shot in the end. </IMPORTANT>
+     - May 10: The new 
 
 
 2174. 
@@ -233,11 +251,69 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
 
 # Ship Details
 1. Kirov Class
-- GEN 1 Class ship
+     - GEN 1 Class ship
+     - Design: Tall, needle‑like fuselage, rounded nose cone, Slightly flared mid‑section for troop compartments, Massive structural ring around the tail,
+     - Each has 12 SRBs mounted onto ring around tail arranged like a hedgehog of boosters.  
+     - Fighters and ground craft are mounted to the inside of the ring.
+     - Dimensions
+          * Heights: 220 meters
+          * Diameter: 30 meters at mid-section
+          * Ring Dimeter: 120 meters
+     - Engines: 6 liquid O2/Kerosene engines, 12 200 meter main SRBs, 60 Strap on SRBs
+     - Aluminum Hull
+     - Fuel tanks in the fall Rear, the rest of the interior is tight similar to a WWII transport plane.  Controls are equivelent to a 1960 Russian Soyuz and some may have been scavenged from some of them.  
 2. Ascent (Challenger) Class
 - GEN 2 Clas ship
 3. Nova (Columbia) Class
 - GEN 2 Class ship
+4. Vanguard Class
+- GEN 3 Class Ship
+# Defensive Alignment. 
+## Battle of the Moon
+### Earth 
+- 2500 Kirov Class launch vehicles
+     * Each Carry 1000 troops 
+          - 500 hr Oxygren breather system
+          - 1 portable rail gun riffle w/ 1000 rounds
+          - 2 9mm auto handguns with 20 10 round magazines
+          - Wearing a Arkvo TG-E Space suite certified for 1000 hours of EVA time, and protection against objects up to 500 m/s
+- 2000 Fighters retrofit for Space combat
+     * 500 Mig-35
+     * 1000 Mig-80
+     * 160 SU-189 FIghter Bomber Drones 
+     * 340 SU - 200 Fighter Bombers Maned
+- 1000 Tanks
+     * 400 T- 480 Medved Main Battle Tanks
+          - 2 Drivers
+          - 55 ton weight
+          - COmposite ceramic armor with active protection system
+          - 152 mm hybrid rail gun
+          - 12.7mm remote turret
+          - 40mm smart grenade launched
+          - 4 micro UAV scouts
+          - Light Fusion power plant designed for short energy burst which is then trapped in power cells. 1800NM of power. 
+          - All the problems of russian tanks of old, turrets that explode, engines that overheat, very tight compartment, not really enough space for the O2 systems
+     * 600 T-300
+          - 1 driver, 1 commander
+          - 40 tons
+          - All steel construction
+          - Reactive armor
+          - Some carry options Drone rack
+          - space for 5 troops
+          - 1 50mm gun
+          - Optional 10 nozzel rocket launched
+          - Hydrogen powered engine
+          - Still highly subseptible to overheating.  Steal was known to be brital and have uneven manufacturing standard, most are pushing 70
+- 50 Scout Walkers
+     - About 30' tall
+     - Pressurized cabine
+     - Originally designed for use for Mars projects
+     - Multi adactive missile launched with variable diameter missile launcher tubes
+     - additional twin gatling guns with 10,000 rounds
+     - Full sensor suite 
+     - Powered by BYD micro fission generator OR the CATL micro fission generator, each with a durration of 20k hours.
+     - Weight are 15 tons
+
 # Characters
 ## Main Characters
 * Thomas Kinsey
@@ -246,6 +322,8 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
 * Alisa Kinsey
 - Born: Novemer 11, 2154
 - Father Kevin Kinsey
+##
+* Leslie Fields
 # Structure
 -Standard 6 Act structure
 -dual narative
