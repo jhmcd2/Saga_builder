@@ -241,9 +241,9 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - April 15: a Labor shortage causes one of the facilities to have to shut down.  Mass migration is to blame. 
      - April 20: Attempts to quell migration started, with Martial Law declared in several states of the UEN.  As well, they pushed to try and gain allies assitance from non-aligned nations.  
      - April 30: All non-aligned nations completly refused. 
-     - May 1: Despite Movement laws, mass migration only increases.  In a temporary location in the Salt Mines near Saltzburg, the UEN government decides that Shanhaing people may be the only way to beef up numbers. They also start debating on a permant base
+     - May 1: Despite Movement laws, mass migration only increases.  In a temporary location in the Salt Mines near Saltzburg, the UEN government decides that Shanhaing people may be the only way to beef up numbers. They also start debating on a permant capital, and just like Europe this takes over. In fact it deadlocks the discussions. Agent Leslie Fields just happens to be at this meeting. 
      - May 5: <IMPORTANT> Agent Leslie Fields approaches the former head of the US CIA now retired and living in Hawaii.  Their conversation is about the how the UEN is failing and how it needs a new branch willing to get things done. (NOTE: they are playing the pronoun game...they know what each otehr is talking about we do not).  He opts to say if the world wants to collapse let it.  He is shot in the end. </IMPORTANT>
-     - May 10: The new 
+     - June 5: The full scope of the Lunar Battle is discovered 
 
 
 2174. 
@@ -271,6 +271,7 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
 # Defensive Alignment. 
 ## Battle of the Moon
 ### Earth 
+- General Population over 8.6 billion
 - 2500 Kirov Class launch vehicles
      * Each Carry 1000 troops 
           - 500 hr Oxygren breather system
@@ -313,6 +314,274 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - Full sensor suite 
      - Powered by BYD micro fission generator OR the CATL micro fission generator, each with a durration of 20k hours.
      - Weight are 15 tons
+## Moon
+- General Population: 1.9 million
+- Fleet Size (NOTE: while some are used for transporting equipment during the battle of the moon, none are used for combat)
+     * 600 Civian Transports
+     * 200 Ore Haulers
+     * 150 Personnel shuttles
+     * 50 Fusion Tug Workhorses
+     * 20 VIP transports
+- Primary Defenses
+     1. 30 Heavy Rail Batteries
+          * Range 1000-3000KM
+          * Fire tungsten rods
+          * High precision targeting within that range
+          * Build into Canions and lines all along the moon
+          * Power by the Moon's Pimary Fusion generators and Solar Farms
+     2. Medium Rail Emplacements
+          * Anti-vehicle/lander/infantry
+          * uses small nail like projectiles
+          * Mounted into tunnels and crater walls and strategic locations around colony structures
+- Drone swarms
+     NOTE: All are retrofit from inspection drones typically the Antanov 160, 180, and 110 Heavy transport (typically used for rescue operations)
+     1. Suicide Drones
+          * 10000 in Fleet (during Chinese offensive where they are use extensivly)
+          * Shaped charges
+          * Kinetic PEentrators
+          * EMP Coils
+     2. Recon Drones
+          * 110000
+          * Map Craters
+          * Track Landers
+          * Relay Tergetting Data
+     3. Tunnel Drones
+          * Unknown Number
+          * Navigate underground areas
+          * Carry explosives
+          * Used for Ambushes
+- Missile Systems
+     1. Short‑Range Vacuum Missiles (SRVMs)
+          * Range: 5–50 km
+          * Used against landers
+          * Built from mining explosives   
+     2. Improvised Orbital Interceptors    
+          *  Crude
+          * Low accuracy
+          * High yield
+          *  Used to hit Chinese descent craft
+     3. EMP Mines
+          * Buried in regolith
+          * Disable electronics
+          * Devastating to tanks and walkers
+-  Tunnel Warfare Assets
+     1. Tunnel Networks
+          * Hundreds of km
+          * Multi‑level
+          * Connect major colonies
+          * Contain
+               a. barracks
+               b. workshops
+               c. hospitals
+               d. command centers
+               e. ambush shafts
+     2. Vertical Kill Shafts
+          * Drop explosives
+          * Drop drones
+          * Drop tungsten rods
+          * Used to destroy tanks
+     3. Pressure‑Safe Bunkers
+          * Reinforced with lunar basalt
+          * Can survive orbital bombardment
+- Infantry
+     1. Rail Rifles
+          - Standard rebel weapon
+          - High velocity
+          - No propellant needed
+     2. Coil Pistols
+          - For tunnel fighting
+          - Low recoil
+     3. Shotguns
+          - Low‑velocity
+          - Safe for habitats
+     4. Mining Lasers
+          - Repurposed
+          - Short range
+          - Can blind sensors
+- Armor and Vehicles
+     1. Pressurized Combat Suits
+          - Reinforced EVA suits
+          - Ceramic Armor plates 
+          - Radiation shielding
+     2. Lunar Crawlers
+          - Mining vehicles
+          - Reinforced with scrap armo
+          - Mounted
+               * railguns
+               * missile pods
+               * drone racks
+     3. Improvised Walkers
+          - 5-10 units 
+          - Built from construction mechs
+          - Very slow
+          - Very dangerous in tunnels
+- Key Locations
+     1. Clovius Crater 
+          - Location: Near the lunar equator, western edge of Mare Tranquillitatis
+          - Population: 45,000+
+          - Original Purpose: Leyland Industries’ first major scientific outpost
+          - Modeled After: Modeled after the 2001: A Space Odyssey Clavius Base
+          - Strengths
+               * Deep underground labs
+               * Hardened radiation shielding
+               * One of the Moon’s largest fusion‑tug power stations
+               * Houses the oldest and most secure tunnel network
+          - Exterior Description
+               * A massive hexagonal dome partially buried in regolith
+               * Radiating spokes of pressurized corridors
+               * A long, flat runway carved into the crater floor
+               * White and silver plating, heavily weathered
+               * Looks like a cross between Clavius Base and a Cold War bunker
+          - Role in the War
+               * Becomes the rebel command center
+               * Last major facility to fall
+               * Symbol of lunar independence
+     2. New Tycho City
+          - Location:  Tycho Crater, southern lunar highlands
+          - Population: ~120,000 (largest settlement on the Moon)
+          - Original Purpose
+               * Private mining megacity
+               * Built during the Leyland gold rush
+               * Known for its rare‑earth extraction and helium‑3 refineries
+          - Strengths
+               * Massive industrial capacity
+               * Deep mining tunnels perfect for defense
+               * Multiple railgun foundries
+               * Largest solar farm on the Moon
+          - Exterior Description
+               * A sprawling cluster of domes and towers
+               * Gigantic solar arrays stretching across the crater rim
+               * A 3‑km runway for Leyland shuttlecraft
+               * Cargo elevators descending into the crater floor
+          - Role in the War
+               * Primary manufacturing center for rebel weapons
+               * Site of the bloodiest crater‑to‑crater fighting
+               * Russia’s tanks suffer catastrophic losses here
+     3. Armstrong Port (formerly Armstrong Base)
+          - Location: Sea of Tranquility, near Apollo 11 landing site
+          - Population: ~60,000
+          - Original Purpose:
+               * First major civilian spaceport
+               * Leyland’s flagship shuttle landing facility
+               * Gateway for tourism and corporate travel
+          - Strengths
+               * Longest runway on the Moon (5 km)
+               * Dozens of hangars for shuttlecraft
+               * Massive fuel depots
+               * Orbital docking towers
+          - Exterior Description:
+               * Looks like a lunar version of LAX
+               * Long, flat runways with dust‑repellent coatings
+               * Rows of silver hangars
+               * A central terminal dome with panoramic windows
+          - Role in the War
+               * Evacuation hub for civilians
+               * Target of Chinese orbital bombardment
+               * Eventually captured intact by Russia
+     4. Mare Imbrium Industrial Complex
+          - Location: Northern Mare Imbrium
+          - Population: ~80,000
+          - Original Purpose:
+               * Heavy mining and smelting
+               * Production of lunar steel, titanium, and basalt composites
+               * Home to Leyland’s largest ore‑processing plant
+          - Strengths:
+               * Huge underground furnaces
+               * Railgun barrel manufacturing
+               * Drone assembly lines
+               * Thick basalt walls ideal for fortification
+          - Exterior Description:
+               * A series of squat, angular industrial domes
+               * Black basalt plating gives it a fortress‑like appearance
+               * Conveyor belts and cargo lifts dot the crater edge
+               * No runway — this is a ground‑based industrial zone
+          - Role in the War:
+               * Produces most of the Moon’s medium railguns
+               * Site of a massive Russian tank assault
+               * Rebels collapse tunnels to trap entire battalions
+     5. Serenity Ridge Habitat Arcology
+          -  Location: Montes Serenitatis, overlooking Mare Serenitatis
+          - Population: ~150,000
+          - Original Purpose:
+               * Luxury residential arcology
+               * Built during the height of the lunar gold rush
+               * Home to wealthy executives, engineers, and families
+          - Strengths:
+               * Self‑sustaining life‑support systems
+               * Thick radiation shielding
+               * High‑capacity hydroponics
+               * Excellent defensive elevation
+          - Exterior Description:
+               * A sweeping crescent‑shaped megadome
+               * Terraced gardens visible through transparent panels
+               * A short emergency runway for VIP shuttles
+               * Looks like a futuristic resort city
+          - Role in the War:
+               * Becomes a refugee center
+               * Rebels convert hydroponics into medical wards
+               * Eventually besieged by Russian infantry
+     6. Lunar Fusion Works (LF‑1)
+          - Location: Near the South Pole, close to Shackleton Crater
+          - Population: ~25,000
+          - Original Purpose:
+               * Built to take advantage of near‑constant sunlight
+               * Produced early fusion tugs and reactor components
+          - Strengths:
+               * High‑energy power grid
+               * Deep underground vaults
+               * Access to permanently shadowed ice deposits
+               * One of the few places capable of building fusion‑adjacent tech
+          - Exterior Description:
+               * A cluster of tall solar towers
+               * A ring of radiators glowing faintly blue
+               * A small runway for test craft
+               * Looks like a cross between a refinery and a solar farm
+          - Role in the War:
+               * Rebels use it to power heavy railguns
+               * Russia targets it early to cripple lunar power
+               * Site of a catastrophic meltdown during the siege
+     7. Copernicus Freight Hub
+          - Location: Copernicus Crater
+          - Population: ~40,000
+          - Original Purpose:
+               * Central cargo distribution center
+               * Managed ore shipments from all major mining colonies
+               * Hosted dozens of civilian transports
+          - Strengths:
+               * Huge landing pads
+               * Massive cargo elevators
+               * Thick crater walls for defense
+               * Large stockpiles of fuel and supplies
+          - Exterior Description:
+               * A ring of landing pads around a central cargo dome
+               * Tall cranes and cargo towers
+               * A short runway for emergency landings
+               * Looks like a lunar shipping port
+          - Role in the War:
+               * Evacuation staging area
+               * Rebels convert transports into armored shuttles
+               * Russia captures it to cut off rebel logistics
+     8. FarSide Observatory Array (FSOA)
+          - Location: Lunar far side, near Tsiolkovskiy Crater
+          - Population: ~10,000
+          - Original Purpose:
+               * Deep‑space radio astronomy
+               * Gravitational wave detection
+               * Dark‑sky research
+          - Strengths:
+               * Immense sensor range
+               * Early warning for orbital attacks
+               * Underground data vaults
+               * Natural shielding from Earth’s radio noise
+          - Exterior Description:
+               * A field of massive dish antennas
+               * A few small domes for habitation
+               * No runway — access via shuttle pads only
+               * Looks like a silent, eerie forest of metal
+          - Role in the War:
+               * Detects the Chinese assault first
+               * Provides targeting data for railguns
+               * Russia destroys it with orbital strikes
 
 # Characters
 ## Main Characters
