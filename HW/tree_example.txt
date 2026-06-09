@@ -1,0 +1,335 @@
+.
+├── automated-test
+│   ├── csta-config.yml
+│   ├── csta_customize.py
+│   ├── csta_global.py
+│   ├── csta_test
+│   │   ├── test_Connection_To_CS.py
+│   │   └── test_Request_Msg.py
+│   ├── env
+│   │   ├── config
+│   │   │   ├── aococs.cfg
+│   │   │   ├── jecjelsensor.cfg
+│   │   │   ├── jecsensor.cfg
+│   │   │   ├── jectasker.cfg
+│   │   │   ├── otel
+│   │   │   │   ├── grafana
+│   │   │   │   │   ├── grafana.ini
+│   │   │   │   │   ├── provisioning
+│   │   │   │   │   │   ├── dashboards
+│   │   │   │   │   │   │   └── dashboard.yml
+│   │   │   │   │   │   ├── datasources
+│   │   │   │   │   │   │   └── datasources.yml
+│   │   │   │   │   │   └── plugins
+│   │   │   │   │   │       └── apps.yaml
+│   │   │   │   │   └── scripts
+│   │   │   │   │       └── provision-dashboards.sh
+│   │   │   │   ├── loki
+│   │   │   │   │   └── loki-config.yml
+│   │   │   │   ├── otelcollector
+│   │   │   │   │   └── collector-config.yaml
+│   │   │   │   ├── prometheus
+│   │   │   │   │   └── prometheus.yml
+│   │   │   │   └── tempo
+│   │   │   │       ├── tempo-config.yaml
+│   │   │   │       └── tempo-overrides.yaml
+│   │   │   └── silkwave.cfg
+│   │   └── volumes
+│   │       ├── aococs
+│   │       │   └── README
+│   │       ├── csta
+│   │       │   └── README
+│   │       ├── jecjelsensor
+│   │       │   └── README
+│   │       ├── jecsensor
+│   │       │   └── README
+│   │       ├── jectasker
+│   │       │   └── README
+│   │       ├── silkwave
+│   │       │   └── README
+│   │       └── sslroot
+│   │           ├── keyGen.sh
+│   │           ├── key.pem
+│   │           ├── README.md
+│   │           └── ssl.cnf
+│   ├── jec
+│   │   ├── apps.py
+│   │   ├── cstatasker.py
+│   │   ├── jecjelsensor.py
+│   │   ├── jecsensor.py
+│   │   └── jectasker.py
+│   ├── README.md
+│   ├── user-config-remote-example.yml
+│   └── user-config.yml
+├── build
+├── common
+│   ├── pom.xml
+│   ├── src
+│   │   └── main
+│   │       ├── java
+│   │       │   └── cs
+│   │       │       └── common
+│   │       │           ├── service
+│   │       │           │   ├── CommonCsSettings.java
+│   │       │           │   └── Service.java
+│   │       │           └── utils
+│   │       │               └── SharedDependencies.java
+│   │       └── resources
+│   │           └── META-INF
+│   │               └── beans.xml
+│   └── target
+│       ├── classes
+│       │   └── META-INF
+│       │       └── beans.xml
+│       └── test-classes
+├── docker
+│   ├── jel-sensor
+│   │   ├── collector0.pdw
+│   │   ├── container.sh
+│   │   ├── devx-cfg
+│   │   ├── Dockerfile
+│   │   ├── pom.xml
+│   │   ├── README.md
+│   │   └── templates
+│   │       └── cs-example-jelsensor.properties.template
+│   ├── pom.xml
+│   ├── sensor
+│   │   ├── container.sh
+│   │   ├── devx-cfg
+│   │   ├── Dockerfile
+│   │   ├── example_file.txt
+│   │   ├── pom.xml
+│   │   ├── README.md
+│   │   └── templates
+│   │       └── cs-example-sensor.properties.template
+│   └── tasker
+│       ├── container.sh
+│       ├── devx-cfg
+│       ├── Dockerfile
+│       ├── pom.xml
+│       ├── README.md
+│       └── templates
+│           └── cs-example-tasker.properties.template
+├── dsl
+│   ├── pom.xml
+│   └── src
+│       └── main
+│           └── resources
+│               ├── request.cm
+│               └── response.cm
+├── jel-sensor
+│   ├── pom.xml
+│   ├── sensor-app
+│   │   ├── pom.xml
+│   │   ├── src
+│   │   │   └── main
+│   │   │       ├── java
+│   │   │       │   └── cs
+│   │   │       │       └── jelsensor
+│   │   │       │           ├── CapabilityProvider.java
+│   │   │       │           ├── FileProvider.java
+│   │   │       │           ├── SampleAppConfiguration.java
+│   │   │       │           ├── SendMfCodeGenResponseMessage.java
+│   │   │       │           ├── SensorProvider.java
+│   │   │       │           ├── SensorService.java
+│   │   │       │           ├── SensorServiceSettingsImpl.java
+│   │   │       │           ├── SensorServiceSettings.java
+│   │   │       │           ├── StatusProvider.java
+│   │   │       │           ├── StreamProvider.java
+│   │   │       │           └── telemetry
+│   │   │       │               └── MetricType.java
+│   │   │       └── resources
+│   │   │           ├── app-metadata.properties
+│   │   │           ├── cap.xml
+│   │   │           ├── common-transport-keystore.jks
+│   │   │           ├── common-transport-truststore.jks
+│   │   │           ├── cs-example-jelsensor.properties
+│   │   │           ├── init-scripts
+│   │   │           │   └── cs-example-jelsensor
+│   │   │           ├── log4j2.xml
+│   │   │           ├── META-INF
+│   │   │           │   └── beans.xml
+│   │   │           └── status.xml
+│   │   └── target
+│   │       ├── classes
+│   │       │   ├── app-metadata.properties
+│   │       │   ├── cap.xml
+│   │       │   ├── common-transport-keystore.jks
+│   │       │   ├── common-transport-truststore.jks
+│   │       │   ├── cs-example-jelsensor.properties
+│   │       │   ├── init-scripts
+│   │       │   │   └── cs-example-jelsensor
+│   │       │   ├── log4j2.xml
+│   │       │   ├── META-INF
+│   │       │   │   └── beans.xml
+│   │       │   └── status.xml
+│   │       └── test-classes
+│   ├── sensor-rpm
+│   │   ├── pom.xml
+│   │   ├── src
+│   │   │   └── main
+│   │   │       └── resources
+│   │   │           └── packaging
+│   │   │               └── Linux
+│   │   │                   └── SPECS
+│   │   │                       └── CS-example-jelsensor.spec
+│   │   └── target
+│   │       ├── classes
+│   │       │   └── packaging
+│   │       │       └── Linux
+│   │       │           └── SPECS
+│   │       │               └── CS-example-jelsensor.spec
+│   │       ├── packaging
+│   │       │   └── SPECS
+│   │       │       └── CS-example-jelsensor.spec
+│   │       └── test-classes
+│   └── sensor-zip
+│       ├── pom.xml
+│       └── src
+│           └── main
+│               └── assembly
+│                   └── bin.xml
+├── pom.xml
+├── README.adoc
+├── sensor
+│   ├── pom.xml
+│   ├── sensor-app
+│   │   ├── pom.xml
+│   │   ├── src
+│   │   │   └── main
+│   │   │       ├── java
+│   │   │       │   └── cs
+│   │   │       │       └── sensor
+│   │   │       │           ├── CapabilityProvider.java
+│   │   │       │           ├── FileProvider.java
+│   │   │       │           ├── SampleAppConfiguration.java
+│   │   │       │           ├── SendMfCodeGenResponseMessage.java
+│   │   │       │           ├── SensorProvider.java
+│   │   │       │           ├── SensorService.java
+│   │   │       │           ├── SensorServiceSettingsImpl.java
+│   │   │       │           ├── SensorServiceSettings.java
+│   │   │       │           ├── StatusProvider.java
+│   │   │       │           └── StreamProvider.java
+│   │   │       └── resources
+│   │   │           ├── app-metadata.properties
+│   │   │           ├── cap.xml
+│   │   │           ├── common-transport-keystore.jks
+│   │   │           ├── common-transport-truststore.jks
+│   │   │           ├── cs-example-sensor.properties
+│   │   │           ├── init-scripts
+│   │   │           │   └── cs-example-sensor
+│   │   │           ├── log4j2.xml
+│   │   │           ├── META-INF
+│   │   │           │   └── beans.xml
+│   │   │           └── status.xml
+│   │   └── target
+│   │       ├── classes
+│   │       │   ├── app-metadata.properties
+│   │       │   ├── cap.xml
+│   │       │   ├── common-transport-keystore.jks
+│   │       │   ├── common-transport-truststore.jks
+│   │       │   ├── cs-example-sensor.properties
+│   │       │   ├── init-scripts
+│   │       │   │   └── cs-example-sensor
+│   │       │   ├── log4j2.xml
+│   │       │   ├── META-INF
+│   │       │   │   └── beans.xml
+│   │       │   └── status.xml
+│   │       └── test-classes
+│   ├── sensor-rpm
+│   │   ├── pom.xml
+│   │   ├── src
+│   │   │   └── main
+│   │   │       └── resources
+│   │   │           └── packaging
+│   │   │               └── Linux
+│   │   │                   └── SPECS
+│   │   │                       └── CS-example-sensor.spec
+│   │   └── target
+│   │       ├── classes
+│   │       │   └── packaging
+│   │       │       └── Linux
+│   │       │           └── SPECS
+│   │       │               └── CS-example-sensor.spec
+│   │       ├── packaging
+│   │       │   └── SPECS
+│   │       │       └── CS-example-sensor.spec
+│   │       └── test-classes
+│   └── sensor-zip
+│       ├── pom.xml
+│       └── src
+│           └── main
+│               └── assembly
+│                   └── bin.xml
+├── src
+│   └── main
+│       └── resources
+│           └── version.txt
+├── tasker
+│   ├── pom.xml
+│   ├── tasker-app
+│   │   ├── pom.xml
+│   │   ├── src
+│   │   │   └── main
+│   │   │       ├── java
+│   │   │       │   └── cs
+│   │   │       │       └── tasker
+│   │   │       │           ├── FileConsumer.java
+│   │   │       │           ├── SampleAppConfiguration.java
+│   │   │       │           ├── SendMfCodeGenConversation.java
+│   │   │       │           ├── SendMfCodeGenRequestMessage.java
+│   │   │       │           ├── StreamConsumer.java
+│   │   │       │           ├── TaskerProvider.java
+│   │   │       │           ├── TaskerService.java
+│   │   │       │           ├── TaskerSettingsImpl.java
+│   │   │       │           └── URIsRequestHelper.java
+│   │   │       └── resources
+│   │   │           ├── app-metadata.properties
+│   │   │           ├── common-transport-keystore.jks
+│   │   │           ├── common-transport-truststore.jks
+│   │   │           ├── cs-example-tasker.properties
+│   │   │           ├── init-scripts
+│   │   │           │   └── cs-example-tasker
+│   │   │           ├── log4j2.xml
+│   │   │           └── META-INF
+│   │   │               └── beans.xml
+│   │   └── target
+│   │       ├── classes
+│   │       │   ├── app-metadata.properties
+│   │       │   ├── common-transport-keystore.jks
+│   │       │   ├── common-transport-truststore.jks
+│   │       │   ├── cs-example-tasker.properties
+│   │       │   ├── init-scripts
+│   │       │   │   └── cs-example-tasker
+│   │       │   ├── log4j2.xml
+│   │       │   └── META-INF
+│   │       │       └── beans.xml
+│   │       └── test-classes
+│   ├── tasker-rpm
+│   │   ├── pom.xml
+│   │   ├── src
+│   │   │   └── main
+│   │   │       └── resources
+│   │   │           └── packaging
+│   │   │               └── Linux
+│   │   │                   └── SPECS
+│   │   │                       └── CS-example-tasker.spec
+│   │   └── target
+│   │       ├── classes
+│   │       │   └── packaging
+│   │       │       └── Linux
+│   │       │           └── SPECS
+│   │       │               └── CS-example-tasker.spec
+│   │       ├── packaging
+│   │       │   └── SPECS
+│   │       │       └── CS-example-tasker.spec
+│   │       └── test-classes
+│   └── tasker-zip
+│       ├── pom.xml
+│       └── src
+│           └── main
+│               └── assembly
+│                   └── bin.xml
+└── tree_example.txt
+
+155 directories, 177 files
