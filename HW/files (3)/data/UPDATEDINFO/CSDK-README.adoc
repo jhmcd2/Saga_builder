@@ -1,0 +1,207 @@
+= CSDK Distribution and Installation
+
+== Distribution Contents
+
+The Common Services Development Kit (CSDK) is distributed as three .zip files containing:
+
+  * csdk-dist-2026-03-main.zip:
+  ** csdk-build-dependencies-2026-03.zip, which contains
+  *** directory `repository`, the Maven repository of dependencies, tooling, and documentation
+  *** `install_csdk_artifact.sh`, a Bash script that extracts individual components from the Maven repository
+  *** `deploy-pom.xml`, a Maven POM that deploys the contents of the repository to the recipient's Maven server
+  *** `README.md`, which contains information on how to deploy the Maven artifacts with the above file.
+  *** This set of instructions
+  * csdk-dist-2026-03-docker-app.zip
+  ** csdk-docker-app-2026-03.tgz, an archive of Docker images containing applications used in conjunction
+  with CSDK (see below)
+  * csdk-dist-2026-03-docker-dev.zip
+  ** csdk-docker-dev-2026-03.tgz, an archive of Docker images for Common Services application development
+  (see below)
+
+=== The Maven Repository Archive
+
+This archive contains everything that is not distributed as a docker image.
+This includes Micro Format and Message artifacts, applications, example source code, and maven build dependencies.
+
+Maven Archive Contents: **csdk-build-dependencies-2026-03.zip**
+|===
+|Group|Type|Use
+
+|MFCodeGen                          | zip | A tool for generating code from Micro
+                                            Format and Message Definition files
+|MFSign                             | zip | A tool for digitally signing and validating messages
+|CS Java API                        | bom | A Java API that greatly simplifies the 
+                                            creation of an AOCO Common Services Application
+|CS CLI                             | bz2 | The hub for CS tooling
+|CS Build Dependencies              | directory	| CSMF, 2nd and 3rd party build dependencies 
+|Java Example Code                  | zip | A Maven Project that creates an example CS sensor 
+                                            and CS tasker built with the MFCodeGen and the CS Java API.
+|ORCA                               | bundle | A Git-based packaging of CSMF artifacts
+|PyCS Distribution                  | zip | Distribution of the PyCS project, including the SILKWAVE transport, CSMF
+generation, a PyCS client, a tutorial, and two sample projects, rfextgeo and imagery
+|===
+
+NOTE: The CSDK currently includes the latest AOCO Common Services Micro Format and Message artifacts.
+Both ratified and draft artifacts are included and can be found in the CSDK at the maven repository coordinates mentioned below.
+In the future, ratified artifacts are expected to be delivered separately by AOCO and the cadence of that delivery may **not** match CSDK releases.
+For more information about Micro Formats and Messages, see xref:csdk:ROOT:cs-java-api-doc.adoc[the CS Java API documentation that is included with CS Docs].
+
+Maven groupId for AOCO Common Services Micro Format and Message artifacts:
+[source,syntaxhighlighter-pre]
+----
+<dependency>
+  <groupId>aoco-common-services.messages</groupId>
+</dependency>
+
+<dependency>
+  <groupId>aoco-common-services.mf-domains</groupId>
+</dependency>
+----
+
+=== Docker Package
+
+The Docker packages contain dockerized applications which support building and testing using the CSDK.
+
+The Docker Apps Package: **csdk-docker-app-2026-03.tgz**
+|===
+|Image | Use
+
+|cs/csbase | Base image used to build the Java Example Code and the sensor simulator
+|cs/aoco-cs                       | AOCO Common Services
+|silkwave-ir                      | Transport layer application
+|cs/cssim                         | Sensor simulator used in various Common Services testing scenarios
+|cs/cssim-ui-server               | Web server application that creates a 'front end' for configuring the sensor simulator (cs/cssim)
+|jet                              | JICD Edge Transport (JET) application
+|jetwave                          | JET to SILKWAVE bridge application
+|===
+
+The Docker Dev Package: **csdk-docker-dev-2026-03.tgz**
+|===
+|Image | Use
+|cs/csbuild                       | Image with software needed to compile Java Example Code
+|cs/cs-cli                        | CS CLI "companion" image containing additional functionality
+|cs/xray                          | Standalone web server that provides the analysis functions of `cs-cli xray` without requiring configuration
+|cs/csta                          | Testing framework used to create and execute CS application test cases
+|===
+
+
+== Installation
+
+The expected use of the CSDK is to host all provided artifacts in shared servers.   Maven artifacts would be uploaded to a maven artifact server (ie: nexus, artifactory), Docker Images would be pushed to a shared docker registry (harbor, nexus, artifactory), and documentation would be hosted by a static web server.
+
+It is also possible that the CSDK is only deployed to local maven & docker repositories on a single host.
+
+=== System Requirements to Deploy CSDK
+
+- Maven 3.8+ (tested with 3.8.6)
+- Docker  (v20+, tested with 20.10.9) (make sure docker is running)
+- unzip
+- rpmbuild
+
+=== 1. Readying for Installation
+
+Unzip the files `csdk-dist-2026-03-{main,docker-app,docker-dev}.zip` to a temporary directory. Directory `/tmp` will be assumed for the remaining instructions.
+(If you're reading this, at least -main has already been unzipped!)
+
+=== 2. Install the Docker Images
+
+The docker images can be deployed using the script: *deploy_csdk_images.sh*
+
+Run the script with no command line options to show usage.
+
+examples:
+
+Load the images into the docker registry on the host system without rename.
+
+`./deploy_csdk_images.sh -l`
+
+Load the images into the docker registry on the host system, changing the registry name from "company.docker.registry" to <target registry>.
+(Add -p to push the images to the <target registry>)
+
+`./deploy_csdk_images.sh -l -r <target registry>`
+
+NOTE: Docker images are named with the following format: <registry>/<image name>:<version>. Since the receiving organization's target <registry> is unknown, the included images have their registry component set to "company.docker.registry".
+
+==== 2.a. Recommended - Make Docker Images Available to All Users
+
+To share, images need to be pushed to a centralized docker registry.
+
+To load and push all images to the receiving organization's registry:
+
+``./deploy_csdk_images.sh -l -r <target registry> -p`
+
+NOTE: the tar.gz file can now be deleted.  Docker images are loaded in the local registry.
+
+=== 3. Install Maven Dependencies
+
+NOTE: The current distribution assumes the user has Maven setup properly, with a settings file that is configured to pull 3rd party dependencies from maven-central (or more likely, a proxy to maven-central).
+```
+cd /tmp/csdk-dist-2026-03
+unzip csdk-build-dependencies*.zip
+cd csdk-build-dependencies-2026-03
+```
+
+==== 3.a. Recommended: Install Maven Dependencies for All Users
+
+_This folder contains a README.md, a Maven POM for loading dependencies into a Maven repository, and a source Maven repository the script uses for installation.  Please see the README.md for more details._
+
+`mvn -f deploy-pom.xml -Durl=<repository url> -DrepositoryId=<repository id> deploy`
+
+_where repository id matches id of server defined in settings.xml with the correct deployment credentials_
+
+==== 3.b. Alternative: Install Maven Dependencies to a Local Repository
+
+To deploy to the local repository on the host system (assuming the host repository is in: `/home/user/.m2/repository`)
+
+`mvn -f deploy-pom.xml -Durl=file:///home/user/.m2/repository deploy`
+
+==== 3.c. Install Individual CSDK Artifacts
+
+The folder also contains a helper script that extracts artifacts from the Maven repository, `install_csdk_artifact.sh`. Usage information and a list of target artifacts can be shown by running the script without arguments.
+
+For example, to install the Common Services Command Line Interface, assuming the script is placed on the host machine's execution path:
+
+`install_csdk_artifact.sh cs-cli`
+
+The script will attempt to locate its target in the user's local configured Maven repository. If it does not find it, it will attempt to have Maven fetch it from the configured Maven server. It can also be passed the option --repo in order to specify the location of a repository that contains the artifacts. The repository included in the CSDK distribution is a valid target for this directive.
+
+=== 4. Access Documentation
+
+The documentation package is contained in a .zip file distributed separately from the CSDK distribution. To access the documentation, in a web browser, open the file:
+
+`/path/to/folder/cs-docs-site-X.X.X/public/index.html`
+
+
+=== 5. Install Java Example Code
+
+The Java Example Code is a Maven project that creates example common service applications.   The goal is to be able to build and execute.
+
+To get a copy of the Java Example Code, perform the following command:
+
+`install_csdk_artifact.sh java-example-code`
+
+
+_This extracts the Java Example code source out of the Maven repository into a folder on the local system._
+
+See the xref:csdk:ROOT:java-example-code.adoc[Java Example Code documentation] for more details on building and using the Java Example Code.
+
+==== 5.a. Recommended:  Make Java Example Code Available to All Users
+
+It is expected that Java Example Code source will be pushed to the receiving organization's source control system.  This is implementation-specific depending on the source control framework used by the receiving organization. The extracted project already includes a Git repository with the initial contents of the project. In order to add a remote, the user can execute the command:
+
+`git remote add origin [server url here]`
+
+The URL should point to a blank repository that can be pushed to in order to initialize the Git project.
+
+== Installation of Additional Items
+
+=== CS CLI
+
+CS CLI is an application that consolidates a variety of CS tools and processes into a single application. This
+application is expected to be installed on every developer's workstation. It can be installed with the command
+
+`install_csdk_artifact.sh cs-cli <architecture>`
+
+where architecture is either `linux-amd64` or `darwin-arm64` as appropriate for the user's system. This creates the binary executable for the distributed version of CS CLI in the current directory.
+
+Further installation details for CS CLI are described in the xref:cs-cli-install.adoc[CS CLI Installation Guide].
