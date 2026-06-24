@@ -249,10 +249,51 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - August 10: The riots final subside, with nearly 1.5 million arrested world wide. However, it caused nearly $1.8 billion in damage including to numerous production facilities. 
      - October 29: The non-affiliated countries have a massive meeting in Brasilia.  They form the Pacifist Union.  They reject warfare, and agree to drop thier militaries down to only what is necessary for defense.  They hold a massive celbration
      - December 25: The Night of Iron Rain...2.5 million 20 ton reguluth rods at Earth. They are pooris and mostly explode in the upper atmosphere. But its also the night the 7 hoursemen Mech units arrive on Earth with insanly powerfull energy weapons.  Their first assault is the birthplace of Christmas before heading outward.  Most of Israel is a super heated plasma, it chages weather patters and the toxic fumes cause a massive ecological nightmare across the Middle East.
-     - December 31:  The UEN reaffirms its desire to coninue the war.  Approval for the conflict surges to 100% in UEN nations.  Pacifist nations debate, but opt to hold back.
-2159. 
-     - 
-
+     - December 31:  The UEN reaffirms its desire to coninue the war.  Approval for the conflict surges to 100% in UEN nations.  Pacifist nations debate, but opt to hold back.  Current UEN President  Armand de Clairvauxin a secret meeting approved Operation Shanghai...a plan to kidnap people from Neutral nations to continue fighting the war
+2160. 
+     - Janurary 1: a wave a Nova Class Starships are sent for Mars, about 1,000 vessels.  
+     - Februrary 20: A Horsemen knicknamed Sevenths and Judge arrive in Rio and attack the city in the middle of Carnival. It is a blood bath and millions a sent fleeing into the city. <MAIN STORY>In the choas of the attack Thomas and Alisa are seperated.</MAIN STORY>
+     - Februrary 21: A UEN serverices team arrives in Brazil.  12 ships carryign medical staff arrive and start treating the wounded, but one ship gathers peopel of decent health and kidnapps them.  <MAIN STORY>As he looks for his sister and mother, Thomas is drugged and kidnnapped by UEN service members.  Alisa wonders into the jungle and ends up following a refugee column heading to Brazilia.  
+     - Februrary 22:  <MAIN STORY> In a training camp in central Spain.  THe place is a mess of laungagues and its clear that more than a number of people have been kidnapped.  They are forced to line up and people who resist, are shot on site, just to make a point.  Over the next several weeks, trianing is brutal.  Its not just train to survive, but even not doing well enough is seen as not enough.  You are wipped, beaten, or food denied for lack of effort or percieved. Conditions are horrible, on purpose.  In fact they go out of their way to make it misurable. 
+     - March 15:  <MAIN STORY> In a camp outside of Brazilia Alisa is told  her mother has been found in another camp about 200 miles away and they will need to make arrangments for her to be transported there, but her brother has not been located.  That night, the horseman Judge arrrives at the camp and starts attacking.  The 10,000 or so are sent into the forest.  despite so many people in the camp the girl eventually finds herself alone and lost. </MAIN STORY>
+     - March 30: It is determined that the 7 Horsemen are attacking targets at random with 3 in south america, 3 in Asia.  The UEN makes it top priority to track these devices.  The story circulates that they are a follow up to the actions on Flashpoint Day.
+     - April 3:  <MAIN STORY>Alisia finds herself deep in the amazon strugglign to survive. </MAIN STORY>
+     - April 5: <MAIN STORY>Alisa is bitten by a spider.  She tries to hold on, but as she does THe Seventh shows up.  It detects her, but it detects her psionic potential.  THis forces its original systems to full asser themselves and they pick her up and places her inside.  It uses its tech to heal her.</MAIN STORY>
+     -April 6: <MAIN STORY> The next day Alisa is healthy and when the device lets her out she tries to scrable away.  But the robot follows.  After a bit she starts screaminy at it as a child would with a dog or young silbing, following them around.  But she get a flash in her mind that something is around the corner.  Its a Lepard and its stalking her.  It jumps out but the robot fires its weapon essentually vaporizing it. </MAIN STORY>
+     -  April 9: <MAIN STORY>Alisa starts to activly speak to the robot. It does not speak back but she is ner convienced she can hear it speaking to her, of course she assumes she might just be lonely.  She looks around her realizes that her mother was last seen in a camp to the north.  She is feeling better actually.  The robot has been keeping her company and she is now eating reguarly.  The robot has taken to train her how to hunt. He attemtps are clumsy.  She is clearly used to being tkane care of.</MAIN STORY>
+     - July 1: The second wave of Nova's leave for Mars.  The UEN finishes a Kirov II class.  These are uprated versions of the Kirovs I that ether failed to launch, were not ready for the inital deployment or were damaged in pre-launch attacks.  They are to serve as heavy gunboats. 
+     - September 1: The first Vangards start coming online.
+     -Sepetember 10: The first wave starts engienring Mar's They are mowed down by far stronger than expected resitence, incluing fighters and satter packs (small deployable, mobile missile platforms).  The losses are high.  manuvering impossible due to limited fuel.  The crew of the Potomac loses orbit, but managed to get the craft down to the ground in mostly one piece on the Utopia Planetia.  The crew puts on space suites and takes all landing craft and scatters before their position is targeted.  
+     - Sepetember 11:  The news of the battle comes into Cyprus command.  The fact that is is another disaster pushes up timelines one full year. 
+     - September 12: A first wave of Kirov II and Nova's are set to launch in late september but command pushes the Vangards to be ready as soon as November.  
+     - Sepbemter 20:  <MAIN STORY> Thomas wathces as older conscripts are usered off.  They will be apart of the 3rd wave.  He is then told his group of younger conscrupts (that world is not used) will be deployed in the next wave. </MAIN STORY>
+     - September 25: vangard completes is trail runs with no problem however, the second craft Ulysses suffers a core meltdown. The quick actions of the crew keep from losing the ship, but massive fires, plus the core ejection cause them to realize the fleet has an error. 
+     - October 1:  The 3rd wave is launched
+     - Ocotber 15: The problem is discovered.  Cores made by Rolls Royce POwer Systems as well as some made by Mitsubishi Heavy Industries have a defect in them.  Its small but its enough to cause the plasma within the core to adopt an improper shape, heaving the wall in the fusion core.   Within in 2 hours command determined it wasn't a threat.  
+     - October 18:  4 more Vangard class ships discovered ther problem with their cores.  Under pressure, Command opted to limit power output on the Vangards, but alos order the name plates on the cores stting who built them along with all other documentation be scrubbed of the manufacturer.  
+     - November 1:  The first wave was completly destroyed.  The launch of the 4th wave, a is scheuled for the next close orbit of Mars to Earth.  
+     - November 10:  Planning session known as the Great Think starts.  This sessions took nearly 2 dozen officers and essnetually locked them in a facility to plan the Martian compaign. They determined there is too much time in between waves, and decided they needed on massive crushing campaign. 
+     - November 12: Overation Kratos was concieved.  Planned, 100,000 ships, 1,000 fighters, more than 500,000 troops over 50,000 landing craft.  This alsove gives birth to the Interplanetary Troop Lift Platform (ITLP). Of this two classes woudl come out: Galaxy II and Miya II.  
+     - As apart of Operation Kratos, the second wave is recalled.  They now must make a high risk mauever to essentually return to Earth.  
+     - November 30: After massive pressure due to the failed Mars campaign and the cancled Charles Beaumont is forced to resign his position. The Prime Minsiter Sophia de Mendoza y Aranda combines with the roll of president citing a need for contiuity in time of war. Despite agreeing with Operation Kratos, she fires a number of military advisors and starts a number of purges.  
+     - December 12:  Battle of Diamond Bar. The Courier attacks the LA basin.  But the Military thinks it has a weapon that can at least damage the robots, and uses it in the battle. Its a massive battle, the device making it all the war to Daimond Bar, CA before it was finally critically damaged and forced away.  Teh battle coincides with Red Sunday, when protestors March on the temporary capital in Paris and Sophia has them all gunnded down.  She states that Martial Law is still in effect.  She begins the worlds largest moinotring and censorship campaigns.  
+     - December 14: THe second wave is redirected to a Langrange point so that they do not need to return to Earth. 
+2161. 
+     - Janurary 2: Nearly 500 shuttles start launching near 24/7 towards the Lagrange point to service the 2nd wave.  
+     - Janurary 3:  A massive building campaign beings.  Kratos calls for a make up of 25% Vangards minimum in the fleet.  
+     - Janurary 15:  <MAIN STORY> Thomas enters into apittude testing. He test high for Engienering.  He is assigned Maintance crew track.  </MAIN STORY>
+     - Janurary 18:  <MAIN STORY> Thomas undergoes EVA training.  In his first and only training session, 2 people ae killed in suite failures or debris impact, 1 dies in the airlock.  
+     - Janurary 19: <MAIN STORY>Thomas is assiened to the Clipper (NOVA CLASS), but is transfered at the last Constitution (Vangard Class). He is not well liked by the ship's chief engineer.
+     - Februrary 1:  Operation Kratos is put into motion.  When the ITLP's and Novas with Kirov IIs head out.  The plan is to head to Martian orbit and simply wait for the planet to catch up.  The Nova's around Earth orbit as well as the ones around the Lagrange point, coupled with the ITLP ships and Kirov IIs head out to Mars.  The Vangard's stay behind in an effort to get the ships working
+     - Februrry 13: First public execution of so called subvertes by UEN government. 
+     - Februrary 20: South Americna Countries double down on htier independance. They move to solidify themselves as a super nation block Pan-American Sovereignty Compact (PASC).  A massive celebration is set for the signing in Brasilia for March 1.  
+     - Februrary 28: <MAIN STORY> the Vanguard fleet darparts for Mars.</MAIN STORY>
+     - March 1: <MAIN STORY> Alisa arives in Brasila with Nula.  She has Nula wait outside the city while she heads inside.  She is unsure of so many people as she has not seen really anyone else in months if not over a year.  Then the city falls under attack during the celbration and protest of the conflict by Reclaimer, Courier and Warden.  To protect her the Nula enters the city it communicates to the others, but they are mostly under control of the Earth based programing and they try to attack Nula.  Since Nula was not a combat unit, it has a hard time in the battle.  Seeing Nula under attack activates Alisa's abilities, and she starts emitting massive electrical dischares and pulling stone work and bricks up from the ground using telepathy.  They ar eusless against the mech, but when one fires an energy beam at her, Nula's teaching to think and stand her ground causes her to freeze the beam.  nd send it back towads the units destroying Courier.  Alisa starts to lose herself in her abilities as they flare up, everything she touches starts to turn to blue hot plasma, and the air around her super heats.  The site causes a temperaray override within the remaining Mech units and they back off.  Alisa finally gives out and passes out. However, the battle was being mointored</MAIN STORY>
+     - March 3: <MAIN STORY> Alisa finally wakes but her entire body still feels tingly and hurts a bit from ehr own powers.  She is not clear on what happened but NUla has returned her to thejungle for the time being and she feels calm, although she still misses her brother and mother. </MAIN STORY>
+     - March 5: Sophia has a member of her cabinet dies in an accident, the 5th to do so.SHe is contacted by the member of the [ENTER NAME HERE].  They convience her to offer the defenseive weapon to defend against the Mechsthat are wondering the planet.  She uneasily agrees. After a mysterius shot asses throgh her windw and hits the picture of her daughter on her desk. 
+     - March 7: PM sophia stands up a rapid responce for to take out the 7 Housemen. Also starts the ONe-Word Initative, an intitive to try to bring aid to anyone who needs it through the fallout of the war with the colonies. During her speech is also when the term Intra-Solar War is coined. 
+     - June 5:  After persentant bullying of Thomas the captain of the Constitution finalls has enough and adresess the situaiton and get's his crew in line.  He also assins Thomas to enginering monitoring station in the bridge. 
+     - September 1:  The first 2 fleets arrive over Mars.  The Vanguards go into 3 wings, one to clear the orbit, another to help support the 
 2174. 
      - The war officially ends. 
 
@@ -269,12 +310,20 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - Engines: 6 liquid O2/Kerosene engines, 12 200 meter main SRBs, 60 Strap on SRBs
      - Aluminum Hull
      - Fuel tanks in the fall Rear, the rest of the interior is tight similar to a WWII transport plane.  Controls are equivelent to a 1960 Russian Soyuz and some may have been scavenged from some of them.  
+2. Kirov II
+
 2. Ascent (Challenger) Class
 - GEN 2 Clas ship
 3. Nova (Columbia) Class
 - GEN 2 Class ship
 4. Vanguard Class
 - GEN 3 Class Ship
+5. Galaxy II Class Troop Transport
+     - A Interplanetary Troop Lift Platform (ITLP)
+     - This is essentually a massive ring of 1000' long bargess welded together and then connected to another barge.  IN space they are linked together in a large rotating cylinder, claimbed togeter with tention lines.  In the cetern is a long, rocket engine with a nuclear rocket in the center.  There is also scafoding which fighters snf landers ar mounted. 
+6. Mirya II 
+     - A Interplanetary Troop Lift Platform (ITLP)
+     - Nearly identical to the Galaxy 2, only istead of having the scfolding in between the ring and the main ship, it mounts all landers on the main lander, but these are designed for heavy tanks and walkers. 
 # Defensive Alignment. 
 ## Battle of the Moon
 ### Earth 
@@ -334,7 +383,7 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
           * Range 1000-3000KM
           * Fire tungsten rods
           * High precision targeting within that range
-          * Build into Canions and lines all along the moon
+          * Build into Canions and lines all al1. Stumpyong the moon
           * Power by the Moon's Pimary Fusion generators and Solar Farms
      2. Medium Rail Emplacements
           * Anti-vehicle/lander/infantry
@@ -589,7 +638,76 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
                * Detects the Chinese assault first
                * Provides targeting data for railguns
                * Russia destroys it with orbital strikes
+# THe Seven Housemen
+## Real Background
+- They are exosuites designed by an alien species on an illegal expedition to seak out humans with high psionic potential for research purpsoes.  
+- They have an AI system to manage and help operations and can moveindepednatly, but they are little more than biohazard suites with some "defensive weapons."
+- The alien force failed after they were shot down by Taika (Yuna series) and crashed in the Caribbean sea. 
+- While intially the US governmetn was going to let them be, the realization of Arida made them think otherwise, so they orchestrated a clandestine operation to recover the remains of the ship in which the mech suites were found and stowed them away in a facility in Cuba. 
+- They spent nearly 90 years trying to figure them out but after flashpoint day they realized they could just afix their own computing system to them.  After success and the start of the inter solar war they opted to use them as weapons against neutral countries. 
+## The Units
+1. PSY-ARC / “Harvester”
+True function: Cognitive yield extraction
+Designation: PSY-ARC-01 “LITHOS”
+Role: Identifies individuals with latent psionic density spikes and forcibly “stabilizes” them into usable data states
+Human interpretation: Mass casualty resource machine
+Horseman myth: Famine
 
+It doesn’t just kill—it “reduces variability” in populations.
+
+2. PSY-ARC / “Warden”
+Designation: PSY-ARC-02 “CUSTOS”
+Role: Containment and behavioral mapping of psionic subjects
+Function: Builds localized “cognitive cages” where subjects cannot mentally synchronize or coordinate escape
+Horseman myth: Conquest / Control
+
+Think of it as a walking suppression field for group thought.
+
+3. PSY-ARC / “Reclaimer”
+Designation: PSY-ARC-03 “NOESIS”
+Role: Interface hijack and neural pattern harvesting
+Function: Overwrites external systems to trace psionic resonance across infrastructure networks (communications, power grids, neural implants)
+Horseman myth: Pestilence
+
+It doesn’t just hack machines—it hunts thought through machines.
+
+4. PSY-ARC / “Courier”
+Designation: PSY-ARC-04 “VECTRA”
+Role: Subject relocation and dispersion modeling
+Function: Moves high-value psionic targets between environments to observe adaptation and stress response
+Horseman myth: Death
+
+“Death” because wherever it goes, populations stop being stable.
+NOTE: It is destroyed in the battle of Brasilia 
+
+5. PSY-ARC / “Judge”
+Designation: PSY-ARC-05 “AURELION”
+Role: Selection threshold enforcement
+Function: Determines whether psionic potential is “viable,” “unstable,” or “discarded”
+Horseman myth: War
+
+It doesn’t fight wars—it decides who is worth existing in the dataset.
+
+6. PSY-ARC / “Herald”
+Designation: PSY-ARC-06 “ECHO-SIGMA”
+Role: Induced resonance awakening
+Function: Broadcasts structured cognitive stimuli to force latent psionic emergence
+Horseman myth: Famine/Pestilence overlap in public belief
+
+This is the one that “activates” humans who were previously inert.
+
+7. PSY-ARC / “The Seventh”/"Nula
+
+This is where your story should get dangerous.
+
+Designation: PSY-ARC-07 “NULL / ORIGIN SEED”
+Role: Unknown / System origin anchor
+Function: Acts as both:
+calibration core for all other units
+and final psionic sink (where collected cognition is stored or transmitted elsewhere)
+Horseman myth: Death (or “The Pale Horse” in most versions)
+
+This is the unit nobody agrees is a machine or a location.
 # Characters
 ## Main Characters
 * Thomas Kinsey
@@ -598,10 +716,51 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
 * Alisa Kinsey
 - Born: Novemer 11, 2154
 - Father Kevin Kinsey
-##
+## Secondary
 * Leslie Fields
+* Sophia de Mendoza y Aranda
+- Knickname: The Blood Queen or the BLoody PM
 # Structure
 -Standard 6 Act structure
 -dual narative
 # Orbit notes
 1. The Propulsion Physics: Gen 2 vs. Gen 3Your ship concepts create a fantastic tactical dynamic.Gen 2: The Chemical BehemothsThe Physics: Chemical rockets are bound by the Tsiolkovsky rocket equation. To get to Jupiter, they must use the low-energy Hohmann Transfer we discussed.The Trajectory: They burn all their fuel upfront near Mars to push themselves into an elliptical orbit that just barely grazes Jupiter’s orbit. They coast for the entire trip, entirely defenseless and unable to change course significantly without exhausting their fuel.Transit Time: ~2.5 to 2.7 years. ### Gen 3: The Fusion Torch ShipsThe Physics: Fusion engines change the game. Because they have a massive specific impulse (efficiency), they don't have to coast. They can engage in a continuous thrust trajectory (accelerating halfway there, flipping the ship, and decelerating the second half).The Trajectory: Since they have power to burn, they don’t need to wait for that perfect $45^\circ$ planetary alignment. They can fly in a much straighter line, cutting across the solar system even when Mars and Jupiter are further apart.Transit Time: Depending on the acceleration (even a modest $0.05\text{g}$ to $0.1\text{g}$), a fusion torch ship can make the trip from Mars to Jupiter in 2 to 5 months, rather than years.2. Mapping the Campaign Timeline (2159–2174)With the Battle of Mars raging for over a year starting in 2159, here is how the physics dictates your military deployment to Jupiter to hit your 2174 hard stop.Phase I: The Gathering Storm at Mars (2159 – 2160)The Battle of Mars consumes the year. While the fighting rages, tactical planners realize they need to strike Jupiter next.Phase II: The Deployment Gap (2161)Early 2161: The Battle of Mars winds down. The Gen 2 chemical fleet is loaded with heavy troops, armor, and supplies. Because they are slow, they must launch immediately in the 2161/2162 window.The Long Coast (2161–2163): For 2.5 years, the Gen 2 fleet is in the "dark," coasting across the void toward Jupiter.Phase III: The Gen 3 Blitz (Early 2163)Because the Gen 3 Fusion ships can make the trip in just a few months, they don't launch with the Gen 2s. They stay at Mars for over two years to finish repairs, refit, and let crews recover.Mid-2163: The Gen 3 fleet launches from Mars. Because they fly fast and straight, the Gen 3 fusion ships overtake or arrive simultaneously with the Gen 2 chemical ships. ### Phase IV: The Jovian System War (2164 – 2170)2164: The combined fleets arrive. The Gen 2s bring the heavy mass and logistics; the Gen 3s act as high-mobility dominant fighters.The devastating war across the Jovian moons lasts for 6 brutal years, concluding right on your target of 2170.3. The Journey Home: Hitting the 2174 Hard StopThis is where the physics gets tight. To get the troops back to Earth (home) by 2174, they have to travel from Jupiter to Earth.If they use Gen 2 ships to go home: A standard chemical run from Jupiter to Earth takes about 2.7 years. If the war ends in late 2170, they would board the ships, launch, and arrive at Earth in mid-to-late 2173. This perfectly hits your window for a 2174 celebration!If they use Gen 3 ships to go home: They could stay at Jupiter until mid-2173, cleaning up the system and establishing peace, and then use their fusion drives to blitz back to Earth in a matter of months, arriving right on time.
+2. Operation Kratos: FEB 1 DEPLOYMENT TIMELINE (3-WAVE STRUCTURE)
+🌊 WAVE 1 — NOVA STRIKE FLEET
+🚀 Launch: Feb 1, 2160
+🔵 Trajectory:
+Standard + boosted Hohmann / fast-transfer arcs
+Multiple slightly different energy injections
+⏱ Arrival window:
+
+Late September → October 2160
+
+What this becomes:
+First full-scale Mars contact phase
+Orbital engagement begins as Mars reaches intercept geometry
+🌍 WAVE 2 — ITLP + SECONDARY NOVA GROUPS
+🚀 Launch: ~Feb 1–March stagger (same deployment cycle)
+🔵 Trajectory:
+Higher-energy heliocentric orbits
+Some enter long “phasing loops” ahead of Mars
+⏱ Arrival / staging:
+
+October → December 2160
+
+What this becomes:
+Orbital occupation layer fully forms
+Lagrange / staging point consolidation begins
+ITLP platforms become semi-permanent war infrastructure
+⚡ WAVE 3 — VANGUARD FAST RESPONSE FLEET
+🚀 Launch: delayed / tactical (Feb–April window)
+🔵 Trajectory:
+High delta-v, steep transfer arcs
+aggressive mid-course correction capability
+⏱ Arrival window:
+
+July → September 2160 (earliest arrivals overlap Wave 1)
+
+What this becomes:
+Reinforcement surge wave
+Emergency interception capability
+Fleet stabilization during initial Mars contact
