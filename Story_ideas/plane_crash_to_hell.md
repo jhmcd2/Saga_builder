@@ -1,0 +1,7 @@
+# CHaracters and PLot
+1. Herald Green
+- Role: Main Character
+- Age: 34
+- intial plot:  A man when he was younger was nice to this girl who had a hard life.  Then one day she took advantage of him by drugging him.  She then claimed latter that he was the father, but she had a reputation for sleeping around. While he was willing to accept responsibility she refused a DNA. The reality was his family was wealthy. She eventually gained soul custody, and then ended up fleeing to our stand in for Dubai. The entire time she was jsut trying to extort money from his family, the child was enver his and he was fully aware of it. But the situation left him pretty heavily scared and still effects him to this day.  That was roughtly 13 or 14 years ago.  Today he is an executive at a fast foot company based out of NYC, when she comes calling for help once more. He is on the fence if he should help her, but old habits die hard. 
+- He has never dated since then and has no trust of woman.  He won't even stay in the same room as them.  The problem is that its effecting his company as he turned down a woman for an exec position despite her experience.  She sued.  He managed to dodge a real lawsuite, but in thearapy the root cause was identified.  This just happenes to be when his old girlfriend calls. 
+- Things to note: He starte dreading exetential horror novels when he was a kid, saying they used to scare him back then, now they just are a curiosity.

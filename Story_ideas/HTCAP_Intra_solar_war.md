@@ -17,7 +17,7 @@ starting in 2150, The instra-solar war begins when a group of Lunarian terrorist
 4. Major engagements
 - Battle For the moon:  The battle is the first conflict and happens with Gen 0 ships.  The battle last nearly 100 days at a cost of 80 million. Losses are extremly high.  This is officially the first battle to ever occure in space in human history. While Drone tehc is used, due to it being extremly easy to disable the craft human craft are heavily used, and they are jsut retrofit planet based weapory.  Also physicas plays a major roll.  Ships are often lost to space or they crash on the moon's surface.  Weapons oftne cause explosive decompression as these craft are about as durable as the ISS.  Debris from other ships often cause more damage than enemy weapons.  Just firing weapons can often result in the last of a craft. Casualties Lunarian 55%  Earth 95%
 - Battle of Mars: A 350 day engagement.  Earth's strategy:  A 3 pronged attack.  Send in a wave of two sets of ships. The first set are there to clear out resitence, the second will drop troops ontro the ground to mop up resitance.  The 3rd group holds bakc and attacks vessels in orbit. They are also supposed to prevent vessels from escaping.  This is the first planetary invasion in human hisptry.  The problem.  Lunarians start using drones with human command ships that can operate locally.  Simialr to the Lyal Wingman concept from the mid to late 2000s (2000-2099) this means they can strike more effectivly.  Also Mars is fortified.  GEN 1 Earth ships cannot manuever without running out of fuel or drifint off into space.  This ultimatly leads to nuclear bombardment of many of the colonies.  Earth also uses newer ships mainly the GEN 1s ships build by the US, and latter in the battle GEN 2 which are the first generation of vessles built in space. They also carry fusion powered engines enabling them to manuever around more than their stardard chem rocket predcessors. These are a game changer. They also come with energy weapons and are at least 20 years ahead of the Lunarian force.  The Lunarian strategy...hold.  This is very litterally their version of Iwo Jima. The idea is to buy the evacuating civilians time who aligned with them while the fighters hold the Earth fleet at bay. As it turns out they evacuated months before the Earth fleet arrived.  However towards the end of the conflict, several Martian ships are spotted running towards Jupiter (its the last time of the year for their ships to make it so they make a break for it). This exposes the Lunarian plan and earth gives chase. Casualties: Lunarian 85%, Earth 75%, non-affiliated 33% for a total of 100 million. Major Hurdles: CLose orbit combat, massive distances in space, orbital physics, enemy with nothing to lose, inexperienced (conscript) military, ship build quality.
-- Battle of Jupiter:  The longest battle over 3 years.  This is due to the massive distances involved.  Lunarians should be trapped, so they send eveyrthing they have to delay the Earth forces, but Gen2 ships are in mass production and Jupiter and Earth are in the best alignment. Eath has also recreated the loyal wingman systems and now they have high quality vessles.  The Lunarians use picket line defenses to keep them from Callisto, Ganymede and Europa.  Earth takes them on directly, while other ships enter long decay orbits around the planet to drop in on Lunarian forces. However, it was Io they needed to focus on as the Lunarians built a massive underground base and constructed a massive space craft in secret with the atlity to travel at 1.98LYs. As troops land on Callisto, Ganymede and Europa, the ship launches and heads out of the solar system, heading on a "mission" to find safety among the stars.  This even however is NOTCOMMON as they destory the facility behind them and only one ship spots them leaving.  Casualties: Lunarian: near 99%, Earth 25% (most due to radiationing, and deaths that occured after the battle's official end date were not counted) non-affiliated: N/A Main constraings: Orbital dynamics, massive battle field, the phase known as the void takes place over a range that is 10x larger than Jupiter and has no hiding places, oftne times damage to the ship, even if its not catostrpic, lead to dings in radiation shielding, meaning radiation poinsing was a factor.  Debris from the asteroid belt and Jupiter system.  Radiation also causes issue with energy weapons, targetting systems and sensors.  
+- Battle of Jupiter:  The longest battle over 3 years.  This is due to the massive distances involved.  Lunarians should be trapped, so they send eveyrthing they have to delay the Earth forces, but Gen3 ships are in mass production and Jupiter and Earth are in the best alignment. Eath has also recreated the loyal wingman systems and now they have high quality vessles.  The Lunarians use picket line defenses to keep them from Callisto, Ganymede and Europa.  Earth takes them on directly, while other ships enter long decay orbits around the planet to drop in on Lunarian forces. However, it was Io they needed to focus on as the Lunarians built a massive underground base and constructed a massive space craft in secret with the atlity to travel at 1.98LYs. As troops land on Callisto, Ganymede and Europa, the ship launches and heads out of the solar system, heading on a "mission" to find safety among the stars.  This even however is NOTCOMMON as they destory the facility behind them and only one ship spots them leaving.  Casualties: Lunarian: near 99%, Earth 25% (most due to radiationing, and deaths that occured after the battle's official end date were not counted) non-affiliated: N/A Main constraings: Orbital dynamics, massive battle field, the phase known as the void takes place over a range that is 10x larger than Jupiter and has no hiding places, oftne times damage to the ship, even if its not catostrpic, lead to dings in radiation shielding, meaning radiation poinsing was a factor.  Debris from the asteroid belt and Jupiter system.  Radiation also causes issue with energy weapons, targetting systems and sensors.  
 
 # Genre
 Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech, 
@@ -292,7 +292,7 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - March 3: <MAIN STORY> Alisa finally wakes but her entire body still feels tingly and hurts a bit from ehr own powers.  She is not clear on what happened but NUla has returned her to thejungle for the time being and she feels calm, although she still misses her brother and mother. </MAIN STORY>
      - March 5: Sophia has a member of her cabinet dies in an accident, the 5th to do so.SHe is contacted by the member of the [ENTER NAME HERE].  They convience her to offer the defenseive weapon to defend against the Mechsthat are wondering the planet.  She uneasily agrees. After a mysterius shot asses throgh her windw and hits the picture of her daughter on her desk. 
      - March 7: PM sophia stands up a rapid responce for to take out the 7 Housemen. Also starts the ONe-Word Initative, an intitive to try to bring aid to anyone who needs it through the fallout of the war with the colonies. During her speech is also when the term Intra-Solar War is coined. 
-     - June 5:  After persentant bullying of Thomas the captain of the Constitution finalls has enough and adresess the situaiton and get's his crew in line.  He also assins Thomas to enginering monitoring station in the bridge. 
+     <MAIN STORY>- June 5:  After persentant bullying of Thomas the captain of the Constitution finalls has enough and adresess the situaiton and get's his crew in line.  He also assins Thomas to enginering monitoring station in the bridge. 
      - September 1:  The first 2 fleets arrive over Mars.  The Vanguards go into 3 wings, one to clear the orbit, another to help support the Nova's.  Challenger holds is a support roll. 
      - September 5: With the fleet in position, they work on clearing the orbit.  12 AWAC craft. They focus on large collections of debris or artificial structures.  They launch thermal nuclear weapons to clear put the orbit.  Nearly immeddiatly Martian defenses go to work.
      - September 7: Anti-ship weapons reach the fleet. Vangaurds use energy weapons to shoot down most of the weapons fire. They try to keep Martian fighters away from the fleet, as rail guns stop being truly effective beyond 10,000 miles (NOTE: yhis does not mean they are not dangerous over 10,000 miles, it just means that gravity variability along with other debris have more of an effrecg on them).  
@@ -310,8 +310,32 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - October 15: The ITLPs begin deploying the main invasion force.
      - November 1: Due to massive resitance.  tactical nukes start being used against civilian infrastructure.  The same day An unidentified horseman attacks Thailand and destroys the capital and kills the royal family. 
      - November 10: That same horseman attacks Mymar.  The UEN deploys the repid responce team. 
-     - December 1:  A transport vessel launches from Lowell City.  Lowell City issues surrender decree.  
-     - December 2:  Constitution spots the transport, a Asteroid Miner, h
+     - December 1:  A transport vessel launches from Lowell City.  Lowell City issues surrender decree.  </MAIN STORY>
+     - December 2:  Constitution spots the transport, a Asteroid Miner, the manuevers and its attempt to transfer orbits peaks AWACS interest. 
+     - December 10:  INterrigation of the Lowel City Leadershhip reveals that there was two groups all along on Mars.  Many on Mars did not want to fight, so they were evacuated to construction sites that were presurized.  Those that opted to fight or no evacuate stayed They were implmenting delay tactics.  Then the leaderships of the sepretist left.  This intelligence is communicated back to Cyprus. 
+     - December 11: Earth intelligence is flabergasted.  But it is well know that the Jovian system was being used by severla high level research and engineering firms. They opt to try communications. 
+     - December 13: No communications are received with the Jovian System.  While the fleet is told to hold, The Vangard crews realize they can pull an intercept, best to force their advnatage now rather than hold back.  
+     - December 14:  Cyrpus comand considers the request.  President Sophia, with knowledge the next wave of Vangards will be ready within days approves the deployment. <MAIN STORY> The Mars Vangards deploy for Mars</MAIN STORY>
+     - December 15: Thailand and Mymar join the UEN.  Vientnam opts to join as well.  
+     - December 17: Battle of Singapore.  Harvester arrives in Singapore possibly to destroy the rabit responce unit that had laid over there.  The battle ends with Harvester destroyed. 
+     - December 20: All Martian based Vangards are now en-root to Jupiter.
+2162. 
+     - Janurary 13: The Earth Based Vangard fleet along with 10 ITPLs depart for Jupiter.
+     - March 5: Indonesia joins the UEN.
+     - April 1: Antartica is drafted into the UEN
+     - May 10: Boeing and Lockheed Martin relaize they have the tehcnology to build a GEN 4 warship.  This is presented to Cyprus.
+     - December 29:  Miner enters Jovian Gravity Well.
+     - December 30: Vangards enter deceleration phase as they enter Jovian Gravity Well...The Battle for Jupiter Begins.
+2163. 
+     - Janurary 1: Malasia joins the UEN marking the last country in Asia to do so.  Only the South Americna countries remain as hold outs. 
+     - Janurary 15: The Super Mega City project is born.
+     - Janurary 16: Vangards detect a wave of Cruisers waiting to intercept them.  They are now in the Open Space, still on the edge of the Asteroid belt. The cruisers are all retrofit transports and Asteroid miners.  The battle takes place of a space that is nearly a billion cubic miles. 
+     - Jnaurary 17:  While still over a hundred fthousand miles apaprt they ope fire with long range missiels.  Vandards trie to use energy weapons bt they are too far out for effective hits. The Vangards are at a disadvatage, they are reverseing in order to fire.  This leaves their engiens exposed.  Rail gun projectiles while they loos effectivnes and are vaporized but their exhaust are taking damage to the enignes over time.  
+     - Juranry 18: Cyrpus command gets word on the siuation, but arond Jupiter, the Vnagard crews realize that the Jovian cruisers are just waiiting for them to get into range.  Thomas suggest just blowing past them.  Then crew s debating the issue.  The manuever requires a MAX Q Delta V and a dive into the atmosphere for a breaking manuever.  As they close into the known weapons range of the Jovian ships (they are assuming they have the same range of the martian ships). They check the stats they have on board, relaizing they cannot call Earth. They go through all of their logs even look at the damage they have already taken.  Finally they come to the conclusion that it will be tight.  They contact Eath with teh plan and start the plan. They turn the ships around and cancel the deceleration. 
+     - Janurary 19: Cyprus Command gets wind of the Vanguard's idea.  The generals push to interfear, but the CNC just takes a step back and states that its their time now.  Let them pull it off. The Jovian ships try to launch missiles, but the Vangards have actually accelerated back up to around 20,000 MPH.  The missiels cannot produce locks and the fleet flies by them at high speed. Each vessel now begins to align itself for the aerobraking manuver. Tactical officers attempt to use the sensors as they will fly by several moons, including Calisto, Europa and Gamamead.  Calisto is home to a number of known facilities and Europa a large research station, but it is unknown what else is in the system.  They ready for a streaming transmission to Earth. 
+     - Janruary 20: The ships angle their radars to capture the debris for the manuver.  Emergency equipment is taken and mounted into easily recable areas, and chairs have  safety rigs mounted. However most the time is spent doing nothing and waiting. Thomas has his firs tadult encounter. 
+     - Janurary 21:  Te fleet enters the Jovian system.  On ship takes critical damamge from dibris in the ring, Constitution also gets pelted with small fragments but holds.  The ships turn around and fire their engines. crews done G suites.  Ships use max thrust for deceleration. Its a peak 10G deceleration. The ships slide through the system. Theydrop into Jupiter's atmphsere for the aerobreak manuvver.  The ships were not designed for tihis and the stress shows imediatly.  They use the thurst form the engine as a vaper shield its plasma shielding the craft's body. The pressue and G forces. Thomas passes out and sees his sister, as she she si now living in the Amazon.  She stands they look at each other for a moment (this is a telepathic connection) until they come out the other side and he wakes up.  
+     - Janurary 22: Damaged is assested It includes: Warped hull planting, missed and Rail gun downs are warped and not acting properly, Fusion engines we over max designed pressure and the computer will not allow restart for another 3 days. They find themselves in a busy hub of activity in the Jovian system, but due to their orbits the Jovian ships cannot intercept them.  Its a cat and mouse game and they must use thrusters for manuvering. 
 2174. 
      - The war officially ends. 
 
@@ -336,6 +360,8 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
 - GEN 2 Class ship
 4. Vanguard Class
 - GEN 3 Class Ship
+- Titanium Hull plating with advanced composite frame
+- 10x more durable than the Novas
 5. Galaxy II Class Troop Transport
      - A Interplanetary Troop Lift Platform (ITLP)
      - This is essentually a massive ring of 1000' long bargess welded together and then connected to another barge.  IN space they are linked together in a large rotating cylinder, claimbed togeter with tention lines.  In the cetern is a long, rocket engine with a nuclear rocket in the center.  There is also scafoding which fighters snf landers ar mounted. 
@@ -944,6 +970,7 @@ Human interpretation: Mass casualty resource machine
 Horseman myth: Famine
 
 It doesn’t just kill—it “reduces variability” in populations.
+NOTE: Destroyed Battle of SHanghai 12/17/2161
 
 2. PSY-ARC / “Warden”
 Designation: PSY-ARC-02 “CUSTOS”
@@ -1054,3 +1081,41 @@ What this becomes:
 Reinforcement surge wave
 Emergency interception capability
 Fleet stabilization during initial Mars contact
+3. Battle of Jupiter
+A 5-to-10-minute maximum window transforms this scene into a masterclass in tension. At $50\text{ km/s}$ ($112,000\text{ mph}$), your ships will blast through a massive $15,000$ to $30,000\text{ km}$ arc of Jupiter's upper atmosphere during this dive.
+Because these are Gen-3 orbital-built warships with a century of fusion technology behind them, the physics transitions from "accidental survival" to a demonstration of extreme, desperate engineering.
+## 1. The Improvised "Magnetic Cowl" Shield
+Since the crew is adapting standard reverse-thrust to survive, they aren't using a designed aero-shield; they are weaponizing their own propulsion byproduct.
+
+* The Reaction Mechanics: The ships flip 180 degrees and fire their main fusion torches at maximum power directly into the oncoming atmospheric gas stream.
+* Creating the Bubble: The fusion exhaust is inherently a hyper-dense stream of superheated plasma. When Jupiter’s hydrogen-helium atmosphere slams into this outward-rushing exhaust at $50\text{ km/s}$, it creates a titanic, chaotic bow shock.
+* The MacGyver Element: Because this isn't a calibrated, streamlined shield, the plasma boundary will wildly fluctuate. The engines will experience massive "back-pressure" as Jupiter's compressed air tries to choke out the fusion reaction, forcing the ship's computers to constantly cycle magnetic confinement fields to keep the torches from destabilizing.
+
+## 2. The 10-Minute High-G Braking Profile
+Shedding enough velocity in just 10 minutes requires a punishing, continuous deceleration curve.
+
+* The Math: To drop from $50\text{ km/s}$ down to a captured elliptical speed of roughly $46\text{ km/s}$ in 10 minutes (600 seconds), the ships must decelerate at roughly $6.6\text{ m/s}^2$.
+* The Total G-Force: When you combine the physical air-drag pushing against the plasma shield with the continuous reverse thrust of the fusion engines, the crew will feel a crushing $1.5$ to $2.5\text{ Gs}$ of sustained deceleration. While not instantly lethal, standing up is impossible, and every breath feels like a heavy weight is sitting on the crew's chests for the entire 10-minute dive.
+* The Habitat Lock: The armored, rotating habitat rings must be brought to a dead stop and mechanically anchored into the rigid keel before entry. If they are left spinning, the sudden braking torque will warp the heavy titanium hulls like wet cardboard.
+
+## 3. Dealing with Mars-Incurred Damage
+Since these ships took damage over Mars, this maneuver is a massive gamble. The extreme structural rigidity of a Gen-3 hull is the only thing keeping them in one piece.
+
+* Structural Vulnerability: If a ship took railgun or missile fire to its skeletal frame over Mars, those compromised structural welds are now under immense crushing forces. The titanium hull plates will groan loudly as the dynamic pressure bends the long axis of the ship.
+* The Engine Weakness: If any ship's magnetic engine coils were nicked or damaged, the back-pressure from Jupiter's atmosphere could cause a catastrophic confinement breach. A flickering engine means the protective plasma shield collapses for a fraction of a second, allowing $28,000^\circ\text{F}$ gas to directly lick the titanium armored nose of the warship, melting weapon turrets and sensor arrays instantly.
+
+## 4. The Visuals and Sensory Experience
+
+* The Outside View: Outside the armored viewports, it looks like a localized supernova. The combination of the ship's fusion fire and Jupiter's burning atmospheric gases creates an electric, blinding green and violet plasma sheath that entirely isolates the fleet from the outside world.
+* The Blackout: All external communications, radar, and lidar are completely choked out by the plasma layer. For 10 minutes, the fleet is entirely blind to the outside universe. They cannot see if the enemy is waiting for them, and sister ships cannot talk to one another.
+* The Sound: Despite space being a vacuum, the upper atmosphere is dense enough at $50\text{ km/s}$ to transfer sound. The crew won't hear space, but they will hear their own ship: a deafening, deep, sub-bass roar that vibrates through the titanium frame as the ship fights the atmosphere.
+
+## 5. Punching Out: The Strategic Aftermath
+At minute 10, the screaming and shaking suddenly stops as the fleet rises back out of the cloud tops into clear space.
+
+* The Immediate Emergency: Their periapsis is still inside the atmosphere. The captains have only a short window to angle their ships and fire a secondary burn to raise their orbital altitude out of the clouds permanently, or they will plunge back down on the next loop and burn up.
+* The Tactical Visual: As the plasma shield dissipates, the ships emerge into the cold Jovian sky, their outer titanium hulls glowing red-hot, trailing wisps of scorched Jupiter gas, but safely captured in a lower orbit, completely defying the enemy's predictions.
+
+
+
+
