@@ -293,7 +293,25 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - March 5: Sophia has a member of her cabinet dies in an accident, the 5th to do so.SHe is contacted by the member of the [ENTER NAME HERE].  They convience her to offer the defenseive weapon to defend against the Mechsthat are wondering the planet.  She uneasily agrees. After a mysterius shot asses throgh her windw and hits the picture of her daughter on her desk. 
      - March 7: PM sophia stands up a rapid responce for to take out the 7 Housemen. Also starts the ONe-Word Initative, an intitive to try to bring aid to anyone who needs it through the fallout of the war with the colonies. During her speech is also when the term Intra-Solar War is coined. 
      - June 5:  After persentant bullying of Thomas the captain of the Constitution finalls has enough and adresess the situaiton and get's his crew in line.  He also assins Thomas to enginering monitoring station in the bridge. 
-     - September 1:  The first 2 fleets arrive over Mars.  The Vanguards go into 3 wings, one to clear the orbit, another to help support the 
+     - September 1:  The first 2 fleets arrive over Mars.  The Vanguards go into 3 wings, one to clear the orbit, another to help support the Nova's.  Challenger holds is a support roll. 
+     - September 5: With the fleet in position, they work on clearing the orbit.  12 AWAC craft. They focus on large collections of debris or artificial structures.  They launch thermal nuclear weapons to clear put the orbit.  Nearly immeddiatly Martian defenses go to work.
+     - September 7: Anti-ship weapons reach the fleet. Vangaurds use energy weapons to shoot down most of the weapons fire. They try to keep Martian fighters away from the fleet, as rail guns stop being truly effective beyond 10,000 miles (NOTE: yhis does not mean they are not dangerous over 10,000 miles, it just means that gravity variability along with other debris have more of an effrecg on them).  
+     - September 10:  Nearly 1,000 launches are monitered from the surface.  They race into hihgly elipitical orbits designed to come behind the fleet.  Challenger is in a weak area of the fleet.  It must break orbit in order to deal with the fleet.  However its not preferable.  Thomas proposes a drop towards the planet at high speed.  then go into a skidding elipical orbit.  The captain wants to pass it by Earth. 
+     - September 11: Earth recieves the communication.  Command runs it through the computer, and agrees and transmits the updated flight path.  
+     - September 12:  They receive the order.  8 Vanguards aim for the deep dive orbit.  The manuver takes 12 hours and requires skipping off the atmopshere.  This places the ships in range of surface defenses.  THe Vangaurds use their sensors to also detect ground forces.  They are fired upon.  Thomas does his best to relay the ship condition during the dive.  One Vangard finds its core wanting to overload.  The ship is forced to eject the core during the atmospheric skim.  The ships manage to climb out bur ground weapons open fire, The ships are hit. Constitution takes a hit. Crews race to cut off the damaged section, but the shell acted like an airbust grenade, cutting the hull to swiss cheese. Two service members are sucked outside but hold onto the hull. Thomas pushes to keep the section open until they can rescue overriding the chief engineer.  The crew manages to pull them in before they close off the section.  They are taken to the medical center and treated for decompression syndrome. 
+     - September 13:  The Vangard's come up agaianst the Martian weapons ships.  They are retrofit shipping containers.  Several crack open and fire missiles toward the approaching fleet. The ship without a core is forced to fall back.  The others use energy weapons to open fire and manage to take down most of the missiles, sot they use rail guns open up and spray the sky, but some still get through or along with shrapnel.  Ships take more damage.  However they realize the missiles have a hard time manuevering at close range, so they enter into wide S-turns.  The missiels use their thrusters, but now thanks to gravity end up unable to make up the Delta-V and end up sliding away into space. 
+     - September 14: The Vangards enter into range, and open fire on the Martian fleet just as they being to curve around for the Earth fleet.  They fire nuclear missiles towards the Martian ships destroying them. 
+     - September 15: The official start of Operation Kratos.  100 Kirov IIs head into low orbit and launch a number of nulcear weapons rescued from ICBM subs towars the surface of Mars and hit a number of high value weapons targets. 
+     - September 16:  The fleet arrives into a lower orbit (around 900 miles).  THey dispatch the inital landing wave. The landing wave heads into the atimospehere.
+     - September 17:  Nova's start bombarding the surface targets and defensive positions as well as enemy military locations.  Serious damage is done to several cities Musktopica and New Shanghai. The first wave concerns itself with taking out major military faciities and rescue operations.  
+     - September 30: Teams reach the Potomac, which is still mostly intact. 
+     - October 1: The Crew of the Potomac is rescued.
+     - October 5:  The 3rd wave arrives.   
+     - October 15: The ITLPs begin deploying the main invasion force.
+     - November 1: Due to massive resitance.  tactical nukes start being used against civilian infrastructure.  The same day An unidentified horseman attacks Thailand and destroys the capital and kills the royal family. 
+     - November 10: That same horseman attacks Mymar.  The UEN deploys the repid responce team. 
+     - December 1:  A transport vessel launches from Lowell City.  Lowell City issues surrender decree.  
+     - December 2:  Constitution spots the transport, a Asteroid Miner, h
 2174. 
      - The war officially ends. 
 
@@ -638,6 +656,278 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
                * Detects the Chinese assault first
                * Provides targeting data for railguns
                * Russia destroys it with orbital strikes
+## Martian Officensive
+## Operations Kratos (Second Martian Offensive)
+- Earth Forces
+- Martian Forces
+MAJOR MARTIAN CITIES (ALL DOMED / SEALED)
+⭐ 1. Musktopia (Utopia Planitia) — DESTROYED IN THE WAR
+Population: ~1.2 million
+Structure:
+12 massive transparent domes
+
+40+ sub‑domes
+
+Underground metro and industrial levels
+
+Purpose:
+
+Shipyard capital of Mars
+
+Leyland fusion‑tug construction
+
+Terraforming mirror control (Phase I)
+
+Why It’s Important:
+
+Largest city
+
+Largest shipyard
+
+Symbol of Martian independence
+
+Its destruction becomes a historical trauma
+
+Exterior:
+
+Dome clusters glowing faintly red
+
+Gigantic shipyard gantries
+
+Dust‑repellent coatings on dome surfaces
+
+⭐ 2. New Shanghai (Valles Marineris Rim)
+Population: ~900,000
+Structure:
+
+Cliff‑wall arcology carved into canyon walls
+
+Sealed skybridges
+
+Canyon‑floor industrial dome
+
+Purpose:
+
+SinoMars corporate capital
+
+Vertical hydroponics
+
+Atmospheric research
+
+Exterior:
+
+A glowing vertical city inside the canyon
+
+Looks like a sealed Kowloon Walled City
+
+Why It Matters:
+
+Nearly impossible to bombard from orbit
+
+Martian stronghold
+
+⭐ 3. Ares Prime (Olympus Mons Slope City)
+Population: ~600,000
+Structure:
+
+Needle‑like pressure towers
+
+Sealed atmospheric processing domes
+
+Subsurface fusion plants
+
+Purpose:
+
+Terraforming Phase I gas injection
+
+High‑altitude research
+
+Exterior:
+
+Tall, thin towers rising from volcanic slopes
+
+Surrounded by dust‑storm deflectors
+
+Why It Matters:
+
+Controls atmospheric thickening
+
+Earth wants it intact
+
+⭐ 4. Lowell City (Elysium Planitia)
+Population: ~450,000
+Structure:
+
+Low‑rise dome city
+
+Central government dome
+
+Media and communications towers
+
+Purpose:
+
+Martian Parliament
+
+Cultural capital
+
+Exterior:
+
+Red‑glass skylights
+
+Public plazas under sealed roofs
+
+Why It Matters:
+
+Political heart of Mars
+
+Symbolic target
+
+⭐ 5. Redhaven (Hellas Basin)
+Population: ~300,000
+Structure:
+
+Deep‑basin domes
+
+Ice‑mining tunnels
+
+Water purification plants
+
+Purpose:
+
+Water supply for half the planet
+
+Heavy manufacturing
+
+Exterior:
+
+Thick armored domes
+
+Dust walls protecting the basin
+
+Why It Matters:
+
+Destroying it risks killing millions
+
+Earth wants to capture it
+
+⭐ 6. Port Ares (Space Elevator Base)
+Population: ~250,000
+Structure:
+
+Circular base dome
+
+Elevator tether anchor
+
+Shuttle pads
+
+Purpose:
+
+Cargo hub
+
+Orbital elevator operations
+
+Exterior:
+
+A massive dome with a tether rising into the sky
+
+Why It Matters:
+
+Destroyed early by Earth nukes
+
+Elevator collapse devastates surrounding region
+
+⭐ 7. Tharsis Prime (Tharsis Bulge)
+Population: ~200,000
+Structure:
+
+Geothermal domes
+
+Magma‑tapping reactors
+
+Subsurface industrial tunnels
+
+Purpose:
+
+Energy extraction
+
+Terraforming heat‑pump stations
+
+Exterior:
+
+Industrial towers built into volcanic slopes
+
+Why It Matters:
+
+Secondary industrial target
+
+⭐ 8. Bradbury Station (Gale Crater)
+Population: ~150,000
+Structure:
+
+Research domes
+
+Atmospheric labs
+
+Museum district
+
+Purpose:
+
+Scientific capital
+
+Historical preservation
+
+Exterior:
+
+White domes with red skylights
+
+Why It Matters:
+
+Low military value
+
+High symbolic value
+
+🏭 INDUSTRIAL ZONES (ALL SEALED FACILITIES)
+1. Leyland Fusion Works (LF‑Mars‑1)
+Fusion engine components
+
+Power grid control
+
+Deep underground vaults
+
+2. SinoMars Railgun Foundries
+Surface‑to‑orbit railgun production
+
+Located in sealed industrial domes
+
+3. Utopia Shipyards
+Largest shipyard on Mars
+
+Fully enclosed drydocks
+
+4. Hellas Basin Waterworks
+Ice mining
+
+Water purification
+
+Terraforming support
+
+🛡️ MILITARY COMPLEXES (ALL BURIED OR DOMED)
+1. Red Fortress (Valles Marineris)
+Deep bunker
+
+Missile silos
+
+Drone hives
+
+2. Olympus Defense Grid
+Railgun super‑batteries
+
+Anti‑ship missile farms
+
+3. Elysium Orbital Defense Array
+Kill‑sats
+Stealth drones
+Orbital mines
 # THe Seven Housemen
 ## Real Background
 - They are exosuites designed by an alien species on an illegal expedition to seak out humans with high psionic potential for research purpsoes.  
