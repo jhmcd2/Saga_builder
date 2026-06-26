@@ -338,7 +338,16 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - Janurary 22: Damaged is assested It includes: Warped hull planting, missed and Rail gun downs are warped and not acting properly, Fusion engines we over max designed pressure and the computer will not allow restart for another 3 days. They find themselves in a busy hub of activity in the Jovian system, but due to their orbits the Jovian ships cannot intercept them.  Its a cat and mouse game and they must use thrusters for manuvering. 
      - Janurary 23:  Jovian forces launch a intercept force.  The Vangards must rush repairs.  This means EVA's.  Crews take radiationmedication before heading out into space in order to repart the vessle, free the rail gun cover doors, and repair missile launched tubes.  
      - Februrary 1:   A squad of Jovian ships finally catch up.  While they have tougher armor, the Vanguards are more than a match especially since their numbers for this first squad are small. 
-     - Februrary 2:  With this inital success Earth orbits the over 800 ships to split into groups of 20 and start smash and grab runs. Consitution is assigned as the lead do to a lot of tactical experience coming from the vessel.  Thomas assigned as the ship's Tactical Planner
+     - Februrary 2:  With this inital success Earth orbits the over 800 ships to split into groups of 20 and start smash and grab runs. Consitution is assigned as the lead do to a lot of tactical experience coming from the vessel.  Thomas assigned as the ship's Tactical Planner.  They first move to produce a pencer move against ship's gathering near Gamamede.  
+     - Feburary 5: Constitution's chief engineer comes down with radiation posining from his time in the EVA suites. He is taken off duty. 
+     - March 5: The First tactical group comes across a new Martian weapon, code named Sharkfin. It is a UCAV but it is lead by a human piloted craft.  It uses iron rail gun bullets and missiels, but nether seem capable of damaging the ships.  The fighers are wipped out. Cyprus command is worried and communicates these new fighters specs back to the approachign fleet. 
+     - March 21:  Second run in with the Shark fin fighters.  Their performance is odd, but thier effectivness unchanged. 
+     -April 5: The Constitution's tactical group (Group 10) along with Group 3 and 6 arrive at Gamamede but the bulk of the Jovian forces is gone.  The go to battle The Jovian cruisers are far heavily armed but weapon effectivness seems lacking compared to the Martian offensive.  That being said, several Vangards are forced to abandon the conflict before it concludes.  While Earth overwhelms the Jovian ships, the Jovians are succesful and driving away the Earth forces. 
+     - April 10: Jovian ships start a 1 million mile long picket line formation out in space. 
+     - April 15: Troop ships and their immediate escorts are order to deceleate early.  The forced adopt a rolling shield and wedge strategy
+     - June 5:  Main Earth fleet enters Jupiter's gravity well.  Fighters are launced as the ship's ener dceration phase. 
+     - June 8: The Main Earth fleet encounters the first line of the picket forces.  
+
 2174. 
      - The war officially ends. 
 
