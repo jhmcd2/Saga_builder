@@ -2,6 +2,10 @@
 1. Jefery Milles
 2. Terra Carpender
 3. Keiko Tsukihara
+4. Macon
+5. Evertt Winchester
+7. Claire Winchester
+8. Ethan Milles
 # Timeline
 1350. 
     - ???: Crystal is main as a training element for young Chi Masters in Tibet (Shagra-La)
@@ -107,12 +111,92 @@
     - August 25: Jeffery starts work with B&E Systems.  He goes back to school part time. He lives with his Parents in Savanha, but commutes to King's Bay.  He starts dating Sandra who is still in college taking Med school courses.
     - November 27: After he family came to Vegas to have Thanksgiving with her, Sandra tells her aunt how she like sthe costumes, but they are uncomfortable, and not that supportive, but she cann't hid a bra in the sheer material.  They end up working on a modification.
     - December 15: She pitches the modification to her show room.  The director allows her to test it out with a few of the other girls. 
+2007. 
+    - April 5: Terra ends up in a relationship with a fellow female dancer.  Doesn't last long, but it least to a slightly longer relationship with another female contotionist. 
 2008. 
     - October 15: Terra incopoerates his buisness for clothing. 
 2009. 
+    - May 10: Terra breaks up with the contortionist.
     - May 15: At the conclusion of her contract, Terra move sto NYC to get on American ballet or Broadway.  She actually get son American ballet as a prospective member. 
     - June 10: Sandra finishes med-school.  
     - August 5: She and Jeffery marry.  
     - August 10: Due to her getting a job in NYC, they move to Norwich, CT, so he can work at the Sub base up there.  
-    
+    - December 12:  One of the dancers for the Nutcracker breaks her leg in a slipping in the ice, Terra get's her break out moment playing Clara this year.  ANd no one one thought she injured the girl, the other Terra was on the other side of Manhattan when it happened. 
+    - December 15: Sandra become pregnant with her first child. 
+2010. 
+    - Janurary 5: Terra meets with a buisnessman named Evertt Winchester in NYC.  The idea is to ether sell her brand or make it begger.  The man states she is clearly the face of the brand and he doesn't want her going anywhere.  He offers a partnership. 
+    - Janurary 30: Sandra ends up in a relationship with the girl whose leg broke the year before. 
+    - September 21: Jeffery's son Macon is born. 
+    - September 30: Keiko ends up in a relationship with her boss.  Its less relationship more she humping the boss. 
+2011. 
+    - August 2: Terra's company clear $10 million in sales. She in Everette celebrate.  They have a bit too much to drink and end up in bed with one another.  
+    - August 3: Terra considers it a mistake, but Evertt decides its not.  Terra nearly pulls a MeToo on him but opts not to.  
+    - October 5: Terra get's cast as one of the Militrons in the Nutcraker performance. 
+2012. 
+    - March 5: After realizing that her dancer lover is just in it for kicks, Terra breaks up with her.  She ends up seeing Everett full time.  
+    - October 29: Superstorm Sandy hits NYC.  They try riding it out in Everett's apartment by power is knocked out (Everett and Terra). Up in CT, Sandra and Jeffery ride it out at home.  Let's just say long term destructive effects were not the only thing getting made that night.
+    - December 1: Terra finds out her recent nausia is pregnancy
+    - December 2: Sandra finds out she is pregant. 
+    - December 25: Everett proposes to Terra, she says yes.  They opt to get Married in 
+2013. 
+    - Februrary 15: Terra and Everett get married at the Empire state building and rent out the upper deck. 
+    - Februrary 16: Terra and Everett honeymoon in Fiji.  
+    - July 22: Ethan Milles at 3AM.  Claire Winchester is born at 10PM
+    - November 1:  Terra get's picked up with the Nutcraker season.  Will play this time Dewdrop
+2014. 
+    - April 15: Terra's company passes $50 million. 
+    - May 5: Keiko gives birth to a daughter. She names her Sakura.
+    - May 6: Her boss breaks it off and she is fired from her company.  
+    - December 16:  Jeffery tries to keep Sandra from Feminizing the youngest son. They opt to try for one last kid. 
+    - December 30: Keiko's baby because sick, very sick.  Her father refuses to pay anything.  She gives the baby the crystal hoping it can help her.  On a subway train she accidenly bumps into the tourist and the baby and the tourist switch bodies unknown to her. 
+2016. 
+    - June 5:  Keiko is offer an FA position at ANA.  She takes it. 
+    - August 5: Ethan enters Pre-k3.  
+    - October 10:  The teacher (female) tries to say that she will not teach Ethan and calls him autistic
+    - October 11: Jeffery's father tells him to refuse what the teacher is saying.
+    - October 12: THe teacher gives Jeffery the name of a specialist to see for his son, and the school refuses to take him back until they check.  Jeffery's father tells him to take the boy to another specialist as well.
+    - October 15: Terra will play the snow queen this year
+    - October 20: Jeffery has Ethan testing in Boston.  The specialist clears him says he is normal, does offer an IQ test to which he scores 132.
+    - October 25: They go to the school's specialist.  They rank him as Level 3 Autistic. 
+    - October 30: Jeffery's parents pay for a tie breaker in NYC
+    - November 5: Terra and Jeffery enter the same waitng room. at a Pediactric care.  Ceilia is there there for a check up.  They do not notice one another. PS. They confirm the first doctor's assement.  He is simply getting things faster than the other students...to fast and he is losing interest
+    - November 8:  Jeffery contacts the shcool, but since it wasn't THEIR specialist they refuse to let him back in. They opt to not take Ethan back to that school and sue for their money back.  
+2019. 
+    - Februrary 16: Claire goes to Disney for the first time.  
+    - June 5: Ethan graduates Kindergarten. 
+    - July 5: Sandra test positive for Uteran Cancer.
+    - September 1: Ethan and Claire goes to fist grade. 
+    - December 31: At the Close of their 2019 season, Terra is annouced to be a Primier 
+2020. 
+    - Janurary 15:  Sandra's Uteran cancer proves to be aggressive and has a full historectamy. 
+    - Janurary 20: First COVID case in the USA.
+    - Februrary: Terra finds out that they are possibly looking into delaying the next performance due to COVID.  Everett suggest leaving the city and staying with his parents in Conneticuit. Terra doesn't think its that serious yet, and trust that are brave and faithful leader will pull us through. 
+    - March 11: WHO ddeclares national emergency.  Thousands are getting sick and states start their own shut downs. Finally Terra realizes maybe it is best to get out of town.  She takes Claire to her parents house that night, while Evertt is shutting things down in the city. 
+    - March 13: US declares national emergency, everything shuts down practically overnight. Everett get's caught in the lockdowns. 
+    - March 30: Sandra is forced to be rushed to the hospital after collapsing. 
+    - March 31: It is believe Sandra contract COVID. 
+    - April 5: Evertt is confirmed to have COVID. 
+    - April 10: Sandra is put on a ventilator. 
+    - April 20: Everett is placed on a ventalator. 
+    - May 1: Sandra passes away. 
+    - July 15: Everett dies of complications to COVID.  
+2021. 
+    - July 5: Jeffery opts to adopt his father's approach to his two sons.  Macon doesn't like it but Ethan being younger seems to take.  He drills them on school stuff while encouraging them to work out and places them in activities to fill their time. 
+    - September 21:  Terra returns to work in NYC.  She leaves Clair in Conneticuit and tries to make the commute. 
+    - December 15: EThan's  class goes to NYC and they see the Nutcraker.  He falls in love with the ballet art form. 
+2022. 
+    - Janurary 1: Terra quits NY Ballet to stay with her daughter.  She opts to just run the buisness, which mostly runs itself.  
+    - Janurary 30: Terra teaches dance at the Conneticuit School of Dance. 
+2023.   
+    - April 5: Keiko gives the crystal to Sakura full time.  However her daughter is a hand full, head strong, smart way beyond her years, hyper opinionated, and willing to take on anyone around her.  Her mother states she's like her, the Keiko doesn't see it. About the only thing in her life that humbles her is her lack of control of her abilities. 
+    - June 5:  ANA lays off Keiko.  
+2025.   
+    - June 5: Keiko accepts a job with Delta.  She moves at first to Altanta then is based out of NYC.  
+2026. 
+    - June 10:  After a shooting where she lives, Keiko moves to Conneticuit and to Milton as the house she spent a few years in comes availible, and her schedule is regular enough she can get away with the commute. 
+    - June 5: Ethan and Claire graduate Middle School.  
+    - June 10: CLair just barely gets into Milton Prep, a high end private school next to her mothers dance academy.  it helps when you have money.
+    - July 10: Ethan is accepted to Milton Prep, but only because another student dropped out and his brother already attends. 
+    - September 3: Ethan and Claire start middle school. 
+
 
