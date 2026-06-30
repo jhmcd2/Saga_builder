@@ -339,14 +339,18 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - Janurary 23:  Jovian forces launch a intercept force.  The Vangards must rush repairs.  This means EVA's.  Crews take radiationmedication before heading out into space in order to repart the vessle, free the rail gun cover doors, and repair missile launched tubes.  
      - Februrary 1:   A squad of Jovian ships finally catch up.  While they have tougher armor, the Vanguards are more than a match especially since their numbers for this first squad are small. 
      - Februrary 2:  With this inital success Earth orbits the over 800 ships to split into groups of 20 and start smash and grab runs. Consitution is assigned as the lead do to a lot of tactical experience coming from the vessel.  Thomas assigned as the ship's Tactical Planner.  They first move to produce a pencer move against ship's gathering near Gamamede.  
+     - Feburary 3: Earth deploys nearly 1000 (The entire pre-war fleet) cargo trnasports towards Jupiter in an effort to create a massive supply line.  Depending on speed of the ship, they are sent to interecept Jupiter at specific orbits with enough equipment to repair and restock the fleet.  
      - Feburary 5: Constitution's chief engineer comes down with radiation posining from his time in the EVA suites. He is taken off duty. 
      - March 5: The First tactical group comes across a new Martian weapon, code named Sharkfin. It is a UCAV but it is lead by a human piloted craft.  It uses iron rail gun bullets and missiels, but nether seem capable of damaging the ships.  The fighers are wipped out. Cyprus command is worried and communicates these new fighters specs back to the approachign fleet. 
      - March 21:  Second run in with the Shark fin fighters.  Their performance is odd, but thier effectivness unchanged. 
      -April 5: The Constitution's tactical group (Group 10) along with Group 3 and 6 arrive at Gamamede but the bulk of the Jovian forces is gone.  The go to battle The Jovian cruisers are far heavily armed but weapon effectivness seems lacking compared to the Martian offensive.  That being said, several Vangards are forced to abandon the conflict before it concludes.  While Earth overwhelms the Jovian ships, the Jovians are succesful and driving away the Earth forces. 
-     - April 10: Jovian ships start a 1 million mile long picket line formation out in space. 
+     - April 10: Jovian ships start a 20 million mile long picket line formation out in space, with about 10 picket lines. 
      - April 15: Troop ships and their immediate escorts are order to deceleate early.  The forced adopt a rolling shield and wedge strategy
      - June 5:  Main Earth fleet enters Jupiter's gravity well.  Fighters are launced as the ship's ener dceration phase. 
      - June 8: The Main Earth fleet encounters the first line of the picket forces.  
+     - June 12:  THe four day charge across the picket lines damages several Earth vessels but the Martian fleet is left with far heavier damage.  
+     - August 5: After journeying in the forest for years on her own, Alisa arrives at the near the Guiana Highlands where she finds a small community.  She sneaks inside under the cover of darkness looking for food, but is quickly found.  Instead of kicking her out they opt to help her.  Despite her objections Nulla tells Alisa just to stay put for now telepathically as it stays hidding in the woods. 
+
 
 2174. 
      - The war officially ends. 

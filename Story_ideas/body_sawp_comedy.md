@@ -161,6 +161,7 @@
     - October 30: Jeffery's parents pay for a tie breaker in NYC
     - November 5: Terra and Jeffery enter the same waitng room. at a Pediactric care.  Ceilia is there there for a check up.  They do not notice one another. PS. They confirm the first doctor's assement.  He is simply getting things faster than the other students...to fast and he is losing interest
     - November 8:  Jeffery contacts the shcool, but since it wasn't THEIR specialist they refuse to let him back in. They opt to not take Ethan back to that school and sue for their money back.  
+    - December 1: Ethan takes Claire skating at Rockefella Center, of course Terra stays on the sideline.  Claire likes the sport. 
 2019. 
     - Februrary 16: Claire goes to Disney for the first time.  
     - June 5: Ethan graduates Kindergarten. 
@@ -181,12 +182,14 @@
     - May 1: Sandra passes away. 
     - July 15: Everett dies of complications to COVID.  
 2021. 
+    - June 10:  
     - July 5: Jeffery opts to adopt his father's approach to his two sons.  Macon doesn't like it but Ethan being younger seems to take.  He drills them on school stuff while encouraging them to work out and places them in activities to fill their time. 
     - September 21:  Terra returns to work in NYC.  She leaves Clair in Conneticuit and tries to make the commute. 
     - December 15: EThan's  class goes to NYC and they see the Nutcraker.  He falls in love with the ballet art form. 
 2022. 
     - Janurary 1: Terra quits NY Ballet to stay with her daughter.  She opts to just run the buisness, which mostly runs itself.  
-    - Janurary 30: Terra teaches dance at the Conneticuit School of Dance. 
+    - Janurary 30: Terra teaches dance at the Conneticuit School of Dance. Of course Terra is entered
+    - June 13: During a camp Terra starts taking Gymnastics classes 
 2023.   
     - April 5: Keiko gives the crystal to Sakura full time.  However her daughter is a hand full, head strong, smart way beyond her years, hyper opinionated, and willing to take on anyone around her.  Her mother states she's like her, the Keiko doesn't see it. About the only thing in her life that humbles her is her lack of control of her abilities. 
     - June 5:  ANA lays off Keiko.  
@@ -198,5 +201,8 @@
     - June 10: CLair just barely gets into Milton Prep, a high end private school next to her mothers dance academy.  it helps when you have money.
     - July 10: Ethan is accepted to Milton Prep, but only because another student dropped out and his brother already attends. 
     - September 3: Ethan and Claire start middle school. 
-
-
+    - September 10: While Ethan feels out of place Macon his older brother does what he can to show his little brother around.  Macon appears to be the most popular boy on campus, and some even wonder how Ethan and he can be related. 
+    - Sepber 13:  Ethan sort of befriends Sakura.  He just finds her hilarious.  She finds him a bit annoying but tolerable.  They share a science class together. 
+    - September 17: Ethan and Claire spend 5 minutes talking to each other as a apart of an assignment in English. 
+    - Septmeber 18: Nathan finds some basic dance classes online and starts doing some of the mooves when he is at home and his father and brother are away.  
+    - September 20: Sincing his son 
