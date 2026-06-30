@@ -6,6 +6,16 @@
 5. Evertt Winchester
 7. Claire Winchester
 8. Ethan Milles
+# Setting
+NOTE: If it says Milton, we are switching this out for Fairfield.  
+# Locations
+1. Mills Plain Preparatory Academy
+    - Located in Milssl Plane, Ct
+    - Grades 6-12
+    - One large building on a 10 acre campus.  
+    - Tuition: OMG HOW MUCH!!!! They can just go to public school I am not paying that!
+    - Activities: Swimming, Cross country 
+
 # Timeline
 1350. 
     - ???: Crystal is main as a training element for young Chi Masters in Tibet (Shagra-La)
@@ -167,6 +177,7 @@
     - June 5: Ethan graduates Kindergarten. 
     - July 5: Sandra test positive for Uteran Cancer.
     - September 1: Ethan and Claire goes to fist grade. 
+    - December 25: Ethan gets a Robotics kit from his mother.  
     - December 31: At the Close of their 2019 season, Terra is annouced to be a Primier 
 2020. 
     - Janurary 15:  Sandra's Uteran cancer proves to be aggressive and has a full historectamy. 
@@ -182,8 +193,9 @@
     - May 1: Sandra passes away. 
     - July 15: Everett dies of complications to COVID.  
 2021. 
-    - June 10:  
+    - June 10:  Ethan goes to a sports camp.  They do track and field as well as swimming.  Ironically its the diving board he falls in love with.
     - July 5: Jeffery opts to adopt his father's approach to his two sons.  Macon doesn't like it but Ethan being younger seems to take.  He drills them on school stuff while encouraging them to work out and places them in activities to fill their time. 
+    - August 29: Ethan's father puts him in track and field, but diving and swimming.  
     - September 21:  Terra returns to work in NYC.  She leaves Clair in Conneticuit and tries to make the commute. 
     - December 15: EThan's  class goes to NYC and they see the Nutcraker.  He falls in love with the ballet art form. 
 2022. 
@@ -194,15 +206,17 @@
     - April 5: Keiko gives the crystal to Sakura full time.  However her daughter is a hand full, head strong, smart way beyond her years, hyper opinionated, and willing to take on anyone around her.  Her mother states she's like her, the Keiko doesn't see it. About the only thing in her life that humbles her is her lack of control of her abilities. 
     - June 5:  ANA lays off Keiko.  
 2025.   
-    - June 5: Keiko accepts a job with Delta.  She moves at first to Altanta then is based out of NYC.  
+    - June 5: Keiko accepts a job with Boulevard airlines.  She moves at first to Baltimore then is based out of NYC.  
 2026. 
     - June 10:  After a shooting where she lives, Keiko moves to Conneticuit and to Milton as the house she spent a few years in comes availible, and her schedule is regular enough she can get away with the commute. 
-    - June 5: Ethan and Claire graduate Middle School.  
+    - June 5: Ethan and Claire graduate Elementary School.  
     - June 10: CLair just barely gets into Milton Prep, a high end private school next to her mothers dance academy.  it helps when you have money.
     - July 10: Ethan is accepted to Milton Prep, but only because another student dropped out and his brother already attends. 
-    - September 3: Ethan and Claire start middle school. 
+    - September 3: Ethan and Claire start middle school. Ethan is Compelled to go out for the cross country team. 
     - September 10: While Ethan feels out of place Macon his older brother does what he can to show his little brother around.  Macon appears to be the most popular boy on campus, and some even wonder how Ethan and he can be related. 
     - Sepber 13:  Ethan sort of befriends Sakura.  He just finds her hilarious.  She finds him a bit annoying but tolerable.  They share a science class together. 
     - September 17: Ethan and Claire spend 5 minutes talking to each other as a apart of an assignment in English. 
     - Septmeber 18: Nathan finds some basic dance classes online and starts doing some of the mooves when he is at home and his father and brother are away.  
-    - September 20: Sincing his son 
+    - September 20: Keiko who got her private pilot's liscence takes Sakura on a flight up and down the coast in a twin engine Seminole.  
+    - September 23:  The cheerleaders find out about Claire's gymnastics and start hunting her down to join.  Same day Sakura and Ethan are tasked with working on a project together for school.
+    - September 24: 
