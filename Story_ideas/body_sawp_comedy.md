@@ -14,7 +14,7 @@ NOTE: If it says Milton, we are switching this out for Fairfield.
     - Grades 6-12
     - One large building on a 10 acre campus.  
     - Tuition: OMG HOW MUCH!!!! They can just go to public school I am not paying that!
-    - Activities: Swimming, Cross country 
+    - Sports: Swimming, Cross country, basketball, cross country, indoor track track and field, soccer, lacross, field hockey, golf, diving, 
 
 # Timeline
 1350. 
@@ -205,6 +205,7 @@ NOTE: If it says Milton, we are switching this out for Fairfield.
 2023.   
     - April 5: Keiko gives the crystal to Sakura full time.  However her daughter is a hand full, head strong, smart way beyond her years, hyper opinionated, and willing to take on anyone around her.  Her mother states she's like her, the Keiko doesn't see it. About the only thing in her life that humbles her is her lack of control of her abilities. 
     - June 5:  ANA lays off Keiko.  
+    - August 15: Sakura breaks into her father's office and challenges to tell the board if he denies her.  Her plan is to blackmail him.  She apparently broke into the doctors office and told the doctor he had ordered a paternity test along with his normal check up.  She then kicked him in the nuts and walked out.  
 2025.   
     - June 5: Keiko accepts a job with Boulevard airlines.  She moves at first to Baltimore then is based out of NYC.  
 2026. 
