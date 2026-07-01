@@ -1,14 +1,75 @@
 # Characters
 1. Jefery Milles
-    - Brought up as a military brat.  
-    - Was born 2 months pre-mature as  a result had a tendency to be short for his age.  
-    - Has 2 older brothers (Cecil and Robin), all are about 3 years apart
-    - Parents are Navel officers, with father being a Submariner (Nuclear engineer) and moteh leads maintance crews for subs. 
-    - Tended to be easy going, a bit hard, but friendly.  He doesn't or rarely backs down from fights but never goes out fo his way to start them. 
-    - When he was young a teacher said he may be what we would now call autistic.  However, his father refused to accept that.  Turns out he's just younger than eveyrone in his class and tends to act it.  He started drilling them, having them run and quizzing him a they go or playing catch and asking math problems ect. 
+    - BEFORE THE SWITCH:
+        - Brought up as a military brat.  
+        - Was born 2 months pre-mature as  a result had a tendency to be short for his age.  
+        - Has 2 older brothers (Cecil and Robin), all are about 3 years apart
+        - Parents are Navel officers, with father being a Submariner (Nuclear engineer) and moteh leads maintance crews for subs. 
+        - Tended to be easy going, a bit hard, but friendly.  He doesn't or rarely backs down from fights but never goes out fo his way to start them. 
+        - When he was young a teacher said he may be what we would now call autistic.  However, his father refused to accept that.  Turns out he's just younger than eveyrone in his class and tends to act it.  He started drilling them, having them run and quizzing him a they go or playing catch and asking math problems ect. 
+    - AFTER THE SWITCH (So Terra in Jeffery's body):
+        - There was a shock from being the popular girl to some random boy
+        - He nearly went through depression at one point, this got worse as he began to realize that he may never turn back
+        - What hurt worse was his military family was strict, and exacting.  They was an expectation and you met it or was punished.
+        - However he was also free to persue the sports he liked, and this acted as a comfort zone.
+        - Fe got more burried into athletics as Terra started to become more invested in the activities he wanted for herself, and mainly got that attention. But the lack of attention.
+        - After they moved to Georgia he went into a depression and didn't do anything for days, but his parents woldn't allow that to stay for too long
+        - While the idea of writting himself had come up, and he quickly realized Terra wouldn't have known where he went, he opted not to, instead, just figuring that chosing that other life wasn't worth it.  
+        - He had disocvered that his body was very attracted to boys very early, this mainly starting after trying to kiss Terra and recreat the siuation to get back. In fact most of her wet dreams featured Terra initally.  He tried to ge attracted to boys, but after the move, he realize that while it was more than possible, it no longer felt right.  
+        - So like his father stated he opted to just become waht he was and accept the situation as it was.  
+        - HOwever she also found sports harder as the male competition always seemed to be ever present, vesus the female where you were mostly competing agianst the same small groups. 
+        - If was around the time of prom that she finally just accepted her current self fully
 2. Terra Carpender
-    - Only child and was handled as such. 
+    - Before the switch
+        - Only child and was handled as such. 
+        - She was pretty heavily spoiled coming up, 
+        - Despite this she had a more down to Earth personality, even though she always knew she could get what she wanted
+        - She was intially tracking in a way that meant that she would more or less end up just trying to hunt down a rich man to marry. 
+        - Despite this she was all about being fit, especially after a certain age, and was easily pushed to be subseptible to peer pressure as she had started to place her opinion of herself in others 
+        - Forgot, since she was alway the center of attention she was always coveted.
+        - This only got worse as she got later into elementary school, even teachers started treating her specially as it was clear she was going to be the hot girl
+    - After the Switch (So Ethan in Jeffery's body)
+        - Confused and unnerved, but she accepted it calmly as she always had been taught
+        - Actually found the attention she started to recieve along with the almost spoiling tendency of her parents unnerving. 
+        - However, something grew within her aout having people wanting to be near here, and the idea of having fixed routes
+        - There was also the concept that she was very much now a very attracive girl, and keeping that girla ttractive was very desirable to her.
+        - It was that trip to Paris that broken her and forced her to surrender to this.  But she also quickly realized that there was no real limitation on what she wanted to do, being female simply meant that there was more she could get away with despite what so many women say.  
+        - Her first period was a wake up call, the price for being the center of attention all the time. 
+        - That being said the cramping was not anywhere near as bad as woman made it out to be. THe problem was that it was somewhat unrelenting for nearly 3-4 days.  Then the bleeding was also problematic
+        - The second one seemed more maangable, but it was the fact that this could happen a bit more random than she prefered that was something she didn't care for. 
+        - SHe started to dwel in this state of being female and the pleasures it gave her, started to realize that contrary to popular belief she could do what she wanted, and this became more and more obvious the closer she got to graduation.
+        - However it was only when she returned form Paris to see Jeffery gone did she realize she was now commited. She knew she ahd no way to look up where Jeffery had gone, but since they didn't know how to switch back anyway, did it matter
+        - She missed her parents but the concept of being in one place, as long as she wanted was appealing.
+        - She sort of became entitled, chosing careers that made her the center of attention. She realize what the teachers and the TV shows were pushign towards was true, she didn't need a man.  
+        - Attraction wise she was always on the fence.  She know ath dolled up woman were more attractive, which is why she was a bit of a lesbian going into college.  
+        - She had sex at prom, but she found it a bit uncomfortable and unpleasurable at first, especially due to it being her first time. 
+        - This lasted up till she met Evertt.  Initally she only thought of him as some guy that was going to look at her like the sexy thing she thought she was, but there was something carring about the whole thing that felt right.
+        - That being said in the marriave she wasn't sure if she intially felt comfortable, or was looking at Evertt as a stand by, an insurance policy if the dancing didn't work out and someone who she could rely on liking her and no one else. 
+        - Claire was a surprise and not one she cared for.  The pregnancy was normal but felt alien to her, and uncorfortable, and Claire was a baby, she took attention away from herself. 
+        - It wasn't until Evertt got sick that she realize jsut how much she loved him and Claire.  After COVID ended and the stage reopened, she had hopeed to dump Claire on her parents, but she coudln't do that, and ended up dropping dance instead.  
+        - Since then she has been the devoted mother
 3. Keiko Tsukihara
+    - As a child was somehwat uneasy, not the most ocnfident.  When her powers developed she was uneasy about them and didn't care for them, they were not the same as everyone else
+    - She was given the crystal as a method to control them
+    - She naturally grew more confident as she got older.  
+    - Moving to the United States was a shock to the system, and she was not sure of it and how if felt.  
+    - While the culture shock was pretty extreeme it wasn't enough to deter her.  In fact, she somewhat liked being in the US
+    - While the students at the school certainly were more "outgoing" than the ones in Japanese schools, she found the school itself far less stressful
+    - On the day which Jeffery and Terra switch she had been feeling a pull in the crystal, but she could not identify where it was coming from.  That night she had gone out to the party to hopfully make out with a boy, but while the boy she wanted was availible, it was this nerdy kid who came up to her first, one she didn't like (he was not white...irony, he now owns an AI services company and his IPO was valued at $10 billion).  
+    -  Going back to Japan was like going back to prison.  But she did her best to get through school. 
+    - She did well, but got stuck like so many Japanese woman in a thankless office job.  But it paid the bills, and she could at least live in Tokyo instead of Aomari.  She wanted to try to use this job to build up some money to do her dream job...but she didn't know what that was.  During a drinking parky after work she and her boss hooked up.
+    - Her boss and she started seeing each other. It was purely for fun and she didn't really like him, thinking he was ugly
+    - Then she got pregnant.  She didn't know what to do, but he fired her on the spot.  
+    - She tried to sue, but the lawyers were resitent to taking the case.
+    - She moves bakc to Amari where she had Sakura.  
+    - intially Sakura was a burden, a mouth that needed to be fed.  She moved back to Tokyo initally trying to restart her life, but when Sakura got sick one day she found herself paniking.  She was on a train in the subway when she felt something off, but ignored it.  She did notice a man collapse 
+    - Sakura just had collac. Keiko was relieved
+    - She opted to move back to Amori where she ahd a support system, however jobs were short.  
+    - She took the first thing that came to her, flight attendant at ANA.  At least this way she could live in Amori but commute by Air to work.  
+    - SHe actually liked the job, and it paid well, and she didn't feel like she was owned.  
+    - However, ANA laid her off due to drop in ridership that caused a downsizing of the company.  
+    - She eventually went over to Boulevard which was far more accomedating.  They had an opportunity to be based out of their US division in NYC and she took it.
+    - However, NYC rents were worse than Tokyo, so she had to stay in Queens.  But when a shooting happened, she opted to move to CT where she spent some of the happiest years of her life. 
 4. Macon Milles
     - the classically handsome boy.  When he shakes his light brown hair and flashes that smile, it is oftne said that girls just stomnaously become woman around him.  He goes down the hallway in a way that seems like ther eis a light standinb behind him 
     - He is Ethan's older brother and very down to Earth.  He likes video games, even sim video games.  Very athletic and expected to be an All AMerican athlete.
@@ -26,7 +87,31 @@
     - He actually loved when she was dancing to be alb eto say "That is MY wife"
     - Claire was also the highlight of his life.  Muhc of the stuff he did for her was just a chore, but only did it because she liked it. He barely knew hwo to do hair and certianly knew nothign about makeup or dolls.  It was only after watchign skating on TV and seeing how Claire respdonded did he take her skating, fguring it was something femenine she might like. 
 7. Claire Winchester
+    - Claire was practicalyl raised by her father initally, and he somewhat spoiled her.  
+    - While he couldn't always be availible due to work, when he was there, he was there
+    - Her mother she just knew that she was a dancer, but she loved that
+    - When her father took her skaing she fell in love with it and was a natural
+    - She was very active and seemed to want to try anything
+    - When her mother was there, she was very much treated as a baby doll, but she never once told her she couldn't do or try something...unless it was something bad that is. 
+    - It was probably onlt the death of her father that kept her from becoming more spoiled.  But her mother's influence had tempered things as it was clear she was just mkaing things up on the fly. 
+    - Today Claire is in Gymnastics, Skating and dance.  While she took ballet much because of her mother, is has helped support both gymanstics and Skating as it has allowed her to be more flexible and agile.  In fact up till now all of these sports/activity have been very compelmentary.  But she is also reching an age where all are beocming more competative ant taking up more time.  
+        - She is very good at dance and has an in on the American Ballet (her mothers old girlfriend, which she doesn't know her mother had a sexual relationship with) and she is right at the point where she could easily take it and run. 
+        - In Skating she won states twice in a row and is looking more as a shoe in for her first nationals event.  The timing is also almost perfect for her to peak right when she can get into the next winter Olympics
+        - Gymnastics she easly made it up to level 8
+        - As it stands right now, it depends on which day of the week depends on what she does.  
+        - Dance is every M W F and Saturday usually in the middle of the day, Gymnastics is M, W F and Saturday, usually begining about 10 minutes after dance (fortunutly she can walk to gym practice), skaing it T TH, and Saturday afternoons, but her skating instructor thinks she needs more time in the rink.  As of right now Sunday is her only day off. 
+        - She is unsure which to cut as she likes them all for one reason or another.  But she also admits that sometimes it feels like she is on auto pilot and doing them all because she has too and there is a desire to just do something because she wants to or different, something that she can push herself in.
+
+
 8. Ethan Milles
+    - He is the youngest and very much feels like he lives in his brother's shadow.  
+    - Physically fit, and does like to be active, but also doesn't mind just sitting back and enjoying the moment and can be very introspective
+    - Was much closer to his mother than father although had no issues with his father.  
+    - Mother did tend to treat him as the "girl" of the family though, although his father tried to keep this from happening.  This has not given him any sort of issues with gender fluidity or anything for the record
+    - He is actually very close to his big brother. They became closer after their mothers death
+    - He was rated as gifted as a young child
+    - He is definitly calmer and quieter than his brother, especially since often times he is forced to sit in classes with kids who often struggel to get concepts.  This often times leaves him with little to do but wait there for the class to catch up to him.  
+
 
 9. Dennis Welch
     - Born April 5, 2013
@@ -40,8 +125,9 @@
     - He comes off as a sort of nerd and someone who sould be an easy target, but often times he can take someone down easier that Mr. Spock on Star Trek...heck, he may hold one in pain (like by grabbing an ear), then hold you there as he lectures one on why they made a mistake by challenging him. People who see this side of him think of him as a psychopath or deranged, but really just as someone to simply never get on his bad side. Its also been say that if he gives you the wrong stare, tis like you would feel t deaths cold touch on your shoulder, and the only option form this point was to unalive ones self as you dela with teh realtiy that your time on Earth has come to an end.  
     - His father works as a UN interpreter and as such tought him how to easily pick up on languages.  Mother is a doctor.  
     - He also knows where the sister crystal is located
-        - It should be noted that his firs tanime shows were Sailor moon (he had a cartoon crush on Mercury) but it spossibly the crystal may have beenresponding to these fantacies...see Crystal history for expllanation
+        - It should be noted that his firs tanime shows were Sailor moon (he had a cartoon crush on Mercury) but it spossibly the crystal may have beenresponding to these fantacies...see Crystal history for expllanation. It is probably that the crystal may even be transforming him into the Ami character at night if he thinks of her in his dreams, but this is not confirmed even by him. 
     - Often calls his sister a rabbid wolverine with anger maangmeent issues. But does love his sister, but sees it as his God given right to bother her, no, a reqiuiment from his book on how to be a big brother (a book that seems to exist). He can also give big speeches that somehow end up with some sort of grandious music plaing in the background and maybe an Maericna flag (think Oliver form Green Acres). Can break the 4th wall on occasion. 
+    - While he is typically pretty calm his mind often races, not because he is stressed out or any reason it just does, often considering every possibility from the most fluffy bubble option that basically giving ig a G rating is an insult, to one which would cause the Marque Desaude to seek therapy for those terrible nightmares. 
 10. Sakura Tsukihara
     - Daughter of Keiko Tsukihara and her former boss Sakura is soul was switched with that of a random tourist when her body was only a few months old.  She has no idea what happened to her real body.  Growing up she had no clue of the language, and the physical limitations of an inphan effectivly meant she was stuck.  But the time she was finally old enough to manipulate computers or books, she had forgotten enough that she shimply could not look herself up.  To this day she recalls who she was and resents what has happened, evne thought she has opted to make the best of it.  Her resentment along with enough knowledge of the real world makes her very defiant and a tendency to challenge rather than blindly accept anything.  She is does not opt for the traditional fmeale anything and is known to be a handfull. She is typically a head of her classmates (except in Japanese and Japanese history, which she is average). She is very good with responciblity, but also flaunts the rules like a near politician. She is very likely to not get mad but get even, but she tries to use her "powers" for good. Unlike her mother, shes tarted showing her ability to use her powers at a far earlier age, in fact, far younger than her mother, mayking her a bit of a protegy.  
     - Problem solver, and very curious, she has excelent deductive skills. using this skills can and cannot get her into trouble, but she can also get out of it faster than a near corrupt politician too...or Batman. 
@@ -55,6 +141,26 @@
     - It should be noted she has met her father's new wife and her father's family, she has made it clear she will be challenging for any inheritence. 
         - Her Revenge scheme: To some extent is it hard for Sakura not to have mixed feeligns about her mother. There is basic love a child has for a parent, and then the fact that Keiko is still a beautiful woamn, but also the fact that a woman like that would rather have gone after someone she new was trash instead of going after a decent guy.  But the ANA job was rough and draining. She knew who he was because she was just that good.  She discovered that he was going for a standard physical, so she snuck into the office, and after he left he saw the nurse start to put in his information, so she made a disration, and order the paternity test by entering it into the system.  The nurse didn't think twice.  She then had the test taken and a few days latter the notes came up. He then approached her.  He was furious, but when the hsopital stated that he had ordered it and it was on his file, he realizd somehow he ahd been had.  The family wanted this to go away, epsecially as he was marrying a wealthy woman who as it turns out as a performer Sakura was familiar with, but Sakura stated that the family was no longer negotiating with the mother but her, and when he finally kicked she wasn't releasing her right sto any inheritance.  You see, Sakura spent nearly a year researching the law and her dead beat dad and his family. Surprisingly, her grandmother, clearly the matriac of the family actually likes her drive, and only states it needs temperment.  
         - Result: To keep it out of the press, they pay Keiko child support and a alimony.  The trad off, every summer, Sakura must spend at least 2 weeks with the family.
+# Secondary Characters
+1. Principle Edith Whitehead
+    - Born in 1981
+    - A femenist type, unmarried
+    - Tends to be biased towards the female students
+    - Despite being in her 40s she looks far younger as she does work out and take care of herself
+    - In reality she wanted to be a newscaster, but got stuck being a teacher because the profession was too stiff
+    - She does wear glasses, but this is because...she has a hard time reading without them, and cannot get contacts into her eyes to save her life
+    - She guys call her the sexy principle, but once they get to know here, they start refering to her as a cold insentive woman, or evne  hard core lesbian, which she is not.
+    - Her policies however, while supposedly giving boys the upper hand, have lead to many boys having a sort of broken spirit as she often calls them out, gives them disproportionate punishments and even expells them
+    - She is a neo-femenist
+2. Ashely Winters
+    - NOTE: based on Ashley for Warrior Ware (US version)
+    - 8 years old
+    - She does not attend this school, but lives close to Dennis' grandmother
+    - Her parents are work-o-holics and often leave her in Dennis' care
+    - She has a very cold and dark personality
+    - She likes to think she is a witch and in reality does have some magical abilities, but they are very weak and undisciplined
+    - She comes off as hating Dennis, but actually doesn't mind him, even views him as a big brother to some extent
+3. 
 
 # Setting
 NOTE: If it says Milton, we are switching this out for Fairfield.  
@@ -276,4 +382,5 @@ NOTE: If it says Milton, we are switching this out for Fairfield.
     - Septmeber 18: Nathan finds some basic dance classes online and starts doing some of the mooves when he is at home and his father and brother are away.  
     - September 20: Keiko who got her private pilot's liscence takes Sakura on a flight up and down the coast in a twin engine Seminole.  
     - September 23:  The cheerleaders find out about Claire's gymnastics and start hunting her down to join.  Same day Sakura and Ethan are tasked with working on a project together for school.
-    - September 24: 
+    - September 24: Claire realizes she may fail this first assignment.  She recognizes that Ethan has completed and and tries to conn him into doing it for her.  He says no. Claire happens to speak to one of the popular girls who tells her to just pressure him and even just use the prospect of sex as a weapon.  They attempt this latter, but Ethan says no. This causes a rather big conflict, which ends in the principles office.  However Dennis vouches for Ethan having seen the event.  However the principle, practically orders him to help Clair out in detention the next day. Ethan complained about the principal but his father wasn't having any of it. 
+    - September 25: Ethan is mad as he did nothing wrong but hold his ground.  They meet in the library where Sakura also happens to be, reading up on something.  Ethan realizes that Claire has nothing done for this research assignment, so they actually have  to do reseach.  Going through the books, which she finds a waste of time, he states he isn't going to do if for them.  As they start to argue, Sakura is on the other side reading a manga not paying attnetion to the two on the other side.  For some reason her crystal activates and swaps Clair and Ethan.  
