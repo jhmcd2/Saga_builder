@@ -349,7 +349,8 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - June 5:  Main Earth fleet enters Jupiter's gravity well.  Fighters are launced as the ship's ener dceration phase. 
      - June 8: The Main Earth fleet encounters the first line of the picket forces.  
      - June 12:  THe four day charge across the picket lines damages several Earth vessels but the Martian fleet is left with far heavier damage.  
-     - August 5: After journeying in the forest for years on her own, Alisa arrives at the near the Guiana Highlands where she finds a small community.  She sneaks inside under the cover of darkness looking for food, but is quickly found.  Instead of kicking her out they opt to help her.  Despite her objections Nulla tells Alisa just to stay put for now telepathically as it stays hidding in the woods. 
+     - August 5: After journeying in the forest for years on her own, Alisa arrives at the near the Guiana Highlands where she finds a small community.  She sneaks inside under the cover of darkness looking for food, but is quickly found.  Instead of kicking her out they opt to help her.  Despite her objections Nulla tells Alisa just to stay put for now telepathically as it stays hidding in the woods. NOTE: unless I cannot put this someplace else...This is an isolationist cult. 
+     -October 
 
 
 2174. 
@@ -1132,6 +1133,62 @@ At minute 10, the screaming and shaking suddenly stops as the fleet rises back o
 * The Immediate Emergency: Their periapsis is still inside the atmosphere. The captains have only a short window to angle their ships and fire a secondary burn to raise their orbital altitude out of the clouds permanently, or they will plunge back down on the next loop and burn up.
 * The Tactical Visual: As the plasma shield dissipates, the ships emerge into the cold Jovian sky, their outer titanium hulls glowing red-hot, trailing wisps of scorched Jupiter gas, but safely captured in a lower orbit, completely defying the enemy's predictions.
 
+# 
 
 
 
+
+That actually gives us enough to estimate the fleet's average cruise speed.
+
+From **January 13, 2162** to **June 5, 2163** is about **508 days**.
+
+The average distance from Earth to Jupiter depends on where Jupiter is in its orbit:
+
+* **Closest practical distance:** ~365 million miles
+* **Average transfer:** ~550–600 million miles
+* **Opposite side of the Sun:** ~600–970 million miles
+
+If we assume your fleet covered about **600 million miles in 508 days**, its average speed was:
+
+* **1.18 million miles/day**
+* **49,000 mph**
+* **13.6 miles/second (21.9 km/s)**
+
+That's actually a fairly reasonable average for a long-duration fusion or high-efficiency propulsion mission in hard-ish science fiction.
+
+### Applying that to the picket line
+
+A **20-million-mile** deep picket line would take:
+
+* **20,000,000 ÷ 1,180,000 ≈ 17 days**
+
+So if the first contact occurs on **June 12**, the fleet wouldn't fully break through until roughly **June 29, 2163**.
+
+With **10 evenly spaced waves**, the encounters would be about **1.9 days apart**.
+
+| Wave | Approximate Date |
+| ---- | ---------------- |
+| 1    | June 12          |
+| 2    | June 14          |
+| 3    | June 16          |
+| 4    | June 18          |
+| 5    | June 20          |
+| 6    | June 22          |
+| 7    | June 24          |
+| 8    | June 26          |
+| 9    | June 28          |
+| 10   | June 29–30       |
+
+### From a storytelling perspective
+
+A **17-day running battle** is actually a compelling timeframe. It allows for:
+
+* ships rotating in and out of formation,
+* logistics and damage control becoming major factors,
+* reinforcements arriving,
+* commanders adapting tactics over multiple engagements,
+* and the defenders gradually falling back toward Jupiter instead of one giant, decisive battle.
+
+It also makes the "10 waves" feel like successive defensive belts rather than ten separate one-day skirmishes.
+
+One question that would help refine the timeline: **Is the 20-million-mile picket line measured along the fleet's flight path (its depth), or is it 20 million miles wide around Jupiter (its circumference or lateral extent)?** That changes the spacing and duration significantly.

@@ -1,11 +1,61 @@
 # Characters
 1. Jefery Milles
+    - Brought up as a military brat.  
+    - Was born 2 months pre-mature as  a result had a tendency to be short for his age.  
+    - Has 2 older brothers (Cecil and Robin), all are about 3 years apart
+    - Parents are Navel officers, with father being a Submariner (Nuclear engineer) and moteh leads maintance crews for subs. 
+    - Tended to be easy going, a bit hard, but friendly.  He doesn't or rarely backs down from fights but never goes out fo his way to start them. 
+    - When he was young a teacher said he may be what we would now call autistic.  However, his father refused to accept that.  Turns out he's just younger than eveyrone in his class and tends to act it.  He started drilling them, having them run and quizzing him a they go or playing catch and asking math problems ect. 
 2. Terra Carpender
+    - Only child and was handled as such. 
 3. Keiko Tsukihara
-4. Macon
+4. Macon Milles
+    - the classically handsome boy.  When he shakes his light brown hair and flashes that smile, it is oftne said that girls just stomnaously become woman around him.  He goes down the hallway in a way that seems like ther eis a light standinb behind him 
+    - He is Ethan's older brother and very down to Earth.  He likes video games, even sim video games.  Very athletic and expected to be an All AMerican athlete.
+    - He is very good in school but its from hard work.  When he's not on the field, he's often studying.  He has some dreams of going pro in the NFL, but he wouldn't mind being a Naval aviator ether (somethign his grand father both likes and doesn't...dut he does ge tthe idea of wanting to see the sun )
+    - He has always consider Ethan his young playmate regardless of the situation.  While he doesn't tourture him, he does like playing with him.  He never takes it to far though
+    - THat being said, he has wonderede what his little brother would look like in a dress, and wonders if he is attracted to him on some level.  
+    - In public is his calm, ssmoth, maybe a bit on the akward side, but no so much that he seems like he isn't sure of himself. 
+    - IN privae he is jovial, but can be serious.  He does have a thinkg for movies with trnasformation scenes in them. 
+    - He is not the type to defend Ethan in public, prefering to let him fihgt his own battle,s unless he was sure he couldn't.  But if he does get invovled, he usually doesn't hold back. 
 5. Evertt Winchester
+    - Always the type that watned a family since he was a kid, however he was the type no one wante dto deal wth
+    -He had astma growing up, and it could get bad.  However it eased up as he got older, but he also takes a couple of perscriptions with it and still keeps an emegency inhaler
+    - When he first met terra, he thought she was an intittled woman who was just handed everythign she wanted, but he was a professional.  
+    - However after marrying her he honestly did love her In fact the pregnancy only gave him the courage to propose. 
+    - He actually loved when she was dancing to be alb eto say "That is MY wife"
+    - Claire was also the highlight of his life.  Muhc of the stuff he did for her was just a chore, but only did it because she liked it. He barely knew hwo to do hair and certianly knew nothign about makeup or dolls.  It was only after watchign skating on TV and seeing how Claire respdonded did he take her skating, fguring it was something femenine she might like. 
 7. Claire Winchester
 8. Ethan Milles
+
+9. Dennis Welch
+    - Born April 5, 2013
+    - Quiet but observant, and tactical.  Typically he comes of as neutral and passive, but he can be very friendly and aggressive if need be. 
+    - Very studious 
+    - OUtside of his actually married and happy family and his faving far more restraint, he has a very similar perosnality to Sakura (think of his Agent K to her Agent J in the first men in black movie)
+    - That beign said he is recognizing how his parents seem to heavily favor his younger sibling, but its not so obvious nor is it something he'd bring up just yet.
+    - A+ Student
+    - Will straight up tell you know if he doesn't feel like doing something.
+    - While he normally seems unimpressed, and rarely smiles, if he does, especially that evil dictator smile, its best that you run if its against him.
+    - He comes off as a sort of nerd and someone who sould be an easy target, but often times he can take someone down easier that Mr. Spock on Star Trek...heck, he may hold one in pain (like by grabbing an ear), then hold you there as he lectures one on why they made a mistake by challenging him. People who see this side of him think of him as a psychopath or deranged, but really just as someone to simply never get on his bad side. Its also been say that if he gives you the wrong stare, tis like you would feel t deaths cold touch on your shoulder, and the only option form this point was to unalive ones self as you dela with teh realtiy that your time on Earth has come to an end.  
+    - His father works as a UN interpreter and as such tought him how to easily pick up on languages.  Mother is a doctor.  
+    - He also knows where the sister crystal is located
+        - It should be noted that his firs tanime shows were Sailor moon (he had a cartoon crush on Mercury) but it spossibly the crystal may have beenresponding to these fantacies...see Crystal history for expllanation
+    - Often calls his sister a rabbid wolverine with anger maangmeent issues. But does love his sister, but sees it as his God given right to bother her, no, a reqiuiment from his book on how to be a big brother (a book that seems to exist). He can also give big speeches that somehow end up with some sort of grandious music plaing in the background and maybe an Maericna flag (think Oliver form Green Acres). Can break the 4th wall on occasion. 
+10. Sakura Tsukihara
+    - Daughter of Keiko Tsukihara and her former boss Sakura is soul was switched with that of a random tourist when her body was only a few months old.  She has no idea what happened to her real body.  Growing up she had no clue of the language, and the physical limitations of an inphan effectivly meant she was stuck.  But the time she was finally old enough to manipulate computers or books, she had forgotten enough that she shimply could not look herself up.  To this day she recalls who she was and resents what has happened, evne thought she has opted to make the best of it.  Her resentment along with enough knowledge of the real world makes her very defiant and a tendency to challenge rather than blindly accept anything.  She is does not opt for the traditional fmeale anything and is known to be a handfull. She is typically a head of her classmates (except in Japanese and Japanese history, which she is average). She is very good with responciblity, but also flaunts the rules like a near politician. She is very likely to not get mad but get even, but she tries to use her "powers" for good. Unlike her mother, shes tarted showing her ability to use her powers at a far earlier age, in fact, far younger than her mother, mayking her a bit of a protegy.  
+    - Problem solver, and very curious, she has excelent deductive skills. using this skills can and cannot get her into trouble, but she can also get out of it faster than a near corrupt politician too...or Batman. 
+    - She likes Anime, althgouh the Magical girl genre she isn't sure if she should like it or find it insulting. 
+    - She speaks Japaanese and English fluently, and is actually stronger in English 
+    - She is far faster than other girls in her class in Japan, with teachers often stating she is more like the boys in orgnaized sports games
+    - Isn't really sociable.  Tends to be stand offish. While she can be friendly cross her and its like crossing Batman, or a passive aggressive anime villian. SH eis known to plot scheme,and be as strategic as Trawn is, if Thrawn had graduated from Starfleet academy no the Empire. 
+    - All in all she found herself in a sort of Ichninesei Ni Nachatta situation.  She is just making her way through it. The idea of a second chance at life is appealing but she also regnonizes that its bene no picknick ehter.  He father pisses her off as in her previous life no good would say boo to him or looked 
+    at him as if he was about to rob them. 
+    - While her since of modesty seems to not be up to Japanese female standards (traditional standards), she did drop kick a boy who flip up her skirt at school in a move so smooth even Jet Li would have to give her props
+    - It should be noted she has met her father's new wife and her father's family, she has made it clear she will be challenging for any inheritence. 
+        - Her Revenge scheme: To some extent is it hard for Sakura not to have mixed feeligns about her mother. There is basic love a child has for a parent, and then the fact that Keiko is still a beautiful woamn, but also the fact that a woman like that would rather have gone after someone she new was trash instead of going after a decent guy.  But the ANA job was rough and draining. She knew who he was because she was just that good.  She discovered that he was going for a standard physical, so she snuck into the office, and after he left he saw the nurse start to put in his information, so she made a disration, and order the paternity test by entering it into the system.  The nurse didn't think twice.  She then had the test taken and a few days latter the notes came up. He then approached her.  He was furious, but when the hsopital stated that he had ordered it and it was on his file, he realizd somehow he ahd been had.  The family wanted this to go away, epsecially as he was marrying a wealthy woman who as it turns out as a performer Sakura was familiar with, but Sakura stated that the family was no longer negotiating with the mother but her, and when he finally kicked she wasn't releasing her right sto any inheritance.  You see, Sakura spent nearly a year researching the law and her dead beat dad and his family. Surprisingly, her grandmother, clearly the matriac of the family actually likes her drive, and only states it needs temperment.  
+        - Result: To keep it out of the press, they pay Keiko child support and a alimony.  The trad off, every summer, Sakura must spend at least 2 weeks with the family.
+
 # Setting
 NOTE: If it says Milton, we are switching this out for Fairfield.  
 # Locations
@@ -15,10 +65,15 @@ NOTE: If it says Milton, we are switching this out for Fairfield.
     - One large building on a 10 acre campus.  
     - Tuition: OMG HOW MUCH!!!! They can just go to public school I am not paying that!
     - Sports: Swimming, Cross country, basketball, cross country, indoor track track and field, soccer, lacross, field hockey, golf, diving, 
-
+# The Crystalst backgound
+    - Made in the 1300's the crystal was owned by a boy name Yi Sua.  He had a sister named Li Sua.  Both were training with the powers, but often swapped bodies back and forther withn they evnetually learned how, oftne for fun, sometimes for work or studying. It was probably 15 years before they realized that peopel could always tell who was who. However, since they were the first users of thes etwo crystals, they effecivly imprented a bias in them for this body x chage.  While it rarely activates on its own it can . 
+    - The Crystals were then passed down over the centuries with the Tsukihara family being long lost descendants of the son. 
+    - The sister's crystals location is unknown.   However it is assumed that since these first twins were so close that both crystalsn could potentially try to seek each other out. 
+        - This is only technically True.  After the crystlas naturally migrated from Shagri-La, through China for about a thousand years through wars, famine, floods etc, the sister crystals ende dup being found by a British trader in Hong Kong befroe making its way to the UK its purpose forgotten.  Its was determeind to be cheap Quartz, sold to a oddities shop before being bought buy an Americna soldier during WWII, making its way to the US where in came into posietion of a teacher named Karen Smith, who happens to be Dennis's maternal grandmother.  She also used to work the camp in upstate VT were Terra and Ethan switched  and was there that year. She used to wear it as a good luck charm. It is currently at her house.  Dennis recalls it because well he's been there and he's seen it enouhg to know its not an a-typical crystal. 
 # Timeline
 1350. 
     - ???: Crystal is main as a training element for young Chi Masters in Tibet (Shagra-La)
+    - ???: the first user was a male twin who had a sister.  They often swapped bodies with teh crystals (she had one too)
 1983. 
     - April 5:  Keiko is born in Aomari Prefecture, JP
 1984. 
@@ -216,6 +271,7 @@ NOTE: If it says Milton, we are switching this out for Fairfield.
     - September 3: Ethan and Claire start middle school. Ethan is Compelled to go out for the cross country team. 
     - September 10: While Ethan feels out of place Macon his older brother does what he can to show his little brother around.  Macon appears to be the most popular boy on campus, and some even wonder how Ethan and he can be related. 
     - Sepber 13:  Ethan sort of befriends Sakura.  He just finds her hilarious.  She finds him a bit annoying but tolerable.  They share a science class together. 
+    - September 14: In the boy's gym class, Ethan is smoked by another boy in the class.  He simply couldn't keep up.  The boy's name is Dennis.
     - September 17: Ethan and Claire spend 5 minutes talking to each other as a apart of an assignment in English. 
     - Septmeber 18: Nathan finds some basic dance classes online and starts doing some of the mooves when he is at home and his father and brother are away.  
     - September 20: Keiko who got her private pilot's liscence takes Sakura on a flight up and down the coast in a twin engine Seminole.  
