@@ -350,7 +350,7 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - June 8: The Main Earth fleet encounters the first line of the picket forces.  
      - June 12:  THe four day charge across the picket lines damages several Earth vessels but the Martian fleet is left with far heavier damage.  
      - August 5: After journeying in the forest for years on her own, Alisa arrives at the near the Guiana Highlands where she finds a small community.  She sneaks inside under the cover of darkness looking for food, but is quickly found.  Instead of kicking her out they opt to help her.  Despite her objections Nulla tells Alisa just to stay put for now telepathically as it stays hidding in the woods. NOTE: unless I cannot put this someplace else...This is an isolationist cult. 
-     -October 
+     -October 10:  The combined fleets go on a moon hopping campaign, but it tough.  The original Martian Vanguards are taken out of circulation. They start for an elipical orbit while the other vessels start the conflict. It is a "Crank-Back" Polar Orbit.  it takes nearly 10 days to achieve.  Several of the Earth Vangards break off the restock them. 
 
 
 2174. 
