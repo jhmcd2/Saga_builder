@@ -350,7 +350,20 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - June 8: The Main Earth fleet encounters the first line of the picket forces.  
      - June 12:  THe four day charge across the picket lines damages several Earth vessels but the Martian fleet is left with far heavier damage.  
      - August 5: After journeying in the forest for years on her own, Alisa arrives at the near the Guiana Highlands where she finds a small community.  She sneaks inside under the cover of darkness looking for food, but is quickly found.  Instead of kicking her out they opt to help her.  Despite her objections Nulla tells Alisa just to stay put for now telepathically as it stays hidding in the woods. NOTE: unless I cannot put this someplace else...This is an isolationist cult. 
+     -  August 6:  Alisa meet sthe elader of the comunity, but something about him is off, he seems dis ginuine, but the others follow him like he is jesus. 
      -October 10:  The combined fleets go on a moon hopping campaign, but it tough.  The original Martian Vanguards are taken out of circulation. They start for an elipical orbit while the other vessels start the conflict. It is a "Crank-Back" Polar Orbit.  it takes nearly 10 days to achieve.  Several of the Earth Vangards break off the restock them. 
+     - November 20: The Constitutions group arrives at the repair site.  They are restocked and reloaded.  They are given boxes of radiation injections as crews work to repair damage to the outer hull.  However, befor ethey break the chilf engineer dies of radiation posining. Thomas becomes chief engineer 
+     - November 30: the Constitution breaks with the repair fleet.  
+     - December 10:  Four waves of Vangaurad ships begin to Battle of Calisto.  they atempt to enter orbit from multible vectors Thy meet massive reistence from Jovian forces. Fighers engage on the edge of the Calisto gravity well first
+     - December 11: Jovian curisers and Vnaguard ships exchange fire for the first time ni the battle. They effectivly then start orbital chases as they try to out manuver each other around the moon's orbit
+     - December 20:  Jovian picket line ships are spotted retrning back.  The Constillation and her battle group opt to intercept them.  
+     - December 25:  Christmas in the cult.  It is a joyous day with presents and food and a feast. it is the honor of the members passing their of age daughters to the leader which seems odd Alisa, but she has no frame of reference. She just accepts it.
+     - December 31: of the 400 Vnaguards that started the batlte of Calisto, 30 wer edestroyed, and another 50 have heavy damamge, but around 90% of the Jovian fleet has been destroyed.  The Earth troop carriers now leave their parking orbit and head towards Calisto
+2164. 
+     - Janurary 1: Calisto forces start firing group based weapons into oribt, destroying another 3 Vanguards and 4 troop trainsports as they come into orbit.  Vnaguards are forced to ascend to higher orbits. 
+     - Janurary 5:  The Constilltion's battlegroup intercept the Jovian picket ships continuing the battle of the void. 
+     - Janurary 8:  Constitution's group is deployed to a holding orbit near Callisto.
+     - 
 
 
 2174. 
