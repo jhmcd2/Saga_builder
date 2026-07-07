@@ -363,7 +363,11 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - Janurary 1: Calisto forces start firing group based weapons into oribt, destroying another 3 Vanguards and 4 troop trainsports as they come into orbit.  Vnaguards are forced to ascend to higher orbits. 
      - Janurary 5:  The Constilltion's battlegroup intercept the Jovian picket ships continuing the battle of the void. 
      - Janurary 8:  Constitution's group is deployed to a holding orbit near Callisto.
-     - 
+     - Janurary 25: Operation Clean Sweep begins.  This operation is meant to get rid of the remaing horsement on Earht once and for all. By deploying reousrces to all directlly allied continents, making their responce time less than 24 hrs. 
+     - Februrary 1: Earth troops land on Callisto.  Jovian forces start untilizing scorced Earth tactics to fight them back.
+     - March 15:  Jovian forces set off a massive trap for Earth forces and detonate a massive fusion generator, destroing 50% of Earth forces on the planet. 
+     - May 12: The Earth forces in the Jovian system begin to position for a attack on Gamamede 
+     - May 15:  
 
 
 2174. 
