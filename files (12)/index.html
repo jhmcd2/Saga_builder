@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SILKWAVE Web/Admin API — Documentation</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/5.17.14/swagger-ui.min.css">
+  <style>
+    html, body { margin: 0; padding: 0; background: #fafafa; }
+    #topbar-replacement {
+      background: #1b1b1b;
+      color: #eee;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    #topbar-replacement strong { color: #fff; }
+    #topbar-replacement span { color: #999; }
+    .swagger-ui .topbar { display: none; }
+  </style>
+</head>
+<body>
+  <div id="topbar-replacement">
+    <div><strong>SILKWAVE Web/Admin API</strong> &mdash; hand-authored spec, not auto-generated</div>
+    <span>spec source: silkwave-web-api-openapi.yaml</span>
+  </div>
+  <div id="swagger-ui"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/5.17.14/swagger-ui-bundle.min.js"></script>
+  <script>
+    window.onload = function() {
+      window.ui = SwaggerUIBundle({
+        url: "./silkwave-web-api-openapi.yaml",
+        dom_id: "#swagger-ui",
+        presets: [
+          SwaggerUIBundle.presets.apis,
+          SwaggerUIBundle.SwaggerUIStandalonePreset
+        ],
+        layout: "BaseLayout",
+        deepLinking: true,
+        docExpansion: "list",
+        defaultModelsExpandDepth: 2,
+        tryItOutEnabled: false
+      });
+    };
+  </script>
+</body>
+</html>
