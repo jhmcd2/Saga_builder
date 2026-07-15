@@ -360,14 +360,18 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - December 25:  Christmas in the cult.  It is a joyous day with presents and food and a feast. it is the honor of the members passing their of age daughters to the leader which seems odd Alisa, but she has no frame of reference. She just accepts it.
      - December 31: of the 400 Vnaguards that started the batlte of Calisto, 30 wer edestroyed, and another 50 have heavy damamge, but around 90% of the Jovian fleet has been destroyed.  The Earth troop carriers now leave their parking orbit and head towards Calisto
 2164. 
-     - Janurary 1: Calisto forces start firing group based weapons into oribt, destroying another 3 Vanguards and 4 troop trainsports as they come into orbit.  Vnaguards are forced to ascend to higher orbits. 
+     - Janurary 1: Calisto forces start firing group based weapons into oribt, destroying another 3 Vanguards and 4 troop trainsports as they come into orbit.  Vanguards are forced to ascend to higher orbits. 
      - Janurary 5:  The Constilltion's battlegroup intercept the Jovian picket ships continuing the battle of the void. 
      - Janurary 8:  Constitution's group is deployed to a holding orbit near Callisto.
      - Janurary 25: Operation Clean Sweep begins.  This operation is meant to get rid of the remaing horsement on Earht once and for all. By deploying reousrces to all directlly allied continents, making their responce time less than 24 hrs. 
      - Februrary 1: Earth troops land on Callisto.  Jovian forces start untilizing scorced Earth tactics to fight them back.
      - March 15:  Jovian forces set off a massive trap for Earth forces and detonate a massive fusion generator, destroing 50% of Earth forces on the planet. 
      - May 12: The Earth forces in the Jovian system begin to position for a attack on Gamamede 
-     - May 15:  
+     - May 15:  Operation push to the sea starts on Earth.  This aims to push all the Horsemen into the sea where subs will then destroy them.  
+     - May 30:  The Jovians stage nearly 100,000 space based assets around Ganymede. 
+     - June 1: Earth Command decides the bestr strategy is to create a rolling wave of attacks, whick hits that hit the forces from multible angles.
+     - June 5:  the Vangards dispurse around the Jovian system.  the strategy is to form a sort of twin figure eights (from the top as seen head on it would appear to be an X).  Each ship will hammer the enemy ships quickly and suddenly then pull out towards a point where the quickly restock and rearm and then ehad back in. This is made easier as additional supply vesles are just begining to arrive from earth
+     - June 10: Warden and Reclaimer are pushed into the ocean.  However they head to deep too quickly. However subs and ships used depth cahrges to try to force them up. (NOTE: in reality its an effort to give an escuse for all the units to wind up in South America as they are the last holdouts)
 
 
 2174. 
