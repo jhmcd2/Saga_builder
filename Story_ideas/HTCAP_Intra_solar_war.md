@@ -370,8 +370,9 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
      - May 15:  Operation push to the sea starts on Earth.  This aims to push all the Horsemen into the sea where subs will then destroy them.  
      - May 30:  The Jovians stage nearly 100,000 space based assets around Ganymede. 
      - June 1: Earth Command decides the bestr strategy is to create a rolling wave of attacks, whick hits that hit the forces from multible angles.
-     - June 5:  the Vangards dispurse around the Jovian system.  the strategy is to form a sort of twin figure eights (from the top as seen head on it would appear to be an X).  Each ship will hammer the enemy ships quickly and suddenly then pull out towards a point where the quickly restock and rearm and then ehad back in. This is made easier as additional supply vesles are just begining to arrive from earth
+     - June 5:  the Vangards dispurse around the Jovian system.  the strategy is to form a sort of twin figure eights (from the top as seen head on it would appear to be an X).  Each ship will hammer the enemy ships quickly and suddenly then pull out towards a point where the quickly restock and rearm and then ehad back in. This is made easier as additional supply vesles are just begining to arrive from earth.  It shuld be noted that each orbit has variability, some can take 10 days other 8 depeding on stellar obsicles, gravity asits from other moons or just return bunr times. 
      - June 10: Warden and Reclaimer are pushed into the ocean.  However they head to deep too quickly. However subs and ships used depth cahrges to try to force them up. (NOTE: in reality its an effort to give an escuse for all the units to wind up in South America as they are the last holdouts)
+     - 
 
 
 2174. 
@@ -398,8 +399,22 @@ Scifi, Hard scifi, Actrion, drama, Paranormal, alien tech,
 - GEN 2 Class ship
 4. Vanguard Class
 - GEN 3 Class Ship
+- Mass around 30,000 tons
 - Titanium Hull plating with advanced composite frame
 - 10x more durable than the Novas
+- Uses Upscaled Fusion engines that were typically found on Colony ships
+     * Has 4 Fusion drives build ether by Northrup Grunman, Rolls Royce or Pratt and Whitney
+     * Each one capable of a produce 34 MN of Thurst, 50 MN at emergency but this can caus damage and requires shut downs and inspections or reaplcement.
+- Fusion Power core
+     * Can out put up to 500 GW during high stress periods but normall between 50-100 GW
+- Have the following Armaments
+     * 5000 Missiles houses in 4 6 tube VLR missile launchers
+     * 12 1mm diameter rail guns with 20k rounds each 
+     * 4 8mm rail guns with 10k rounds
+     * 2 16" diameter cannons, both forward facing with auto lanchers 
+     * 2 forward xenon plama emitters
+     * 4 xenon turrent moutned laser cannons (ainly for point defense)
+     * 2 lanch cnnisters for converted sub launched ICMBs
 5. Galaxy II Class Troop Transport
      - A Interplanetary Troop Lift Platform (ITLP)
      - This is essentually a massive ring of 1000' long bargess welded together and then connected to another barge.  IN space they are linked together in a large rotating cylinder, claimbed togeter with tention lines.  In the cetern is a long, rocket engine with a nuclear rocket in the center.  There is also scafoding which fighters snf landers ar mounted. 
