@@ -6,3 +6,9 @@ NOTE: they were not there for thier intial hosuind day, being at a competition. 
 
 
 - The apprtment they are staying in in Glascow is near the Kelvingrove Park.  He goes to the Glasgow Club Mary hill or if its open, the Tollcross International Swimming Centre to swim. 
+
+
+
+https://www.viator.com/tours/Marseille/Catamaran-cruise-in-the-Frioul-Archipelago-in-Marseille/d485-398586P1
+
+Catamaran cruise in the Frioul Archipelago in Marseille
