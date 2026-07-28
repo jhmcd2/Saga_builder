@@ -1,0 +1,746 @@
+openapi: 3.1.0
+
+info:
+  title: SILKWAVE Web/Admin API
+  version: "1.0.0"
+  description: |
+    OpenAPI description of the HTTP(S) servlet API exposed by `gov.ic.silkwave.web.WebServer`
+    (embedded Jetty, plain `jakarta.servlet.http.HttpServlet` implementations — no Spring MVC,
+    no JAX-RS). Hand-authored from source review of `WebServer.java` and the servlet classes
+    listed under `endpointsDocumented` below; it is not generated from annotations, since none
+    exist in this codebase.
+
+    ## Server modes
+    The server runs in exactly one connector mode at a time: HTTP (default port 8501) or
+    HTTPS (default port 8601), whichever is enabled — HTTPS wins if both flags are set. See the
+    `servers` list below for both.
+
+    ## Authentication
+    All paths under `/` require Jetty Form authentication (roles `user`/`admin`/`moderator`)
+    **except when the server is running in HTTPS-only mode**, where no security handler is
+    attached at all — see the technical report for details. The following paths are explicitly
+    whitelisted from authentication in HTTP mode: `/health`, `/resources-export/*` (note: NOT
+    the bare `/resources-export` path), and static login assets. `/rest/v3/*` is unauthenticated
+    in all modes because it lives on a separate, unsecured servlet context.
+
+    ## Coverage
+    This spec covers only the servlets that were available for source review:
+    `HealthServlet`, `SilkwaveAdminServlet`, `NamingServiceAdminServlet`,
+    `ResourcesExportServlet`, and the optional `CasportV3SimServlet`. Other servlets registered
+    in `WebServer.java` (`DiscoveryServiceAdminServlet`, `NetworkStatusAdminServlet`,
+    `RegistrationAdminServlet`, `RoutingAdminServlet`, `SecurityAdminServlet`,
+    `NamingAdminServlet`, `StreamAdminServlet`, `FileAdminServlet`) are NOT included here because
+    their implementations were not reviewed — add them once their source is available rather
+    than guessing at their shape.
+
+servers:
+  - url: "http://{host}:{port}"
+    description: HTTP connector (plaintext). Default port 8501.
+    variables:
+      host:
+        default: localhost
+      port:
+        default: "8501"
+  - url: "https://{host}:{port}"
+    description: HTTPS connector (TLS). Default port 8601. Mutually exclusive with the HTTP connector.
+    variables:
+      host:
+        default: localhost
+      port:
+        default: "8601"
+
+tags:
+  - name: health
+    description: Liveness probe
+  - name: admin
+    description: Hub status / dashboard administration
+  - name: naming
+    description: Name server route inspection
+  - name: resources-export
+    description: Read-only export of NameServer resource maps
+  - name: casport-sim
+    description: CASPORT v3 group-membership simulator (test/dev only)
+
+security:
+  - formAuth: []
+
+paths:
+
+  /health:
+    get:
+      operationId: getHealth
+      summary: Liveness probe
+      description: >
+        Intended for Kubernetes liveness probes. Pings internal message-bus endpoints
+        (WW, security, AppGeo, ISR fabric — each individually toggleable via config) and
+        reports overall health.
+      tags: [health]
+      security: []
+      responses:
+        "200":
+          description: Healthy
+          content:
+            text/plain:
+              schema:
+                type: string
+                enum: ["good"]
+              example: "good"
+        "500":
+          description: Unhealthy
+          content:
+            text/plain:
+              schema:
+                type: string
+                enum: ["bad"]
+              example: "bad"
+    post:
+      operationId: postHealth
+      summary: Liveness probe (POST alias)
+      description: Identical behavior to `GET /health`; the servlet forwards POST to its GET handler.
+      tags: [health]
+      security: []
+      responses:
+        "200":
+          description: Healthy
+          content:
+            text/plain:
+              schema:
+                type: string
+                enum: ["good"]
+        "500":
+          description: Unhealthy
+          content:
+            text/plain:
+              schema:
+                type: string
+                enum: ["bad"]
+
+  /SilkwaveAdminServlet:
+    get:
+      operationId: silkwaveAdmin
+      summary: Hub dashboard / admin actions
+      description: >
+        Single endpoint dispatched by the `action` query parameter. Behavior differs
+        substantially per action — see the `action` parameter description for the full list.
+      tags: [admin]
+      parameters:
+        - name: action
+          in: query
+          required: false
+          description: |
+            Selects the operation performed:
+              - *(omitted)* or `load` — returns the full hub dashboard JSON (see `HubStatus` schema)
+              - `resetFailed` — resets DeadLetterManager counters to zero, returns `{}`
+              - `logout` — invalidates the current HTTP session, returns `{}`
+              - `domain` — returns `{"domain": "<hub domain>"}`
+              - `validate` — validates a raw SILKWAVE envelope supplied in the request body
+                (see `POST /SilkwaveAdminServlet` for the body-bearing form); returns plaintext
+          schema:
+            type: string
+            enum: [load, resetFailed, logout, domain, validate]
+          example: load
+        - name: payload
+          in: query
+          required: false
+          description: Only used with `action=validate`. If `"true"`, also validates the envelope payload objects.
+          schema:
+            type: string
+            enum: ["true", "false"]
+      responses:
+        "200":
+          description: >
+            Response shape depends on `action`. See `HubStatus` for `load`, or the inline
+            examples below for the simpler actions.
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/HubStatus'
+                  - $ref: '#/components/schemas/EmptyObject'
+                  - $ref: '#/components/schemas/DomainResponse'
+            text/plain:
+              schema:
+                type: string
+                description: Plaintext validation report, only returned for `action=validate`.
+              example: "Valid Envelope\nValid Payload\n"
+    post:
+      operationId: silkwaveAdminPost
+      summary: Hub dashboard / admin actions (POST form, required for action=validate)
+      description: >
+        Identical dispatch to the GET form. `action=validate` expects the raw SILKWAVE envelope
+        XML as the request body (read via `request.getReader()`), which is impractical to pass
+        as a query string, so POST is the practical way to call `validate`.
+      tags: [admin]
+      parameters:
+        - name: action
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: [load, resetFailed, logout, domain, validate]
+        - name: payload
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: ["true", "false"]
+      requestBody:
+        required: false
+        description: Raw SILKWAVE envelope XML. Only read/used when `action=validate`.
+        content:
+          application/xml:
+            schema:
+              type: string
+      responses:
+        "200":
+          description: See the GET operation for the per-action response shapes.
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/HubStatus'
+                  - $ref: '#/components/schemas/EmptyObject'
+                  - $ref: '#/components/schemas/DomainResponse'
+            text/plain:
+              schema:
+                type: string
+              example: "Valid Envelope\n"
+
+  /NamingServiceAdminServlet:
+    get:
+      operationId: namingServiceAdmin
+      summary: Name server route browser
+      description: >
+        Single endpoint dispatched by the `action` query parameter, backing a jqGrid-style
+        route browser UI.
+      tags: [naming]
+      parameters:
+        - name: action
+          in: query
+          required: true
+          schema:
+            type: string
+            enum: [nameservers, query, subquery]
+        - name: rows
+          in: query
+          required: false
+          description: Page size, used by `query` and `subquery`.
+          schema:
+            type: integer
+            default: 10
+        - name: page
+          in: query
+          required: false
+          description: 1-based page number, used by `query` and `subquery`.
+          schema:
+            type: integer
+            default: 1
+        - name: filters
+          in: query
+          required: false
+          description: >
+            Only used by `action=query`. jqGrid-style filter JSON, URL-encoded:
+            `{"groupOp":"AND"|"OR","rules":[{"field":"name"|"type"|"count","op":"eq"|"ne"|"bw"|"ew"|"cn"|"lt"|"gt","data":"..."}]}`.
+          schema:
+            type: string
+          example: '{"groupOp":"AND","rules":[{"field":"type","op":"eq","data":"HUB"}]}'
+        - name: sidx
+          in: query
+          required: false
+          description: Only used by `action=query`. Sort field.
+          schema:
+            type: string
+            enum: [name, type, count]
+        - name: sord
+          in: query
+          required: false
+          description: Only used by `action=query`. Sort direction.
+          schema:
+            type: string
+            enum: [asc, desc]
+        - name: name
+          in: query
+          required: false
+          description: Only used by `action=subquery`. The exact route name to drill into.
+          schema:
+            type: string
+      responses:
+        "200":
+          description: >
+            Response shape depends on `action`: a domain list for `nameservers`, a paginated
+            route grid for `query`, or a paginated NetId grid for `subquery`.
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/NameServerList'
+                  - $ref: '#/components/schemas/RouteGridPage'
+                  - $ref: '#/components/schemas/NetIdGridPage'
+
+  /resources-export:
+    get:
+      operationId: resourcesExportRoot
+      summary: List available domains and sub-endpoints
+      tags: [resources-export]
+      security: []
+      responses:
+        "200":
+          description: Domain list and available endpoints
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DomainListResponse'
+
+  /resources-export/:
+    get:
+      operationId: resourcesExportRootSlash
+      summary: List available domains and sub-endpoints (trailing-slash form)
+      tags: [resources-export]
+      security: []
+      responses:
+        "200":
+          description: Domain list and available endpoints
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DomainListResponse'
+
+  /resources-export/routing:
+    get:
+      operationId: getResourceExportRouting
+      summary: Read-only export of NameServer routing table
+      description: >
+        Exposes the resource mapping and routing details imported from the external subdirectory.
+        This path is whitelisted from JetForm authentication because it falls under the `/resources-export/*` prefix.
+      tags: 
+        - resources-export
+      security: [] # Leaves empty to denote it is whitelisted / unauthenticated
+      responses:
+        "200":
+          description: Successfully retrieved routing table export.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    routeId:
+                      type: string
+                    destination:
+                      type: string
+        "500":
+          description: Internal server error mapping routing tables.
+          
+  /resources-export/resources:
+    get:
+      operationId: resourcesExportResources
+      summary: Export the `resources` map (ResourceRoute entries) for a domain
+      tags: [resources-export]
+      security: []
+      parameters:
+        - $ref: '#/components/parameters/DomainParam'
+      responses:
+        "200":
+          description: Resource map for the domain
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResourceMapResponse'
+        "404":
+          $ref: '#/components/responses/NotFoundError'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+  /resources-export/netResources:
+    get:
+      operationId: resourcesExportNetResources
+      summary: Export the `netToResources` map for a domain
+      tags: [resources-export]
+      security: []
+      parameters:
+        - $ref: '#/components/parameters/DomainParam'
+      responses:
+        "200":
+          description: Net-to-resources map for the domain
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/NetResourcesMapResponse'
+        "404":
+          $ref: '#/components/responses/NotFoundError'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+  /resources-export/nameServerResources:
+    get:
+      operationId: resourcesExportNameServerResources
+      summary: Export the `nameServersToResources` map for a domain
+      tags: [resources-export]
+      security: []
+      parameters:
+        - $ref: '#/components/parameters/DomainParam'
+      responses:
+        "200":
+          description: Nameserver-to-resources map for the domain
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/NetResourcesMapResponse'
+        "404":
+          $ref: '#/components/responses/NotFoundError'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+  /resources-export/all:
+    get:
+      operationId: resourcesExportAll
+      summary: Export all three resource maps for a domain in one response
+      tags: [resources-export]
+      security: []
+      parameters:
+        - $ref: '#/components/parameters/DomainParam'
+      responses:
+        "200":
+          description: All resource maps for the domain
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AllResourcesResponse'
+        "404":
+          $ref: '#/components/responses/NotFoundError'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+  /rest/v3/groups/{group}/members/{member}:
+    get:
+      operationId: casportSimIsMember
+      summary: CASPORT v3 group-membership check (simulator, dev/test only)
+      description: >
+        Only mounted when `service.webserver.casportsim.enabled=true`, on a separate,
+        unauthenticated servlet context. Returns a hardcoded canned response — it does not
+        query a real group directory. Only the exact pair group=`testgroup`,
+        member=`CN=Test Client,OU=SILKWAVE,O=JICD 4.2,L=Warrenton,ST=Virginia,C=US`
+        (URL-decoded, case-sensitive) returns `isMember: true`.
+      tags: [casport-sim]
+      security: []
+      parameters:
+        - name: group
+          in: path
+          required: true
+          schema:
+            type: string
+          description: >
+            Case-insensitive. The literal value `invalidgroup` forces a 400 response;
+            `groupnotfound` forces a 404 response.
+        - name: member
+          in: path
+          required: true
+          schema:
+            type: string
+          description: URL-encoded distinguished name of the member being checked.
+      responses:
+        "200":
+          description: Membership check result
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  isMember:
+                    type: boolean
+                required: [isMember]
+              example:
+                isMember: false
+        "400":
+          description: Malformed request URI, missing keywords, or the reserved `invalidgroup` value
+          content:
+            application/json:
+              schema:
+                type: string
+              example: "Invalid group name"
+        "404":
+          description: The reserved `groupnotfound` group value
+          content:
+            application/json:
+              schema:
+                type: string
+              example: "Group not found"
+    post:
+      operationId: casportSimIsMemberPost
+      summary: CASPORT v3 group-membership check (POST alias)
+      description: Identical behavior to the GET form; the servlet forwards POST to its GET handler.
+      tags: [casport-sim]
+      security: []
+      parameters:
+        - name: group
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: member
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Membership check result
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  isMember:
+                    type: boolean
+        "400":
+          description: Malformed request, or reserved `invalidgroup` value
+        "404":
+          description: Reserved `groupnotfound` value
+
+components:
+
+  securitySchemes:
+    formAuth:
+      type: apiKey
+      in: cookie
+      name: JSESSIONID_*
+      description: >
+        Jetty Form authentication (`FormAuthenticator`, login page `/login.html`). The session
+        cookie name is randomized per server instance (`JSESSIONID_<uuid>`), so it cannot be
+        pinned to a fixed literal name here. Only enforced when the server runs in HTTP mode —
+        see the top-level description for the HTTPS-mode gap.
+
+  parameters:
+    DomainParam:
+      name: domain
+      in: query
+      required: false
+      description: >
+        Nameserver domain to export. If omitted, the first domain returned by
+        `NameServerLocator.getNameServerDomains()` is used.
+      schema:
+        type: string
+
+  responses:
+    NotFoundError:
+      description: Domain not found, or no nameservers registered
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+    InternalError:
+      description: Unexpected server error (message included, no stack trace)
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+
+  schemas:
+
+    EmptyObject:
+      type: object
+      description: Empty JSON object, returned by several `SilkwaveAdminServlet` actions.
+      properties: {}
+      example: {}
+
+    DomainResponse:
+      type: object
+      properties:
+        domain:
+          type: string
+      required: [domain]
+      example:
+        domain: "test.appgeo.hub1"
+
+    HubStatus:
+      type: object
+      description: >
+        Full hub dashboard payload returned by `GET /SilkwaveAdminServlet?action=load`
+        (or the default action). Note the source builds this via manual `StringBuilder`
+        concatenation rather than a typed model, so field presence/order is not guaranteed
+        to be stable across versions — treat this as a best-effort shape.
+      properties:
+        loggedName:
+          type: string
+          description: Present only if a user principal or client certificate CN was resolved.
+        currenttime:
+          type: string
+        starttime:
+          type: string
+        uptime:
+          type: string
+          example: "3 day(s) 04:12:09"
+        messages:
+          type: string
+          description: Total message count from NetworkManager, as a string.
+        incomingtotal: { type: string }
+        incomingsize: { type: string }
+        incomingmin: { type: string }
+        incomingmax: { type: string }
+        incomingavg: { type: string }
+        heartbeattotal: { type: string }
+        heartbeatsize: { type: string }
+        heartbeatmin: { type: string }
+        heartbeatmax: { type: string }
+        heartbeatavg: { type: string }
+        coretotal: { type: string }
+        coresize: { type: string }
+        coremin: { type: string }
+        coremax: { type: string }
+        coreavg: { type: string }
+        authenticationtotal: { type: string }
+        authenticationsize: { type: string }
+        authenticationmin: { type: string }
+        authenticationmax: { type: string }
+        authenticationavg: { type: string }
+        summaryqueued: { type: string }
+        failedmessages: { type: string }
+        badenvelopemessages: { type: string }
+        invalidsourcemessages: { type: string }
+        notdelivarablemessages: { type: string }
+        notresolvablemessages: { type: string }
+        notroutablemessages: { type: string }
+        unknownfailedmessages: { type: string }
+        invalidnetpayloadmessages: { type: string }
+        notauthorizedmessages: { type: string }
+        improperclassificationmessages: { type: string }
+        connections: { type: string }
+        privconnections: { type: string }
+        neighbors: { type: string }
+        totalhubs: { type: string }
+        hubminsecurity: { type: string }
+        hubmaxsecurity: { type: string }
+
+    NameServerList:
+      type: object
+      properties:
+        nameservers:
+          type: array
+          items:
+            type: string
+      required: [nameservers]
+
+    RouteGridPage:
+      type: object
+      description: jqGrid-format paginated route listing, returned by `action=query`.
+      properties:
+        total:
+          type: string
+          description: Total page count, as a string.
+        page:
+          type: string
+        records:
+          type: string
+          description: Total matching record count, as a string.
+        rows:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: string
+              cell:
+                type: array
+                description: "[name, type, netId count]"
+                items:
+                  type: string
+
+    NetIdGridPage:
+      type: object
+      description: jqGrid-format paginated NetId listing for a single route, returned by `action=subquery`.
+      properties:
+        total: { type: string }
+        page: { type: string }
+        records: { type: string }
+        rows:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: string
+              cell:
+                type: array
+                description: "[netId, owner, timestamp (XML date format)]"
+                items:
+                  type: string
+
+    DomainListResponse:
+      type: object
+      properties:
+        domains:
+          type: array
+          items:
+            type: string
+        endpoints:
+          type: array
+          items:
+            type: string
+          example: ["/resources", "/netResources", "/nameServerResources", "/all"]
+      required: [domains, endpoints]
+
+    ResourceMapResponse:
+      type: object
+      properties:
+        resources:
+          type: object
+          additionalProperties: true
+          description: Map of resource name to `ResourceRoute`. Structure not independently reviewed.
+        count:
+          type: integer
+        timestamp:
+          type: integer
+          format: int64
+          description: Epoch millis.
+      required: [resources, count, timestamp]
+
+    NetResourcesMapResponse:
+      type: object
+      properties:
+        netToResources:
+          type: object
+          additionalProperties: true
+          description: >
+            Present when this schema backs `/netResources`. Map of net ID to `NetResources`.
+            Structure not independently reviewed.
+        nameServersToResources:
+          type: object
+          additionalProperties: true
+          description: >
+            Present when this schema backs `/nameServerResources`. Map of nameserver to
+            `NetResources`. Structure not independently reviewed.
+        count:
+          type: integer
+        timestamp:
+          type: integer
+          format: int64
+
+    AllResourcesResponse:
+      type: object
+      properties:
+        resources:
+          type: object
+          additionalProperties: true
+        netToResources:
+          type: object
+          additionalProperties: true
+        nameServersToResources:
+          type: object
+          additionalProperties: true
+        exportTimestamp:
+          type: integer
+          format: int64
+      required: [resources, netToResources, nameServersToResources, exportTimestamp]
+
+    ErrorResponse:
+      type: object
+      properties:
+        error:
+          type: string
+        status:
+          type: integer
+        timestamp:
+          type: integer
+          format: int64
+      required: [error, status, timestamp]
