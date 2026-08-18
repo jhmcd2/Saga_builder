@@ -5,9 +5,7 @@ EXT. CENTRAL JAPAN - DAY
 AUGUST.
 CICADAS scream beneath a white-hot sky. A modern Japanese city endures the heat. Air conditioners HUM from apartment windows. Electric fans spin behind storefront glass. A car rolls through traffic plastered with ANIME CHARACTERS, pop music rattling its doors. A VENDING MACHINE drops a bottle of green tea into the hands of a sweating OFFICE WORKER. Across the street, POKÉMON and DIGIMON displays compete for window space. A television advertises the latest TOYOTA -- -- directly above a HONDA parked in the showroom beneath it. A MITSUBISHI BOX TRUCK crawls through traffic. Inside, the DRIVER stares through the windshield at the blazing sidewalk. He does not want to leave the air conditioning. Elsewhere -- Women in elaborate KIMONOS walk toward a summer event. Teenagers in COSPLAY head the opposite direction, laughing, carrying bags and portable fans. Even the DOGS have surrendered, sprawled beneath whatever shade they can find. Through all of this moves one OLD MAN.
 HIROSHI TAKAHASHI, 95.
-No cane. That appears important to him. His body bends despite his efforts to keep it straight. A small bag hangs from his shoulder. Ahead:
-DAITOKU-JI TEMPLE COMPLEX.
-Ancient wood and stone against the modern city. Hiroshi crosses the gravel lot toward its gate. Waiting in the shade is a BOY, young, copper-skinned, backpack slung over one shoulder. Sweat pours down his face. Hiroshi looks him over.
+No cane. That appears important to him. His body bends despite his efforts to keep it straight. A small bag hangs from his shoulder. Ahead DAITOKU-JI TEMPLE COMPLEX. Ancient wood and stone against the modern city. Hiroshi crosses the gravel lot toward its gate. Waiting in the shade is a BOY, young, copper-skinned, backpack slung over one shoulder. Sweat pours down his face. Hiroshi looks him over.
 HIROSHI
 All that running in this heat? I hope you brought something to drink. The Boy smirks. He turns just enough to reveal a SPORTS DRINK tucked into his backpack. Hiroshi shakes his head.
 HIROSHI
@@ -21,14 +19,8 @@ Don't stand there like you have nothing to do. Let's start. The Boy gives him a 
 HIROSHI
 No one will maintain these other than us. A beat.
 HIROSHI
-And by "us," I mean you. The Boy gets to work. Water darkens the grave stones. Fresh SHIKIMI replaces the old. Leaves are swept away. Incense prepared. Hiroshi watches. His attention settles on the inscriptions. Names. Dates. 1939. 1940. 1941. 1942. 1943. Another 1945. And another. Some names are beautifully carved. Others look hurried. Almost slapped into stone. Hiroshi's face tightens. Beside them, newer memorial stones preserve photographs beneath protective covers. Young faces. Hiroshi stares at them. Then notices something else. His sorrow hardens. A newer marker:
-REIA TAKAHASHI
-AUGUST 21, 1910 - MAY 10, 2001 A faded JAPANESE FLAG stands beside it. Alone. Hiroshi exhales through his nose. He lowers himself carefully. His knees POP. His back protests. The Boy notices. Ready to help. Hiroshi ignores him. He removes the faded flag. Opens his bag. Three new flags emerge. He places them deliberately:
-SOUTH KOREA.
-JAPAN.
-UNITED STATES.
-
-The Boy watches. Hiroshi remains kneeling.
+And by "us," I mean you. The Boy gets to work. Water darkens the grave stones. Fresh SHIKIMI replaces the old. Leaves are swept away. Incense prepared. Hiroshi watches. His attention settles on the inscriptions. Names. Dates. 1939. 1940. 1941. 1942. 1943. Another 1945. And another. Some names are beautifully carved. Others look hurried. Almost slapped into stone. Hiroshi's face tightens. Beside them, newer memorial stones preserve photographs beneath protective covers. Young faces. Hiroshi stares at them. Then notices something else. His sorrow hardens. A newer marker: REIA TAKAHASHI
+AUGUST 21, 1910 - MAY 10, 2001 A faded JAPANESE FLAG stands beside it. Alone. Hiroshi exhales through his nose. He lowers himself carefully. His knees POP. His back protests. The Boy notices. Ready to help. Hiroshi ignores him. He removes the faded flag. Opens his bag. Three new flags emerge. He places them deliberately: SOUTH KOREA. JAPAN. UNITED STATES. The Boy watches. Hiroshi remains kneeling.
 BOY
 Why do they keep throwing the others away? Hiroshi doesn't answer.
 BOY
@@ -6603,3 +6595,4 @@ SCISSORS.
 Ken looks down. His hand is already holding them. He does not remember reaching for them. The girl studies him.
 BURNING GIRL
 A true man would never burden his family as a cripple. Ken looks toward Reia. Reia is gone. Min is gone. Li-Hua. The cameraman. Gone. Only the girl remains. Then she too disappears. Ken lies alone. The scissors in his hand. Silence. He was twenty-three years old. When the doctors found him, it was already over.
+# NOTE: This will need to be at > 4400 lines
