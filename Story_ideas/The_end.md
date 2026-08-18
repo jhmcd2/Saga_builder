@@ -3,8 +3,24 @@ Overarching: A planet is going to collide with the Earth> its been know for 100 
 VERY SPECIFIC INSTRUCTIONS: We do not know of the planet, only The List.  The List is a name given to the official evacution order given by a numbef of countries to facility an orderly evacuation of the planet. We do not know about the planet of the ships, only the list, until the planet's flyby
 A. Gwen is a s** compulsive.  She goes around trying to take on women, flping as many as she can. As a child she was (ethe ridentified as or was occused of being) l**** and now, as she bleieves l***** will not be allowed on The list spends her time enjoying herself, drinking, and flipping as many woman as possible, as if to rob the men who she things set this whole thing up.  However, she sees it as just some fun before she dies.  Problem is, shemay have met someon she may actually like Daniel, but Daniel got married to a relativly well off man hoping that would get her up the list.  THe problem, he may not have been rich enough.
     * NOTE: Nether women should be framed as the femenist ideal.  They are very much doing selfish things for selfish reasons.  Gwen believes tht if she is to die she is going down on her own rules, ensure that the Fed's attempts to exiterminate g** will not go down easily.  Daniel is just selfish and entitled.  Her husband is perfect, in fact he opted to stay longer while the planet organizes its finacial situation, in an attempt to keep the market going and to keep society from breaking down. 
-B. NAME_ME is panicking.  Her husband left her just before the list was unvieled.  So she got pregnatn hoping that the times woudl line up, but the man immediatly demanded a DNA test ending that. Due to his job, he was one of the first people given an evacuation date.  She head that mother's of daughters get off the planet first, so she attemtps to convience her son that he is a girl for an interview, but when that goes, she hears that single women have a better chance and that a billionairs get together may be the best chance to get off the planet
+    * ADDITIONAL INFORMATION: While she primarily works within the building managing logistics for the evacuation, she is officially an industrial electrician, which is why she is so low on the list.  She's critical essential.  She just doesn't know that. 
+B. Melissa is panicking.  Her husband left her just before the list was unvieled.  So she got pregnatn hoping that the times woudl line up, but the man immediatly demanded a DNA test ending that. Due to his job, he was one of the first people given an evacuation date.  She head that mother's of daughters get off the planet first, so she attemtps to convience her son that he is a girl for an interview, but when that goes, she hears that single women have a better chance and that a billionairs get together may be the best chance to get off the planet
     * NOTE: She eventually abandons the boy figuring her chances are better.  The agency she interviewed with was a scam and was passing out false information. Alos, her son ends up being the abandoned boy in the main story.
+# Main Character Detail
+## Gwendalyn "Gwen" "G" Mercer
+- Occupation: Industrial Electrician Technition
+- MOther Margo Mercer is in an assitnant care facility
+- Father was an engineer on a platform for one of the leevators when a hurrican spun up quickly and hit the platform during work, he was washed out to see with hundreds others and never recovered. 
+## Daniel Ashcroft
+- Occupation: Sales woman for high end events planning
+## Melissa Nguyen
+- Occupation: Radiology Technitian
+## The boy
+# Secondary Character Details
+## Margo Mercer
+- Gwen's mother
+- Suffer from late stage dimensia and currently living in an assitant care facility.  Her relationship with Gwen is taht Gwen hates seeing her mainly due to the fat that it is too horrifing for her, and may also be contributing to her destructive behavior. She can be violent at times, or even nearly catatonic.  Gwen sometimes sees staying as okay because it means that her mother won't lose anyone else.  Margo took the death of her husband hard, and since there was no body she tried to justify the fact that he was simply lost, but okay somwhere. 
+##  
 # Act 1
 ## Introduction
 - OVERALL: people are tryign to make peace and trust the evacuation process. The List is the title, however misinformation and epople, epsecially Gwen's, self destructive tendencies are causing people to look for escape. Gettin on The List is the Key.  The List means life, but hwo gets on?
@@ -677,4 +693,361 @@ That creates a compelling source of tension because the engineers aren't villain
 
 
 
-Voice
+## Final Solution...for the evacation the strtegy behind The List
+This is a fun logistics problem because it isn't primarily about rockets—it's about moving ten billion frightened people without civilization collapsing before the last ship leaves.
+
+The organization's biggest realization would probably be this:
+
+> **The goal is not to evacuate people as fast as possible.**
+> **The goal is to keep society functioning until the very end.**
+
+If hospitals, power plants, farms, ports, police, and factories collapse in year one of the evacuation, then no one gets evacuated.
+
+## The List
+
+The List would almost certainly not be a ranked list from #1 to #10,000,000,000.
+
+Instead, it would be divided into **Departure Waves.**
+
+For example:
+
+* Wave 0 – Fleet personnel already in orbit
+* Wave 1 – Essential orbital workers
+* Wave 2 – Essential Earth workers
+* Wave 3 – High-risk regions
+* Wave 4 – General population
+* Wave 5 – Critical shutdown crews
+* Wave 6 – Last Earth personnel
+
+Inside every wave, the exact departure date is randomized and optimized by software.
+
+That prevents people from believing "rich people are all first."
+
+---
+
+## Geographic Assignment
+
+No one chooses an elevator.
+
+Every person on Earth is permanently assigned one.
+
+Think of voting districts.
+
+Each elevator services perhaps 200–300 million people over several years.
+
+Changing elevators requires authorization because otherwise everyone would try to reach the "fast" elevator.
+
+---
+
+## Regional Processing
+
+Instead of saying
+
+> "Show up Tuesday."
+
+People move through several stages.
+
+Local Registration Center
+
+↓
+
+Regional Processing Center
+
+↓
+
+Departure City
+
+↓
+
+Space Elevator
+
+↓
+
+Orbital Station
+
+↓
+
+Assigned Colony Ship
+
+Every stage acts like a buffer.
+
+---
+
+## The Calendar
+
+The organization publishes evacuation years decades ahead.
+
+For example
+
+Year 1
+
+* Pacific Islands
+* Antarctica
+* Low-lying coastal nations
+
+Year 2
+
+* South America
+* Australia
+
+Year 3
+
+* Europe
+
+Year 4
+
+* Asia
+
+Year 5
+
+* North America
+
+Not because those places matter more—
+
+Because transportation networks can only handle so much movement.
+
+---
+
+## Occupation Priority
+
+One of the biggest mistakes governments could make would be evacuating everyone equally.
+
+Instead every occupation has an Earliest Departure Date.
+
+Examples:
+
+Farmers
+
+Stay until food production drops.
+
+Power plant operators
+
+Stay until local grid shutdown.
+
+Teachers
+
+Stay until schools close.
+
+Doctors
+
+Remain almost until the end.
+
+Factory workers
+
+Remain while spacecraft production continues.
+
+Police
+
+Remain while civil government exists.
+
+Engineers
+
+Remain until infrastructure shutdown.
+
+Retirees
+
+Can often leave earlier.
+
+Children
+
+Usually leave with families unless parents are critical workers.
+
+---
+
+## Family Integrity
+
+One of the UN rules would almost certainly be:
+
+**Families stay together whenever possible.**
+
+Separating parents from children would create worldwide panic.
+
+If a parent is an essential worker, the entire family waits.
+
+That hurts emotionally, but keeps society stable.
+
+---
+
+## Dynamic Scheduling
+
+The List is never static.
+
+Every week the algorithm recalculates.
+
+Reasons someone might move earlier:
+
+A disease outbreak.
+
+Regional conflict.
+
+Earthquake.
+
+Crop failure.
+
+Elevator maintenance.
+
+Weather.
+
+Reasons someone moves later:
+
+Their city now needs more medical staff.
+
+Their factory became critical.
+
+Their military unit is needed.
+
+---
+
+## Anti-Panic Information
+
+Probably the hardest part.
+
+The organization would publish almost everything.
+
+Daily statistics.
+
+Today's launches.
+
+People boarded.
+
+Ships departed.
+
+Remaining capacity.
+
+Current wait time.
+
+Average processing time.
+
+Elevator status.
+
+Everyone can log in and see
+
+"You are scheduled for approximately June 17, 2125."
+
+Not a guarantee.
+
+But close.
+
+The more transparent the system is, the fewer conspiracy theories survive.
+
+---
+
+## Misinformation Response
+
+This becomes its own agency.
+
+Rumors spread faster than rockets.
+
+Examples:
+
+"They're skipping Africa."
+
+"The rich bought all the seats."
+
+"The fleet is already leaving."
+
+"The elevators only take military."
+
+"They're abandoning everyone."
+
+Every rumor is answered publicly with evidence.
+
+Every launch is livestreamed.
+
+Passenger manifests (minus sensitive personal information) become public after departure.
+
+The organization cannot stop rumors.
+
+It can only out-produce them with trusted information.
+
+---
+
+## Buffer Population
+
+One interesting trick:
+
+The organization never schedules Earth to reach zero population.
+
+Instead it intentionally keeps perhaps 500 million people scheduled during the final year.
+
+Why?
+
+Because economies need customers.
+
+Governments need taxpayers.
+
+Factories need workers.
+
+If everyone thinks
+
+"I leave next month."
+
+No one plants wheat.
+
+No one repairs roads.
+
+No one manufactures oxygen tanks.
+
+Keeping a large working population until late helps preserve the systems everyone still depends on.
+
+---
+
+## The Last Year
+
+This becomes almost military.
+
+Cities are deliberately shut down.
+
+Power grids shrink.
+
+Internet coverage contracts.
+
+Entire countries are declared closed.
+
+People relocate toward evacuation corridors.
+
+Millions move each week.
+
+Food production ends.
+
+Livestock are culled or evacuated.
+
+Museums empty.
+
+Government archives disappear.
+
+The planet begins winding down.
+
+---
+
+## The Final Phase
+
+The last departures are not ordinary civilians.
+
+Instead they are the people required to close Earth down safely:
+
+* Nuclear plant crews
+* Reactor shutdown specialists
+* Space elevator operators
+* Air traffic control
+* Emergency services
+* Military security
+* Communications personnel
+* Environmental monitoring teams
+* Archive staff
+* Fleet command
+
+Only after every elevator is finished do those crews board the final pods.
+
+---
+
+## The Organization's Real Mission
+
+Interestingly, the organization's official mission would probably not be "evacuate humanity."
+
+It would be something like:
+
+> **Maintain a functioning civilization until the last transport departs.**
+
+That subtle difference drives every decision. Rather than rewarding whoever arrives first or has the most influence, the system prioritizes preserving the institutions—food production, healthcare, transportation, communications, manufacturing, and public order—that allow billions of people to survive long enough to be evacuated. In your scenario, the greatest threat isn't the rogue planet arriving in 100 years; it's the possibility that fear, shortages, and mistrust cause civilization to unravel decades before humanity's escape fleet is ready to carry everyone away.
+
