@@ -1,0 +1,292 @@
+openapi: 3.1.0
+
+info:
+  title: SILKWAVE Resources Export API
+  version: "1.0.0"
+  description: |
+    Read-only resource and routing exports served by `ResourcesExportServlet`.
+    This is a hand-authored specification for the `/resources-export` endpoint family.
+
+servers:
+  - url: "http://{host}:8501"
+    description: SILKWAVE HTTP connector
+    variables:
+      host:
+        default: localhost
+
+tags:
+  - name: resources-export
+    description: Read-only resource and routing exports
+
+paths:
+  /resources-export:
+    get:
+      operationId: resourcesExportRoot
+      summary: List available domains and export endpoints
+      tags: [resources-export]
+      security: []
+      responses:
+        "200":
+          description: Available domains and endpoint names
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DomainListResponse'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+  /resources-export/:
+    get:
+      operationId: resourcesExportRootSlash
+      summary: List available domains and export endpoints
+      tags: [resources-export]
+      security: []
+      responses:
+        "200":
+          description: Available domains and endpoint names
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DomainListResponse'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+  /resources-export/routing:
+    get:
+      operationId: resourcesExportRouting
+      summary: Export current routing tables
+      tags: [resources-export]
+      security: []
+      responses:
+        "200":
+          description: Primary, alternate, and neighboring route data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RoutingExportResponse'
+        "503":
+          description: Routing service is unavailable
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+  /resources-export/resources:
+    get:
+      operationId: resourcesExportResources
+      summary: Export resources by domain
+      tags: [resources-export]
+      security: []
+      parameters:
+        - $ref: '#/components/parameters/DomainParam'
+      responses:
+        "200":
+          description: Resource map for the selected or default domain
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResourceMapResponse'
+        "404":
+          $ref: '#/components/responses/NotFoundError'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+  /resources-export/netResources:
+    get:
+      operationId: resourcesExportNetResources
+      summary: Export network resources by domain
+      tags: [resources-export]
+      security: []
+      parameters:
+        - $ref: '#/components/parameters/DomainParam'
+      responses:
+        "200":
+          description: Network-resource map for the selected or default domain
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/NetResourcesResponse'
+        "404":
+          $ref: '#/components/responses/NotFoundError'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+  /resources-export/nameServerResources:
+    get:
+      operationId: resourcesExportNameServerResources
+      summary: Export nameserver resources by domain
+      tags: [resources-export]
+      security: []
+      parameters:
+        - $ref: '#/components/parameters/DomainParam'
+      responses:
+        "200":
+          description: Nameserver-resource map for the selected or default domain
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/NameServerResourcesResponse'
+        "404":
+          $ref: '#/components/responses/NotFoundError'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+  /resources-export/all:
+    get:
+      operationId: resourcesExportAll
+      summary: Export all resource maps by domain
+      tags: [resources-export]
+      security: []
+      parameters:
+        - $ref: '#/components/parameters/DomainParam'
+      responses:
+        "200":
+          description: All resource maps for the selected or default domain
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AllResourcesResponse'
+        "404":
+          $ref: '#/components/responses/NotFoundError'
+        "500":
+          $ref: '#/components/responses/InternalError'
+
+components:
+  parameters:
+    DomainParam:
+      name: domain
+      in: query
+      required: false
+      description: |
+        Optional nameserver domain. If omitted or blank, the first available domain is used.
+      schema:
+        type: string
+
+  responses:
+    NotFoundError:
+      description: Requested domain was not found, or no nameservers are available
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+    InternalError:
+      description: Unexpected server error
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+
+  schemas:
+    DomainListResponse:
+      type: object
+      properties:
+        domains:
+          type: array
+          items:
+            type: string
+        endpoints:
+          type: array
+          items:
+            type: string
+          example:
+            - /resources
+            - /routing
+            - /netResources
+            - /nameServerResources
+            - /all
+      required: [domains, endpoints]
+
+    RoutingExportResponse:
+      type: object
+      properties:
+        routes:
+          type: object
+          additionalProperties: true
+          description: Primary route table.
+        alternateRoutes:
+          type: object
+          additionalProperties: true
+          description: Alternate route table.
+        neighbors:
+          type: array
+          items:
+            type: string
+          description: Names of neighboring hubs or routing peers.
+        timestamp:
+          type: integer
+          format: int64
+          description: Epoch milliseconds when the export was generated.
+      required: [routes, alternateRoutes, neighbors, timestamp]
+
+    ResourceMapResponse:
+      type: object
+      properties:
+        resources:
+          type: object
+          additionalProperties: true
+          description: Map of resource name to ResourceRoute data.
+        count:
+          type: integer
+        timestamp:
+          type: integer
+          format: int64
+      required: [resources, count, timestamp]
+
+    NetResourcesResponse:
+      type: object
+      properties:
+        netToResources:
+          type: object
+          additionalProperties: true
+          description: Map of network ID to NetResources data.
+        count:
+          type: integer
+        timestamp:
+          type: integer
+          format: int64
+      required: [netToResources, count, timestamp]
+
+    NameServerResourcesResponse:
+      type: object
+      properties:
+        nameServersToResources:
+          type: object
+          additionalProperties: true
+          description: Map of nameserver to NetResources data.
+        count:
+          type: integer
+        timestamp:
+          type: integer
+          format: int64
+      required: [nameServersToResources, count, timestamp]
+
+    AllResourcesResponse:
+      type: object
+      properties:
+        resources:
+          type: object
+          additionalProperties: true
+        netToResources:
+          type: object
+          additionalProperties: true
+        nameServersToResources:
+          type: object
+          additionalProperties: true
+        exportTimestamp:
+          type: integer
+          format: int64
+      required: [resources, netToResources, nameServersToResources, exportTimestamp]
+
+    ErrorResponse:
+      type: object
+      properties:
+        error:
+          type: string
+        status:
+          type: integer
+        timestamp:
+          type: integer
+          format: int64
+      required: [error, status, timestamp]
