@@ -4234,3 +4234,114 @@ Critical Takeaways to Make Your Choice
 • The Ultimate Athlete Route (Garmin Instinct Crossover): If you want a zero-compromise watch for your lifting, biking, hiking, and swimming that will physically outlast standard tech, this is the pick. Its mechanical hands look sharp, it has an altimeter for your hikes, and toggling the settings to "Garmin Mode" locks the physical drive down completely.
 • The Unlocked Health Tracker Route (FITVII VibeFit): If you are willing to skip tracking your pool laps in exchange for getting background blood pressure trend snapshots without paying Google a single cent, this is the only model that delivers it. Choosing its "Guest Mode" also provides the highest data security on the list, keeping your personal metrics off cloud servers entirely.
 • The Balanced Value Upgrade (Xiaomi 9 Pro): If you just want a sleek, large, beautiful display that syncs seamlessly to your Samsung Health hub for free while tracking phone-free bike rides, this provides a massive lifestyle jump from your pre-COVID tracker without any mic or hardware vulnerabilities
+
+
+
+
+
+
+# 11/6
+
+So Jess got up with eeeryone elsse areound 4:45. So he went to the field house and worked out in the gym. He took everythign he needed for the day and the trip to Cornell so he didn't have to go back to the room. He staid till just before 6:15, the took a showed, got dressed in Dance cloths but also put his cloths stuff for the swim team (their uniform?)
+
+at 6:30 left for breakfast. Meet Min-Jun at the Lowell House cafeteria.  got through breakst and they headed for the bus.  They caught the 1 downtown.  
+7:00AM they arrived at the COnservatory and went inside just as the line was opening up. 
+8:00AM INtiial intorduction and instructuions.
+8:15AM Intial check it and introduction start of intial hight evaluations
+8:30: Ehight cheks that move into looks assesement. THe people aren't chatty and tend to be pretty quiet.  There questions are pretty simply. What's your height, weight. THe idea that Jess is mostly danced in dance clothing favoring ballet is a bit of a plus here, even the most the serious are dressed in slim fitting clothing. The first guy is pretty aggressive, and seems to be acting like he's looking at a section fo fish.  The woman is pretty close.  He thinks they must have two people who take seperate notes.  On more than one occasion that ask him his antural hair color, and actual eye color.   They also ask how much does he work out.  
+10:30: Break. Well, technically, they did a presentation for their group. The dance instructor has worked in the pasks for over 15 years and one of the other isntructors she has done the cruise lines. They also got some good news (well, for the ones doing the outreach)Disney has not reached their seasonal numbers in years, the number of foriegn workers dropped both in '21 and again in '25.  He clearly stated it doesn't mean everyone will make it at all.  But he also said he has no clue how many people they are looking for, while he knows THESE judges, they aren't necessarily partnered up.  Next He also told them what dance they will be doing for the character pantamine, its one they do in the parks and Min-Jun knows it by heart as it was for the area she worked in.  The one woman actually does dance instruction for the cruise lines and informed them that they always mix pepeopl by seniority on the lines, so very junior people with very senior, and they are looking for 2 ships.  She also stated that life at sea can be trying, but it is worth it to say you did it.  
+10:45: Character performance begins.  So intially its going to be the character, pantimine.  Min knows it by heart, and she tought the dance to Jess in their practice session. When the routine practice 5 minutes long) ended, they take them out by if they worked at Disney.  After that its by number.  Then they return to another dance room, not back to the main one. They are then given their next assignment, and it is unique for everyone.  (Well, there may be repetition) They must come up with their own for the ANimation test.  They have until they are called again. While Waiking Jess (who knows a couple of the serions, one helps him out a lot and was partnered during the couples dancing) that Min is his suite mate back at Harvard, and showed him the dance, not to mention the video of it online. He also noticed that a person stays in the room with them. He is supposed to call people in, but given his paperwork eh ahs to wonder if its more than that.  His cousin taught him to watch out for thsoe people as they often times are there to watch you practice and socialize. They have been informed though that once they get their animated character idea, they can go to lunch, but must be back before 1PM as they start immediatly at 1PM. For the record, there are 2 interview rooms.  
+
+
+## Timeline of day
+Day 1 – School-arranged Disney audition
+Approximately
+100
+candidates
+ 
+Everyone
+completes
+all
+stages
+
+Time
+
+Activity
+
+8:00 AM
+
+Doors close; no further entry
+
+8:00–8:15
+
+Welcome, attendance and audition instructions
+
+8:15–8:30
+
+Candidate lineup and organization
+
+8:30–9:00
+
+Height checks
+
+9:00–10:30
+
+Look assessment
+
+10:30–10:45
+
+Break
+
+10:45 AM–12:15 PM
+
+Character performance assessment
+
+12:15–1:00 PM
+
+Lunch
+
+1:00–3:00 PM
+
+Dance audition
+
+3:00–3:30 PM
+
+Additional evaluations and individual assessments
+
+3:30–4:00 PM
+
+Final evaluator review
+
+4:00–4:30 PM
+
+Results and closing instructions
+
+
+## What's happening
+The standard Disney dance audition flow is a fast-paced process designed to filter a large volume of talent quickly. Whether you are auditioning for a Technical Dancer role or a Mover/Character role, the structure generally follows this multi-stage pipeline:
+
+1. Check-In and Measurement
+
+• The Process: You arrive early to submit your headshot and resume, fill out an audition profile, and receive a ** audition number**.
+• The "Height Cut": If you are auditioning for Character/Mover roles, you will step up to a height-measuring station. Disney strictly verifies your exact height down to the quarter-inch, as characters and costumes have razor-thin, non-negotiable height ranges.
+
+2. The Learning Phase (Choreography)
+
+• The Process: Performers are brought into the studio room in large groups. A Disney choreographer will teach a short routine (usually a jazz or musical theater combination) at a rapid pace.
+• The Vibe: Pay close attention here. Casting directors watch how quickly you pick up material, how you handle frustration, and whether you are already applying performance and facial expressions during the learning phase.
+
+3. The Preliminary Cut (The "Type-Out" or "Skills Pass")
+
+• For Technical Dancers: You will be split into smaller lines (usually 3 to 5 people at a time) to perform a quick across-the-floor combination consisting of basic technical markers like pirouettes, leaps (grand jetés), and high kicks. If you lack the required technical foundations, you are cut immediately.
+• For Movers/Characters: The group performs the simple choreography routine in small lines. The casting panel cuts performers who struggle with basic rhythm, coordination, or facial energy.
+
+4. The Presentation and Animation Round
+
+If you survive the first cut, you advance to the performance showcase. Lines are brought back in front of the casting directors, and you perform the full routine.
+• The Technical Push: Dancers are asked to add personality while pushing their technical limits (higher extensions, sharper lines).
+• The Animation Test (For Movers): This is where Disney gives you an improvisational or physical storytelling prompt. For example: "You are an excited puppy who discovers a magical bone, but it suddenly starts floating away!" They are testing your ability to project a story all the way to the back row of a theme park theater without speaking.
+
+5. Final Cuts and Next Steps
+
+• The Result: The remaining group is asked to step out of the room, and the casting panel deliberates. Numbers are called out—one list is thanked for their time (cut), and the surviving numbers are kept for the final pool.
+• The Callbacks: Depending on the contract, final survivors may be asked to read a script, learn a secondary specialty routine, try on a character costume head to test visibility and proportion, or be put on a casting registry list for future contract offers.
