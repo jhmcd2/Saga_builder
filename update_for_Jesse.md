@@ -4234,3 +4234,115 @@ Critical Takeaways to Make Your Choice
 • The Ultimate Athlete Route (Garmin Instinct Crossover): If you want a zero-compromise watch for your lifting, biking, hiking, and swimming that will physically outlast standard tech, this is the pick. Its mechanical hands look sharp, it has an altimeter for your hikes, and toggling the settings to "Garmin Mode" locks the physical drive down completely.
 • The Unlocked Health Tracker Route (FITVII VibeFit): If you are willing to skip tracking your pool laps in exchange for getting background blood pressure trend snapshots without paying Google a single cent, this is the only model that delivers it. Choosing its "Guest Mode" also provides the highest data security on the list, keeping your personal metrics off cloud servers entirely.
 • The Balanced Value Upgrade (Xiaomi 9 Pro): If you just want a sleek, large, beautiful display that syncs seamlessly to your Samsung Health hub for free while tracking phone-free bike rides, this provides a massive lifestyle jump from your pre-COVID tracker without any mic or hardware vulnerabilities
+
+
+
+
+
+
+# 11/6
+
+So Jess got up with eeeryone elsse areound 4:45. So he went to the field house and worked out in the gym. He took everythign he needed for the day and the trip to Cornell so he didn't have to go back to the room. He staid till just before 6:15, the took a showed, got dressed in Dance cloths but also put his cloths stuff for the swim team (their uniform?)
+
+at 6:30 left for breakfast. Meet Min-Jun at the Lowell House cafeteria.  got through breakst and they headed for the bus.  They caught the 1 downtown.  
+7:00AM they arrived at the COnservatory and went inside just as the line was opening up. 
+8:00AM INtiial intorduction and instructuions.
+8:15AM Intial check it and introduction start of intial hight evaluations
+8:30: Ehight cheks that move into looks assesement. THe people aren't chatty and tend to be pretty quiet.  There questions are pretty simply. What's your height, weight. THe idea that Jess is mostly danced in dance clothing favoring ballet is a bit of a plus here, even the most the serious are dressed in slim fitting clothing. The first guy is pretty aggressive, and seems to be acting like he's looking at a section fo fish.  The woman is pretty close.  He thinks they must have two people who take seperate notes.  On more than one occasion that ask him his antural hair color, and actual eye color.   They also ask how much does he work out.  
+10:30: Break. Well, technically, they did a presentation for their group. The dance instructor has worked in the pasks for over 15 years and one of the other isntructors she has done the cruise lines. They also got some good news (well, for the ones doing the outreach)Disney has not reached their seasonal numbers in years, the number of foriegn workers dropped both in '21 and again in '25.  He clearly stated it doesn't mean everyone will make it at all.  But he also said he has no clue how many people they are looking for, while he knows THESE judges, they aren't necessarily partnered up.  Next He also told them what dance they will be doing for the character pantamine, its one they do in the parks and Min-Jun knows it by heart as it was for the area she worked in.  The one woman actually does dance instruction for the cruise lines and informed them that they always mix pepeopl by seniority on the lines, so very junior people with very senior, and they are looking for 2 ships.  She also stated that life at sea can be trying, but it is worth it to say you did it.  
+10:45: Character performance begins.  So intially its going to be the character, pantimine.  Min knows it by heart, and she tought the dance to Jess in their practice session. When the routine practice 5 minutes long) ended, they take them out by if they worked at Disney.  After that its by number.  Then they return to another dance room, not back to the main one. They are then given their next assignment, and it is unique for everyone.  (Well, there may be repetition) They must come up with their own for the ANimation test.  They have until they are called again. While Waiking Jess (who knows a couple of the serions, one helps him out a lot and was partnered during the couples dancing) that Min is his suite mate back at Harvard, and showed him the dance, not to mention the video of it online. He also noticed that a person stays in the room with them. He is supposed to call people in, but given his paperwork eh ahs to wonder if its more than that.  His cousin taught him to watch out for thsoe people as they often times are there to watch you practice and socialize. They have been informed though that once they get their animated character idea, they can go to lunch, but must be back before 1PM as they start immediatly at 1PM. For the record, there are 2 interview rooms.  Jess ended up one of the last people to go. They called him into the room but his number, he did the 30 second piece and they said thank you and sent him on his way. He was then given his animated piece.  His was "A dog with a bone which then begins to fly away." He and Min wen to the Burger place next store.  
+1PM.  Jess and Min returned around 12:50PM.  ONce they were done, the group was broken up into too at exactly 1PM. The first group was to go and do their animate piece, the second will go and they will do their dance piece. This group is easy as everyone is doing both outside mainly the previous empoloyes who were all sent to do their animated peice, which will start at 1:15PM. Min went to do the animated piece, Jess went and did the Learning Phase, a short choerographed dance.  It is only around 2 minutes long, they get 10 minutes to practice, then must perform it in groups of 10.  Its a quick jazz piece.  So they take the first 10, they are taught the peice, they practice, then they get called and the next 10 go. From this point it should be pretty constant.  no massive waiting. His group contains a few of the serious and some invited full timers.  IN fact its mostly invited full timers (well, people who want to be full time).  Once he did the dance he recognized it, its the peice from Princess in teh Frog, once of the dances, even though they are not using the same music. Min had informed him to pay attention to dance numbers that they do in the parades or in the movies as often times that's what they use, or so she had heard.  Its still an intese piece. As a result, Jess ended up being one of the first grou (number 2) to go.  The instructor bacically got them in a room, and basically gave some basic insturction, then turns around in started going in the mirror, and they had to follow.  He did it 3 times, and that was it.  They tried it a few more times, and then when they called they went inside.  Jess found the memorization easy, but he recongized that he would need to express the music.  KNowing the movie it was from helped out a lot, and where it was in the movie (Tiana's introduciton) worked too. Next they will do the character animated sequence.  As number two their time is limited.  Jess is last in his group for that.  He didn't see Min, but from now on there is a 50/50 chance he will not see her until Sunday. Jess does his animated around 1:30PM.  He opts to do it on all fours like an actual dog would...except he stries to stay on his toes not on his knees for comfort.  And he treats it like he imaged PLuto would or Scooby Doo.  Eventually ending with him grabbing a chair, moving it in, and using it to jump up, cathc the imaginary bone, and then fight to hold it down.  The problem wasn't it was hard, its conveying the story and emotion and finishing as close to 1 minute without going over as possible. Afterwards he goes for the technical dance segment.  Its the same group, but this time there is more of an infasis on tehcnieuqe. Now they must learn a 1 minute sequence that is timed to music, but with all sorts of tehncial itegration.  But this is where he can shine.  ITs all ballet stuff to faster music.  Its across the floor format.  Its basically a ballet movie.  Its a 2 minute sequence. It features pirouettes, leaps (grand jetés), and high kicks. This is ballet 101...well maybe 201.  So as with before they had more time to practice this time, but it was still, they got moved into the room right before 2PM, they lined up, and they did the piece.  Jess opted to put the point shoes on for this one, and he had full confidence going through it.  Now there is 2 more.  The line test, and the personal performance and interview. And its 2PM.  Aki text him earlier to ask how it was going and so did Eric, and he just told him what he could...slowly.  Its like an all day swim meet.  He has been told that his dance group will be one of the first to go through, however, if he's last, each interview if 5 minutes.  He figures he will wait till 3PM to see if he is in danger of being late.  So they finally get his chance for the line up around 2:20PM.  So they will performs the simple choreography routine in small lines. This one is the harder one it seems.  You have to be in step with the person next to you even if they end up off, and again, its 2 minutes to see the routine, 5 minutes to practice, then they head it.  Jess doesn't look at the...what he calls judges as they perform, he stares at a spot in the back of the room.  They've been drilled its about qulity and recovery over being perfect, evne though he can since the perfection wanting to come out of some of the group.  He likens this to ballet again, but ballet, you don't speak.  You do the Pantimine but you don't speak. Its clearly a parade style sequence they are given.  He thinks it could be form some of the parade footage he has seen, but cannot be sure.  Finishing meant that the harder parts were done.  Now he get's to wait.  Practicing means using the dance room they were all in upfront to strethc and do what you could.  Around 2:50PM they came up to them and stated they were ready for the individual dance routines.  The first 3 people were of course the full timer invitees, but from the previous group.  So at 3PM, he text his Coach, also Min showed back up, they have heard nothing as well.  So around 3:10PM is when Jesse get's called in. He brings his music and himself.  He hands the music off on a CD and he then waits.  They play the music for a second to make sure it works.  He then comes to the front, and the enters the position.  WHen the music starts he starts.  He keeps time as best he can listening for the beats, but also just recalling where he is supposed to be and when he is supposed to be there. He knows he nails his performance, and he stops on the final beat as practiced.  The music stops and he then stands there, hands behind his back trying to look calm, but probably looking awkard as he just awaits instruction. After what felt like 10 minutes, the finally start with Judge 1 the male judge who asks, "So you're 6'1."  Jess states "Yes."  THe man states, "Well, that is definitly on teh taller side, but not necessarily a deal breaker.  The worse part of this job is telling people that oh, because something you cannot help is why you're eliminated. I always like to do it because of...a skill poeple lack which which, depiste I know people not liking it, is still far better. I also see you're a 2nd year in this program, why are you auditioning today instead of tommarow?"  JEss states "Because in about 45 minutes I have to be on a bus to Cornell for our first real swim meet of the season."  The man nods and states "That's definitly important." The woman asks, "So you are I am guess a ballet focus.  Is that why you chose that song?" Jess "Well, I think intially I was unsure what I wanted to do, I needed a song that would both show my tehcnical ability while also showing some emotion and to tell a story.  A friend of my has all these old anime song on her MP3 and when I heard it, I become interested in it, and I decided that it could be perfect."  She then asks "why not something faster like Jazz or Hip Hop." JEss "Intially I was thinking that my, all my training up till now has mostly been in classical dance, so for now stick to what I knew the most.  However I have  afriend who worked for you guess, and she stated that she has worked with a lot of the dancers and she states by this stage its not about the speed, but about me, and I got into dance because I liked ballet, and that is my current preference, not a requiment but I am partial to it, so I figured why not.  Now once I take some of the other course I make change, but for right now this is my preference."  She seems to accept that answer, so the man states "So you are hear for the outreach program I guess?"  HE states "Yes."  The man nods, then asks "So I guess then you are aiming for the summer correct."  Jess states, "That would be preferable yes."  THe man nods and states "SO down here you have several languages listed.  English, French, SPanish, Japanese, Hebrew. SO what is you proficiency? "Jess states. Spanish would be the weakest. But I am...well fluent in English and conversational and all others."  The man states "That's a lot of languages, how'd you learn all these?" Jess: "Well, we live pretty close to Quebec so they used to allways come down and we would always go up there in elementary school, so French was also the language they pushed in school, I spent a year in Japan at a local high bilingual high school and my grandmother and Nana forced me for Hebrew." The man laughs a bit at that one. The woman states "So you major is Physics with a focus in Pre-Med, and you are doubling in Commercial Dance, how tough is that?" Jess: "Ummm, not very. Let's just say I do a lot of homework on the bus. Honestly, I am so used to not having a lot of time to sit around, it actually feels normal to juggle the classes.  So far I am doing well."  The man then states, so I have another question, what is typically your availiblity during the summer, and do you care were you would be assigned if you got a position?" Jess thinks "Preferably sort of, I would like to go where my friend goes, just so you know someone, but overall not a 100%.  As for availiblity, I usually have nationals in the summer, in June some time, so as long as I could work around that my summer is usually just at home." The man then asks "And you friend is a previous employee?"  Jess nods "Yes sir." The man asks "And she's here?"  Jess states, "Yes Sir."  THe man nods.  They take notes. He then states, "So I am guess you will not be here at 4PM?" Jess states, "Preferably no.  The bus leaves at 4PM."  He nods and states, "Well, you would be far from the first person to need to hop a plane or train.  So good luck. We will probably make our decisions on today ether before five we'll text you or email, but you will know by Monday at the lattest."  He nods and he and states, "Thank you very much for the opportunity."  He then leaves.  Jess gets back outside and Min asks how did it go, and he states, great.  Well, I think I did good, but you never know.  She states, great.  The two ehad into the locker room where Jess uses his cellphone to get an Uber.  He gets one and it states 5 minutes.  He then gets his cloths, but after taking off his point shoes, he only has enough time to pull his warm up pants on and then get his jacket on.  He makes sure everything is secure and says by to Min.  he get's down stairs just in time for the Uber to arrive and he heads up town. As he gets in the Uber he text his coach he should be there in 10 minutes. He manages to get to the pick up area near the main pool and sees the fact the bus is powered and ready to go.  last of the students are just charging acorss the field.  He puts his bag on the bottom of the bus and gets on.  He finds Eric near the middle of the bus and sits next to him.  After around 10 minutes they are off to New York. 
+
+
+## Timeline of day
+Day 1 – School-arranged Disney audition
+Approximately
+100
+candidates
+ 
+Everyone
+completes
+all
+stages
+
+Time
+
+Activity
+
+8:00 AM
+
+Doors close; no further entry
+
+8:00–8:15
+
+Welcome, attendance and audition instructions
+
+8:15–8:30
+
+Candidate lineup and organization
+
+8:30–9:00
+
+Height checks
+
+9:00–10:30
+
+Look assessment
+
+10:30–10:45
+
+Break
+
+10:45 AM–12:15 PM
+
+Character performance assessment
+
+12:15–1:00 PM
+
+Lunch
+
+1:00–3:00 PM
+
+Dance audition
+
+3:00–3:30 PM
+
+Additional evaluations and individual assessments
+
+3:30–4:00 PM
+
+Final evaluator review
+
+4:00–4:30 PM
+
+Results and closing instructions
+
+
+## What's happening
+The standard Disney dance audition flow is a fast-paced process designed to filter a large volume of talent quickly. Whether you are auditioning for a Technical Dancer role or a Mover/Character role, the structure generally follows this multi-stage pipeline:
+
+1. Check-In and Measurement
+
+• The Process: You arrive early to submit your headshot and resume, fill out an audition profile, and receive a ** audition number**.
+• The "Height Cut": If you are auditioning for Character/Mover roles, you will step up to a height-measuring station. Disney strictly verifies your exact height down to the quarter-inch, as characters and costumes have razor-thin, non-negotiable height ranges.
+
+2. The Learning Phase (Choreography)
+
+• The Process: Performers are brought into the studio room in large groups. A Disney choreographer will teach a short routine (usually a jazz or musical theater combination) at a rapid pace.
+• The Vibe: Pay close attention here. Casting directors watch how quickly you pick up material, how you handle frustration, and whether you are already applying performance and facial expressions during the learning phase.
+
+3. The Preliminary Cut (The "Type-Out" or "Skills Pass")
+
+• For Technical Dancers: You will be split into smaller lines (usually 3 to 5 people at a time) to perform a quick across-the-floor combination consisting of basic technical markers like pirouettes, leaps (grand jetés), and high kicks. If you lack the required technical foundations, you are cut immediately.
+• For Movers/Characters: The group performs the simple choreography routine in small lines. The casting panel cuts performers who struggle with basic rhythm, coordination, or facial energy. 
+
+4. The Presentation and Animation Round
+
+If you survive the first cut, you advance to the performance showcase. Lines are brought back in front of the casting directors, and you perform the full routine.
+• The Technical Push: Dancers are asked to add personality while pushing their technical limits (higher extensions, sharper lines).
+• The Animation Test (For Movers): This is where Disney gives you an improvisational or physical storytelling prompt. For example: "You are an excited puppy who discovers a magical bone, but it suddenly starts floating away!" They are testing your ability to project a story all the way to the back row of a theme park theater without speaking.
+
+5. Final Cuts and Next Steps
+
+• The Result: The remaining group is asked to step out of the room, and the casting panel deliberates. Numbers are called out—one list is thanked for their time (cut), and the surviving numbers are kept for the final pool.
+• The Callbacks: Depending on the contract, final survivors may be asked to read a script, learn a secondary specialty routine, try on a character costume head to test visibility and proportion, or be put on a casting registry list for future contract offers.
