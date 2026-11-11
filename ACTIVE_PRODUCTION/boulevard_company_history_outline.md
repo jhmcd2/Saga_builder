@@ -182,6 +182,7 @@ Feb 5: ALPA redfines the scope clause, however, MetroJet cna continue operating 
 9. 1999
 - Janurary 15: Airbus pushes back the meeting for unknown reasons. 
 - Feb 14: Bouelvard starts equipping aircraft with GPS tracking . It also equiped all aircraft with ACARS.  Intially this system and overhaul was epxensive, nearly costing $500 a flight.  However it streamlined cocpit operations. 
+- Feb 20: Mills coporation enters into a land deal, a 99 year lease in Hanover on 100 acres of land for a new mall.  
 - March 7:  THe Reps at New Air break off contact.  
 - March 8: American Airliens offloads their order of 50 ATR-500s and another 20 CRJ-700s.  They are aquired a 70% discount.  
 - March 30: The company is invited to France again however this comes with a arning from US Airways about the Airbus as they continue to have fleet integration problems with the aircraft.  
@@ -196,11 +197,12 @@ Jan 15: Finally Bouelvard starts reciving new Aircraft Although AA offers them s
 NO DATE: Bouelvard also becomes an international airline.
 October 5: The new Training facility is complete.
 October 10:  The airline entered into negotiations for its first in hosue MX facility in baltimore to lower MX cost. 
+Dec 19: A380 is unvealed. 
 11. 2001
 - Jan 1: The Airline's Investor filled appers in NYC to have the company shut down, with th intent to liquidated.  Bouelvard fileld papers 15 minutes earlier and filed papers to keep the airline opened, and opted to file a lawsuite as well in MD. The hope was to stall the NYC proceedings.  
 - Jan 10: The ploy worked. The court proceedings would be held in MD. This also helped the airline secure a loan from the state to maintain operations and a Federal loan a well, but both were short term operating capital.  
 - Feb: The first flight to Narita was an intial failure. Storms in CA kept the aircraft from flying otu of LAX, but an ANA aircraft timed out, so the CEO of a major Japanese investment firm took Boulevard since he ahd to get home.  Due to the delay, the plane was diverted to HND.  He liked the routing and was aware of their finacial issue. It was discovered the invemetn firm also was heavily invested in Jet Blue, having the signle largest stake in the company. They ahd also informed Airbus not to work with them. 
-- March: The Investment team was looking for more foreign investment so contacted the staff.  After one month of showing him that the company was finally moving in the black (but they couldn't buy a new pin or they'd be back in the red) he opted to pay off the companies debt and invest the money the company needed to expand the fleet introduce,better commonality and elimitante the un prfitable Frankin fleet.  The codnition being if succesfull they would have have to creat a more profitable operation within Japan.  The agreemtn was signed on the 31st.  
+- March: The Investment team was looking for more foreign investment so contacted the staff.  After one month of showing him that the company was finally moving in the black (but they couldn't buy a new pin or they'd be back in the red) he opted to pay off the companies debt and invest the money the company needed to expand the fleet introduce,better commonality and elimitante the un prfitable Frankin fleet.  The codnition being if succesfull they would have have to creat a more profitable operation within Japan.  The agreemtn was signed on the 31st. Sonic Cuiser debutes and Boulevard looks at it as a potential sales boost and flying billboard.   
 - April 5: For the first time ever Bouelvard was profitable.  To better compelte with Jet Blue they started an upgrade program and reordered the itniors of all new aircraft.  They would have all leather interiors, seat back entertainment, and Stalight TV.  They opted for a csutom solution but a offshoot of Westing House made in MD.  The sysetem wsas far lighter and allowed for far more options.  The system would be in every aircraft from the ATR up to the 747. The airline now wanted to opt for a period of respcible expansion
 - June 5: The new operations center come online. It has real time trackign of all aircraft.  
 - October 1: The airline celebrated its first profitable fiscal year even with Metrojet, however US Airways renegotiated Metrojet, putting it almost on a month to month system.  
@@ -224,6 +226,33 @@ October 10:  The airline entered into negotiations for its first in hosue MX fac
 - September 14: "Reoppening"  BLVD used Mid Atlantic Charters to fly crew back the stranded aircraft and stared flying some back to hubs.  We opted to jsut do a full reset.  Passengers levels were nearl 70% intially.
 - September 16: Flights to desitnations were restarted, but Load factors were at 50%, so we opted to do a phased restart, and rollign furloughs, a plan that was devised during the shut down, this was actually fully devised during the fear of brnkrupcy.  The airline was dropped to 60% intially with crews flying around 60% of their normal schedule.  No new aircraft orders were canceld, instead opted to park them in the desert.  DCA remained closed. 
 - September 23: USAir cuts Metrojet, although operations are allowed to continue.
-- October 4: DCA reopens, however due to slot restrictions, and prioritztation of the larger carriers, Metrojet and Boulevard are not allowed to fly itnially.  Not ATRs were allowed nor CRJs.
+- October 4: DCA reopens, however due to slot restrictions, and prioritztation of the larger carriers, Metrojet and Boulevard are not allowed to fly itnially.  Not ATRs were allowed nor CRJs. Capcity is cut by 60%, a 1250 mile distance rule is put in place for DCA. 
 - Dec 1: Metrojet contract was pulled, in arbitration, Bouelvard Airlines was paid out $10 million for the end of the contract with teh rest of the value coming from the Metrojet gates, aircraft (the 737-200) and equipment.  USAirways filed for bankrupcy.  That started a dangerous plan.  The airline would try to cannibalize ride share by feeding off the death of the legacy carriers. 
-- Dec 15: The 737-200s were parked, replaced as 717s and 737-900s came online. Bouelvard gave US Airu its ten million back for 10% of their network and their A320 and A340 order
+- Dec 15: The 737-200s were parked, replaced as 717s and 737-900s came online. Bouelvard gave US Airbus its ten million back for 10% of their network and their A320 and A340 order. They agreed. 
+- Dec 20: As the review of 9/11 occured a news story on 60 Minutes About Boulevard Airline's responce during 9/11 caused a bump in sales. It was also mentioned by Preisdent Bush.
+- Dec 22: Shoe Bomber on a Delta flight causes massive flight delays. 
+22. 2002
+- Februrary 12: DCA starts a slow roll in procedure that amounts to return to 100% by the end of the year. Boulevard Bogards its way into the front of the line, stating that it has been nearly unable to operate.  The MWAA denies them.  
+- Feb 20: Boulevard forms a new in house legal group. While the group was formed due to a incident in June 2001, a high turbulence event that caused several children to go flying in the cabin after repeted warnigns to sit down.  They files suite against the MWAA that day over DCA landing rights.
+- March 1: The case against the MWAA last all but 4 hours and Boulevard wins hands down. It will get 1 out of every 2 slots until it returns to pre-9/11 capacity.
+- April 5: In order to save weight in order to cut cost, we remove on row of seats and re-align the cabin of the aircraft in overnight proceedures.  This gives a 34" pitch to coach. 
+- June 10: After the lawsuite against Bouelvard by the youth Dirt Bike ended with a Boulevard victory, they decided to start offer a program to atract youth groups. It would offer free or reduced rates to youths on official travel. The hope is to attract their parents. It would be open to any group as long as if officially registers with the company. 
+- July 6:  While in France dealing with the Airbus order, Airbus conviences the airlines to put a deposite on the A380.  The real idea was to try to secure more orders of A320 for a dual aircraft fleet, but we only stettle on 12 A320s and 6 A340s. A320s are used as hub connectors in the US north east while the A340's based on flights to Europe and Israel.
+- Aug: US Air files for bankrupcy
+- August 28: The Summer vacation season saw capacity return to 90% of normal.  Boulveard finishes a massive retraining program, and retrofittign the fleet with new armored doors.  Bouelvard and Southwest get together and design a secureity door that can be pulled.  All flights duct tape, tasers.  New security training the airline opted to implement for self defense, a permentant self defense team is hired for training. Security cameras are installed in key locations in the aircraft  
+- November 10: SWA and Bouelvard combine resoruces and enter into a massive fuel hedging deal.  
+- November 15: Capacity has managed to return up to 75% of pre-9/11 capacity.  
+- December: Sonic Cruiser is canceled. Boeing invtes Bouelvard to work with them on a new aircraft. 
+- December: United Declares Bankrupcy. 
+23. 2003
+- Jan: USAirways cuts about 30% of their East Coast flights.  
+- Jan: United Cuts around 40% of flights.  
+- Jan 29: 7E7 is introduced. Bouelvard becomes a launch customer. 
+- Feb 1: with help of thier creditor Boulevard manages to big on USAirways, United and NWA (NWA looked to cut cost) assets.  This increase fleet size almost by double, pax capacity by June goes up to 2x pre-9/11 levels.  We also purchase a large share of DTW's new terminal making DTW a hub. We also obtained a number of aircraft including the 777, 757s, and a few 747-400s as well as new aircraft slots. 
+- June 10: With the realization the max profit will not be in Airline buisness, the company opens Bouelvard Holdings.  The Holding company goes into real estate holdings, and begins purchasing land nation wide. However, we do bring in a consultant to try to operate it as a small company not as a faceless conglomerate. 
+- July 5: NWA, Continental, and Bouelvard enter into a resource sharing agreement. This is not a coode share agreement, just ground resources and resources at international flights. 
+- August 5: While Boulevard traveled to Toulous to settle A380 order possibly became a launch customer and potentially expend Airbus fleet, Airbus pruposly left them waiting for 5 hours , and pushed Singapore to take the launch position. They overheard they purposely ignored them in protest due to the War in Iraq.  Bouelvard laid them out opted to finish the A380 order, but refused to extend the Airbus fleet. 
+- August 25:  Bouelvard estimates the nearly 12,000 youth groups and nearly 20,000 youths have traveled for free, however it worked and this yeilded more capacity, as well, it was a massive tax right off leading to some taxes to be tax free.  It also gives the company a good image. 
+- November 5:  PResident Bush stated that moving troops back from Iraq for the Holidays would be impossible.  So on a dare the airline got some pilots willing to pull of several troop repatriation flights to Germany.  Using 4 747s, the flights were pulled off.  The DOD then activated the Civil Reserve Air Fleet.  The Process ends up continuing n the Fed's dime at 4x cost until permentant charter operators can be chosen in Janurary the following year
+- December 31:  Bouelvard celebrates its first holiday at full capacity, actually one of the few airlines to grow after 9/11 2x in size.  
+
