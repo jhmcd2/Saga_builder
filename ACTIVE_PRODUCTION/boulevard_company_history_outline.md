@@ -232,6 +232,7 @@ Dec 19: A380 is unvealed.
 - Dec 20: As the review of 9/11 occured a news story on 60 Minutes About Boulevard Airline's responce during 9/11 caused a bump in sales. It was also mentioned by Preisdent Bush.
 - Dec 22: Shoe Bomber on a Delta flight causes massive flight delays. 
 22. 2002
+- SARS outbreak in Asia Pacific causes flights to Hong Kong and China to drop 80%, hits Japan and Korea traffic by a -15% reduction
 - Februrary 12: DCA starts a slow roll in procedure that amounts to return to 100% by the end of the year. Boulevard Bogards its way into the front of the line, stating that it has been nearly unable to operate.  The MWAA denies them.  
 - Feb 20: Boulevard forms a new in house legal group. While the group was formed due to a incident in June 2001, a high turbulence event that caused several children to go flying in the cabin after repeted warnigns to sit down.  They files suite against the MWAA that day over DCA landing rights.
 - March 1: The case against the MWAA last all but 4 hours and Boulevard wins hands down. It will get 1 out of every 2 slots until it returns to pre-9/11 capacity.
@@ -239,10 +240,12 @@ Dec 19: A380 is unvealed.
 - June 10: After the lawsuite against Bouelvard by the youth Dirt Bike ended with a Boulevard victory, they decided to start offer a program to atract youth groups. It would offer free or reduced rates to youths on official travel. The hope is to attract their parents. It would be open to any group as long as if officially registers with the company. 
 - July 6:  While in France dealing with the Airbus order, Airbus conviences the airlines to put a deposite on the A380.  The real idea was to try to secure more orders of A320 for a dual aircraft fleet, but we only stettle on 12 A320s and 6 A340s. A320s are used as hub connectors in the US north east while the A340's based on flights to Europe and Israel.
 - Aug: US Air files for bankrupcy
+- Aug: Bahamas Air Files for Bankrupcy. 
 - August 28: The Summer vacation season saw capacity return to 90% of normal.  Boulveard finishes a massive retraining program, and retrofittign the fleet with new armored doors.  Bouelvard and Southwest get together and design a secureity door that can be pulled.  All flights duct tape, tasers.  New security training the airline opted to implement for self defense, a permentant self defense team is hired for training. Security cameras are installed in key locations in the aircraft  
 - November 10: SWA and Bouelvard combine resoruces and enter into a massive fuel hedging deal.  
 - November 15: Capacity has managed to return up to 75% of pre-9/11 capacity.  
 - December: Sonic Cruiser is canceled. Boeing invtes Bouelvard to work with them on a new aircraft. 
+- December: The Bahamian Government Offers a loan and sale of Bahamas ais to us management hopigng comgining it with the larger US airlines will cut cost.  Boulvard is the only carrier capable.  Bahamas sells the airline for $150 million 90% of the loan of the loan it over 50% of the operations and every attempt to hire local pilots is made.  Boulevard considers it a challenge, and potentially practice. 
 - December: United Declares Bankrupcy. 
 23. 2003
 - Jan: USAirways cuts about 30% of their East Coast flights.  
@@ -255,4 +258,104 @@ Dec 19: A380 is unvealed.
 - August 25:  Bouelvard estimates the nearly 12,000 youth groups and nearly 20,000 youths have traveled for free, however it worked and this yeilded more capacity, as well, it was a massive tax right off leading to some taxes to be tax free.  It also gives the company a good image. 
 - November 5:  PResident Bush stated that moving troops back from Iraq for the Holidays would be impossible.  So on a dare the airline got some pilots willing to pull of several troop repatriation flights to Germany.  Using 4 747s, the flights were pulled off.  The DOD then activated the Civil Reserve Air Fleet.  The Process ends up continuing n the Fed's dime at 4x cost until permentant charter operators can be chosen in Janurary the following year
 - December 31:  Bouelvard celebrates its first holiday at full capacity, actually one of the few airlines to grow after 9/11 2x in size.  
+24. 2004
+- Bahamas Airlines declare success with the Bahamas Air Buy out.
+- Aloha Airlines and ATA go bankrupt.  In at attempt to get more west coast services, Boulevard purchases the Aloha as one operational entity.  Managment is released along with much of the operations, but everything is combined, however the name is kept and all flights operate under the Aloha name brand with a unique culture aspect. Boulevard waits till ATA goes to auction and purchases several 757s and 2 L1011s.  
+- Airline produces a new model that reforms around the 737 at its core.  
+- 7E7 becames 787.   Airbus clones the aircraft as the A350, but will redesign it as the A350XWB after the intial design flops.
+- Boulevard becames the first operator of the E-175 in the US, and is the launch customer for the 737-900ER
+- A number of major hurricanes hit Florida back to back. 
+- SARS airline recovers
+- US Air files for bankrupcy again.  The airline is too big for Boulevard to aquire. 
+- Dec 6: Tsunami in the Indian Ocean.  Boulvard airlines offers 2 747s to the US Red Cross at cost.  
+- Due to fleet cuts, insufficient seats to fly to Greece are present.  So Boulevard host large charter flies to get athletes to the Olympics as charter and the airlines tries to redirect more flights getting special clerance. 
+25. 2005
+- A380 first flight
+- B777-200LR first flight
+- B747-8 launched
+- Jet Blue obtains E190, Boulvard opts for the E195
+- AUG:  Hurricane Katrina hits New Orleans.  The airport is close for several weeks as the  runways are partially floored.  4 days latter Bouelvard opts to attempt to land aircraft on the half closed runways. Boulevard operates emergency evacuation flights in concert with the US military to Houston, but due to the condition of MSY can only operate during the day. 
+- September: The airline wins the presidential Freedom award for its service in Katrina
+- September 14: Delta and Northwest file for bankrupcy.  Despite not being involved, Bouelvard opts to start investigating more ways to save money, stay lean, and look for alternate investments.  
+- Sep: US Air and America West merge.  To cover the merger they need to build artificial competition on shared routes, so opts to bring in Boulevard give them capcity in exchange for relgulators approving the merge
+26. 2006
+- Terrorist attack is thwarted in Europen, but leads to liquids being banned from flights
+- Boulevard takes first 777-200LR
+- Airline takes first 737-900ER
+- Hooters Corp Sells the company to Boulevard for practically nothing ($5 million).  The idea was to use their 737s to merge into the carrier imemdaitly, but this actually takes 2 years to do surpsingly, the Novelty airlines actually staying pretty popular. 
+- After a year check, the company comes up with a tree prong plan to keep cost fix for the next 15 years even with high fuel cost. Bouelvard Holdings became necessary to keep the company afloat and becames an investment firm.  Start using real estat through BRAC as much of its real estate in MD is targeted by the DOD for expansion projects. Also looks into aquiring a refinery. Invest in Biofuels, adopts a program of constant fleet upgrades and commissions a aircraft seat manufacturer to create a new composite seat.  Also save money by keeping tech managment inhouse.  
+- Boulevard Japan is register in Japan, but needs to go through review by Japanese regulators.
+- Bouelvard is named the official airline of the USIOC.  
+27. 2007
+- Japanese regulators appove Boulevard Japan, and 12 smaller operators are obsorbed overnight.  Many in Japan decry the mergers, especially by a foriegn company.  Boulevard Japan is formed.  However the Boulevard owner sees the situation with the airlines.  On the jets the service is excelent, behind the scenes they are behind, and wasting tons of money, and only make money due to subsidies that were running out.  The airline's management is refocused in Nakai, JP with sims located in Kyoto,JP primary classrooms in Tokyo. US quality of life policies are put into place along wiht heavy technological adoption. It is not accepted well. especially when it comes to the stamps
+- Boulevard starts working with a large finacial services company in an attempt to build a Pension program
+- ALPA pushes to enter Bouelvard 
+- 787 rolls out
+- A380 first delivered to Singapore.  Bouevlard recieves their aircraft in July.  The Aircraft is based out of Baltimore.  It ends up flying from BWI to HND...this is strategic as the aircraf at the time was too large to fly out of Narita. The route is shared with a 747.  We beat Singapore into sevice by a matter of days. We also push for the creation of an additional terminal.
+- US - EU Open Skies agreement opens up Europe to Boulevard.
+- Richard Branson's new Virgin America signs a 10 year MX agreement with Boulevard Airlines. They will also lease training space. 
+- Boulevard's new coach class chair is 30% lighter and actually exceeds standard airliner seats in safety, but its 10% more expensive.  The airline opts to make them standard acorss the fleet. NOTE: as standard metal bench of 3 seat weighs around 90lbs, meaning ours weighs 63lbs.  The new entertainment system is also lighter.
+- Housing buble hits in May, shashing demand in the US 10-15%
+28. 2008.
+- Boulevard Airlines invest heavily in Oil and redoes its hedge constracts.  
+- Bouelvard holdings becomes heavily diversified, gaining 
+- Oil hits $147 a gallon, trips to vacation destination and buisness trips falls 15%, making the total drop 30% with last years drop
+- Boulevard's liscence on the Hooters name ends, forcing the airline to finally fully absorb the company
+- Airlines add baggage charges, but Boulevard opts not to do this.  It quickly became 1 of 3, the others being Jet Blue and Southwest. Boulevard has its first SuperBowl commerical with the surviving members of the movie Airplane in starring roles.
+- MD-88s retired from fleet.  
+- Pilots vote against ALPA unionization
+- After looking at the aircraft, the airline decides to add a row back, but redsigns its custom seat, and moves the rear bulk head back just enough to simulate the 34" pitch in coach.  
+- Wiht a repuationas a fixes, an EU invetstor group asks Boulevard to take over two of their investments, Air Tahiti Nui which was nearing bankrupcy and Alitalia.  They agree...this is helped by the April Delta NWA merger. As witht eh USAir, America West Merger, they need compeition along ther route, so they sell Boulevard elements of the company at rock bottom prices including next to half of NWA's 757-300s, this will make 100% of the 757-300 aircraft in Boulevard's fleet. NWA would also sell Boulevard Northwest Orient Airlines.
+- Aug/Sept: Houston area airports shut down for 2 weeks due to back to back hurricanes
+- Oct: BLVD unveals private first class full lie down seats in international, and side by side buiuness seats, as well as lighter seat back entertainment. Original buisness class seats sent to domestic fleet.
+- Dec: rolling furloughs begin due to lack of demand.  Upper managment takes a 50% pay cut. Emploeeys reduced service time reduced to 30% of normal
+29. 2009
+- Continental leaves SkyTeam, leaving Boulevard alone in the aliance, so SkyTeam goes under. 
+- Boulevard enters intoo a short team lease of 4 years the Russian IL-96 and the ANT148.  
+- Continental and United merge.  United refuses to give anything to BLVD, recongizing they are getting to powerful. 
+- Spring H1N1 virus causes traffic to drop to 50% normal.  Boulevard increases rolling furloughs to 45%. 
+- Boulevard notes that retirements are approaching, so opts try to partner with flight schools.  The furloughs and parked planes accelerate new first class, buiness, an coach.   
+- Boulvard standardizes hiring rles for FOs locking in reqrirements at 21 and 500hrs TT
+- Boulevard opts to increase pay period to pilots entire work day not just flight time. (note: this will be defines as duty day)
+- Colgan crash 3407 crash. 
+30. 2010
+- Alitalia senior pilots reject restructuring plan at the behest of ourside force
+- April 10- late March: Eyjafjallajökull Volcanic Eruption shut down European airspace.  in late April,it was determined lowers European Airpots were still reported clear of upper level ash.  So using our trijets and 747s Boulevard flew its flights to Southern Europe via the central atlantic ocean and not the typical norther route add 2 hrs to the flights.  
+- May: Eropean flights return t normal, Boulard, returns to 80% capacity allowing furloughs to return to 90% work schedual and exec pay to return to normal. United and Continental merger concludes, but they must surrender slots at IAH, LAX, and  EWR.  ONly Boulevard is able to take the slots.  SWA doesn't want them. 
+- Boulevard becomes launch customer for the Cseries. 747-8f flies. A320neo launches
+- Nov: 787 test fleet delayed
+- Dec, NYC an BOS airports shut down for 2 weeks due to massive blizzards as well as LON area airports
+31. 2011
+- after lobbying for a 737 replacement BLVD makes its objections know as Boeing caved to AA, SWA, United anr RyanAir to build a 737"neo"(aka 737MAX).  
+- oh AA files for bankrupcy
+- 747-8i takes first light and the -8f deliveries start
+- March 11, 2011: An Earthquake and Tsunami hits Japan.  A 737-900ER barely 2 years old is caught trying to evacuate people from Sendai at the last minute get's caught in the flood waters, but manages to stay stable.  Over the next 2 months, intially canceling passenger flights and sending over emergency rescue crews Bouelvard deploys several aircraft with the US Redcross. After a confrentation with the local authorities which have been leaaving people in forzen shelters without power, citing no availible shelers.  Boulevard steps in, and forces the Handea international terminal open, as it just got its occupency certification, staffed it with food and resources, organized the place and incomeping people to provide services and created a small town for the survivors and began evacuations with the JSDF and the US forces authorized to operate.  
+- Boulevard returns to 100% capcity and starts to regrow at an acclerated rate.  By December the airline is no longer dependent on the Holdings company to say healthy
+- Boulevard fights the 1500 hour rule. However ALPA comes in and uses their money and crying families to get the rule approved into law.  
+- May  10: The 737 stuck at Sundai, is eventually transported by barge to HND. It is determined with will need heavy work, but its opted to retrofit the aircraft.
+32. 2013
+- Jan: JAL uses the wrong fuse on a 787 causing a fire in the Li batteries  All aircraft are delayed to May
+- A350 first flight.  However, to sell them Airbus thretens Airlines how cancel their A380 orders to buy the A350.  However, they get rumors of Airbus offering execs cash gifts for buying the craft. 
+- BLVD takes its last of its original 16 A380s.  
+- CSeries first flight
+- AA and USAir Merger.  
+- After nearly a year as a shelter, the last civilians living in Haneda international terminal return home. This clears the terminal to be completed
+- Boulevard travels to Dubai and investigates Emirates.  While no codeshare deal is hathed it becomes clear to where the airline's next step is.  
+- IL-96 return back to Russia, but Boulevard opts to purchase the AN148s but they are recertified with western built engines.  
+33. 2014
+- Jan: Massive polar vortex messes with Aircraft systems casuing a number of cancelations. 
+- The MD-11 retirement is annouced.  It will be the last trijet in the fleet.
+- July 17: Ukranian airspace closed after Russia shoots down a passenger aircraft. 
+- Oil crashes from $115 a barrel in June to $60 in December 
+- Alitalia restructure stalls once more as the Senior pilots file a lawsuite. 
+- A320neo first flight 
+- Boulevard aims to transform the airline into a premium carrier to compete against Emirates and Singapore. 
+- Boulevard opens Bouelvard Cargo. It begins converting 747-400s to cargo aircraft, replacing them with 747-8s and replaces 767-400s with 787s and the 767s are converted to cargo aircraft. FedEx enters into a deal to purchase the MD-11s. 
+- 1500 hour rule takes affect.  FAA surprises airlines back not allowing pilots already hired too be grandfathered in. 
+34. 2015.
+- BLVD teams up with Gulfstream after Mid-Atlantic CHarter sets a record order for the aircraft, to design a brand new interior for their aircraft.  
+- Boulevard breaks massive record profits, and becomes the most profitable airline world wide.  Oil droped to $50 a barrel. 
+- Boulevard's Japanese investor forces the company to put down an order for the MRJ
+
+
 
