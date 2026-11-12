@@ -305,7 +305,7 @@ Dec 19: A380 is unvealed.
 - MD-88s retired from fleet.  
 - Pilots vote against ALPA unionization
 - After looking at the aircraft, the airline decides to add a row back, but redsigns its custom seat, and moves the rear bulk head back just enough to simulate the 34" pitch in coach.  
-- Wiht a repuationas a fixes, an EU invetstor group asks Boulevard to take over two of their investments, Air Tahiti Nui which was nearing bankrupcy and Alitalia.  They agree...this is helped by the April Delta NWA merger. As witht eh USAir, America West Merger, they need compeition along ther route, so they sell Boulevard elements of the company at rock bottom prices including next to half of NWA's 757-300s, this will make 100% of the 757-300 aircraft in Boulevard's fleet. NWA would also sell Boulevard Northwest Orient Airlines.
+- Wiht a repuationas a fixes, an EU invetstor group asks Boulevard to take over two of their investments, Air Tahiti Nui which was nearing bankrupcy and Alitalia along with a third cert they were holding onto.  They agree...this is helped by the April Delta NWA merger. As witht eh USAir, America West Merger, they need compeition along ther route, so they sell Boulevard elements of the company at rock bottom prices including next to half of NWA's 757-300s, this will make 100% of the 757-300 aircraft in Boulevard's fleet. NWA would also sell Boulevard Northwest Orient Airlines.
 - Aug/Sept: Houston area airports shut down for 2 weeks due to back to back hurricanes
 - Oct: BLVD unveals private first class full lie down seats in international, and side by side buiuness seats, as well as lighter seat back entertainment. Original buisness class seats sent to domestic fleet.
 - Dec: rolling furloughs begin due to lack of demand.  Upper managment takes a 50% pay cut. Emploeeys reduced service time reduced to 30% of normal
@@ -323,16 +323,23 @@ Dec 19: A380 is unvealed.
 - April 10- late March: Eyjafjallajökull Volcanic Eruption shut down European airspace.  in late April,it was determined lowers European Airpots were still reported clear of upper level ash.  So using our trijets and 747s Boulevard flew its flights to Southern Europe via the central atlantic ocean and not the typical norther route add 2 hrs to the flights.  
 - May: Eropean flights return t normal, Boulard, returns to 80% capacity allowing furloughs to return to 90% work schedual and exec pay to return to normal. United and Continental merger concludes, but they must surrender slots at IAH, LAX, and  EWR.  ONly Boulevard is able to take the slots.  SWA doesn't want them. 
 - Boulevard becomes launch customer for the Cseries. 747-8f flies. A320neo launches
+- 
 - Nov: 787 test fleet delayed
 - Dec, NYC an BOS airports shut down for 2 weeks due to massive blizzards as well as LON area airports
 31. 2011
-- after lobbying for a 737 replacement BLVD makes its objections know as Boeing caved to AA, SWA, United anr RyanAir to build a 737"neo"(aka 737MAX).  
+- after lobbying for a 737 replacement BLVD makes its objections know as Boeing caved to AA, SWA, United anr RyanAir to build a 737"neo"(aka 737MAX).  Yet even with its objections a more fuel effecient aircraft will clearly be needed in teh future so they place an order for the type
+- As that 3rd European cert is about to expire instead of just epxloiting the fee, they opt to put in paper work, mainly as a screw Airbus, for Boulevard Europe.  The airline will be based in Paris but will have some facilities in the UK.  
 - oh AA files for bankrupcy
 - 747-8i takes first light and the -8f deliveries start
 - March 11, 2011: An Earthquake and Tsunami hits Japan.  A 737-900ER barely 2 years old is caught trying to evacuate people from Sendai at the last minute get's caught in the flood waters, but manages to stay stable.  Over the next 2 months, intially canceling passenger flights and sending over emergency rescue crews Bouelvard deploys several aircraft with the US Redcross. After a confrentation with the local authorities which have been leaaving people in forzen shelters without power, citing no availible shelers.  Boulevard steps in, and forces the Handea international terminal open, as it just got its occupency certification, staffed it with food and resources, organized the place and incomeping people to provide services and created a small town for the survivors and began evacuations with the JSDF and the US forces authorized to operate.  
 - Boulevard returns to 100% capcity and starts to regrow at an acclerated rate.  By December the airline is no longer dependent on the Holdings company to say healthy
 - Boulevard fights the 1500 hour rule. However ALPA comes in and uses their money and crying families to get the rule approved into law.  
 - May  10: The 737 stuck at Sundai, is eventually transported by barge to HND. It is determined with will need heavy work, but its opted to retrofit the aircraft.
+31a. 2012
+- After constant complaints, Bouelvards sends what it calls in house inspectors to Boeings South Carolina plant to inspect the 787-9 and -10.  The aircraft seem to have no notable flaws, and the FAA seems to agree that most of the problems result from bitter workers who do not like the fact that the plant isn't unionized. That being said one area of concern is that aircraft sections from Italy are coming off with small defects. 
+- April 12: Boulevard Europe takes to the skies, instantly became a hit.  The airline officially creates its own global network
+- October 12: Superstorm Sandy hits NYC effectivly closing all airports for close to a week. 
+- December 31: Boulevard Airlines sells its original 737-200s to the breakers. 
 32. 2013
 - Jan: JAL uses the wrong fuse on a 787 causing a fire in the Li batteries  All aircraft are delayed to May
 - A350 first flight.  However, to sell them Airbus thretens Airlines how cancel their A380 orders to buy the A350.  However, they get rumors of Airbus offering execs cash gifts for buying the craft. 
@@ -355,7 +362,82 @@ Dec 19: A380 is unvealed.
 34. 2015.
 - BLVD teams up with Gulfstream after Mid-Atlantic CHarter sets a record order for the aircraft, to design a brand new interior for their aircraft.  
 - Boulevard breaks massive record profits, and becomes the most profitable airline world wide.  Oil droped to $50 a barrel. 
-- Boulevard's Japanese investor forces the company to put down an order for the MRJ
+- Boulevard's Japanese investor forces the company to put down an order for the MRJ.  While the aircraft seems great itself, the manufacturer is inexperience and they are making mistakes that BLVD Owner doesn't like.
+35. 2016.
+- After complaints, Boulevard sends inspectors to Boeing's factories in Seattle and find defeciencies.  
+- MArch: a terrorist attack in Brussules closes the airport for 24hrs
+- April 2016: Against Branson's wishes the operator for Virgin America sells the company to Alaska Airlines
+- June: A terrorist attack in IStanbul closes the airport for 24 hours
+- July 2016: CS100 takes to the skies for the first time.  
+- August 2016: Cuba flights turn and Boulevard opts to fly there from JFK with the new CS100s
+36. 2017.
+- Bouelvard Airlines hires a non-European PI firm to investigate the Alitalia problem, espcially after rumors of another Airline cert being handed out. 
+- Boeing challenges Bombardier over the sales price of teh CS100.  Boulevard is brought into testify, and confirms the prices are close to dumping.  But much of that is because the time it took to get the aircraft into the skies.  The Trump admin places a massive oversized tarrif on the aircraft.  
+- Bouelvard places more orders for the 747, and places a number of orders for parts as we since the end of the line is coming.  
+- During the summer massive 3 massive hurricanes repeatedly hit FLorida, PuretoRico and the rest of the orther Carribean causion massive flight delays and cancelations.  During Aid flights to San Juan, FEMA intially refuses Bouelvard's aid flights, before opting to launch them nearly a week late. 
+- April: A lawsuit by senior pilots brings Alitalia to a halt.  The pilots group goes on strike, but when they go to arbetration, no one shows up, and there is a full walk out.  The senior pilots had noted they wanted to see any cuts be passed by sneiority not bared by all.  
+- May:  The Alitalia local managment company is suddenly purchased from underneath the Boulevard.  Boulevard moves to restructure the company under Bouelvard Europe quickly, but the EU orders a ground stop on the carrier. 
+37. 2018.
+- Airbus entered into an Illegal deal with purchased the CS100 program for a dollar.  The project only had to be approved by French courts who approved it after a week.  The Aircraft name was changed to A220.  
+- Bouelvard bought 4 more A380s to bring the fleet to an even 20 from a Japanese airline which went bankrupt. 
+- Airbus quickly tried to renegotiate prices.  Boulevard Cancled its entire remining order after getting only 10 aircraft. It oped to repalce it with the ERJ-195-E2
+- Bouelvard starts recieving orders of the 737-MAX8, the first time they have operated the smaller -800 varient of the type
+- July: Boeing EMbraer enter into a merger deal which Boulevard supports, but the EU bogards its way in to state it needs its approval. No one hears back from them. 
+- October 29: 737-MAX8 crashes.  Why suspicion does fall on the aircraft, with many pilots recognizing the situation as runaway trim and an MX problem, the new Avgeeks online ensure the problem is pointed at Boeing.  Bouelvard demands will tech specifications from Boeing...is surpsiginly met with silence intially.  As a result each new MAX aircraft is sent to storage in Arizona prior to coming online for additional inspections.
+- Sometime in late Fall:  MCAS comes into light and many become suspicious of the system.  
+38. 2019.
+- Bouelvard Airlines is named one of the main contractors for Amazon Prime.  a contract worth billions 
+- March 10: An Ethiopian Air 737MAX8 crashes.  While pilot error is clearly a factor, its connected to the same problem.   The next day Boulevard opts to ground its fleet and rely purely on the 737NGs
+- March 13: the worldwide fleet of 737MAX aircraft is grounded. Boulevard has its own engineers take a look at the information Boeing finally sent over, and sure enough, plenty of issues were found.  Although it is curious how no US carriers which were already operatning hundreds of the type never had any incedents, and we even recognize the A320 had a worse push into service we recognize this as Boeing's grave to dig out of.  
+- April:  Boulevard leads a nearly $100 billion dollar lawsuite against Boeing, but convinces the airlines involved to settle for extreme discounts as well.  
+- Sep 23: The UK govenment ordered Bouelvard to assits in the Operation MAtterhorn, the repatriation of nearly 150k stranged passengers after Thomas Cook went bankrupt.  We charged them cost + 50%
+- Dec 30: Health tracking, a program we set up after H1N1, detected a new outbreak in Wuhan China.
+- IN a Congressional hearing the Boeing CEO stated that the crashes were not that serious...sealing his fate.  Boulevard's owner is also brought in.  He is asked about the Boeing's CEO's claim and states that he is refering to Airbus products who have had a simialr track record, but the CEO forgot that its 2019 and not 1986.  But he clearly states that the problem has been the EU has outright ignored the terms of the WTO settlement and that this is what happens after 5 decades of cheating.  But he also states taht in anycase, Boeing is still responcible for the safety of their aircraft regardless of of how bad the competition is cheating.
+- Bouelvard buys T5 at JFK and retrofits it into a modern terminal  
+39. 2020.
+- Bouelvard owner testifies remotly over an AIrbus bribary and corruption case. The company loses in court and is fined $8 billion, however Europe keeps the level low stating that the company cannot handle a larger fine.  
+- Jan 1: The PI firm stated that the problems with Alitalia were orchestrated by Airbus who didn't want to lose share in Europe to Boeing, and the EU and French government assited with the push.  The new carrier they wanted to make way for it ITA Airways. 
+- Jan 5: Boulevard Airlines launched the largest lawsuite in EU history against Airbus, the government of France and the EU regulators itself.  
+- Jan 31: Brexit started...Bouelvard airlines put the paperwork for the lawsuite over Alitalia in the UK.  Not to mention BLVD Europe was based in France but also in the UK. The managment team would have gone out drinking if any of them drank. Fortunitly they had preped early just in case. 
+- Jan: The Health Tracking department kept trying to get with the NIH, but while they were aware of the situation in China, they seemed to think it was isolated. As a precautionary measure we ordered more masks and PPE's for crew and staff and placed a warning to CHinese bound crews.
+- Jan 25: 777-9 first flight.  
+- Feb:  Health Tracking determined whatever the sickness was Japan and Korea were begining to flag it.  We opted to preimtivly beging canceling flights to all but Shanghai and Beijing, much to the chargrin of the Trump admin. However, but late Feb, it was clear a new Epidemic was starting to go global. 
+- March: Bouelvard Japan cancels all flights to China, then closes its boarders, Europe starts to follow, finally after much debate, and resitence from the Trump admin, US airspace closes as the COVID-19 Pandemic begins.  Boulevard managed to stay a bit ahead of the curve, but the way things progressed was even beyond our capability to keep up with. By the end of March load factor went from 105% to 1% globally. The Trump admin declares the Airlines essential service, but with next to no one going anywhere, that's a problem. 
+- April: Bouelvard is authorized to perform repatriation flights.  Flight crews are forced to wear head to tow PPE's and air masks, but the status keeps changing.  Bouelvard is contracked to start shipping PPE's by the Emergency authoization act.  Boulevard slashes payrates across the board with managment dropping to only 5%.  and 20% for all over staff. The airline starts living off og BLVD Holdings and the company's rainy day fund.  To help support companies the Holding company operates, we cut their payments to 25% in an attempt to not bankrupt our companies.  
+- April: The Boeing Embraer deal falls appart. While cash was an issue, the reality was the EU held up approval to far after they deadline to the point were Boeing realized they simply were never going to get approved so they backed out. 
+- Mid to late 2020: Bouelvard returns to 15% operation due to necessity, however, cargo flight demand explode.  Boulevard's 747-400 fleets along with the 747-8Fs going into service in high demand. Since the airline never fully retirned its quad jet fleet, the airline ends up 3rd in capcity only to FedEx and UPS. However we also rush to secure additional units from Thai Airlines and British Airways
+- Boeing and airbus slash production 30-50%.  Boulevard attempts to keep bringing in new aircraft only to park them instantly Fortunitly we aren't getting any 737s so that saves money. 
+- July Boulevard is concenced to purchase Virgin Australia. Now entering the australian domestic market.  Ironically the purchases was celebrated by Ozzies due to the lack of choice in the Market.  
+- July.  Bouelvard is also forced to buy Hong Kong competitior Cathay Pacific.  
+- October: Boeing finally fixes the MAX
+- Nov: The MAX is recertified to fly.  Boulevard airlines owner takes up a fixed aircraft and specifically breaks the aircraf to prove it is safe over the Chesepeak Bay 
+40. 2021
+- Delayed due to COVID, T5 at JFK opens, with JetBlue subletting half the terminal. The terminal si capable of handling a single A380. 
+- Jan 6: A angry mob tries to stop the election certification for president at the captial of the United States, the first time in history. THe airline owner calls Donal Trump a traitor and a wanna bid dictator and calls for his imprisonment. 
+- Some countries reopen, however slowly and only for those who are vaccinated.  
+- Boulevard deptermined about 25% of its staff came down with COVID, and about 2% had died.  The airline decided to make their full pensions availible to their fmailies. 
+- Aug: The fallout of Donald Trump continues as his negotiation with the Taliban leads to the fall of Afghanistan.  Due to the lack of transport capacity, the US government calls the company to see if they can help.  The ailine mobilizes its grounded A380s, and the Thai 747-400s which were about to be trasported from Thailand to the US for conversion.  While the C-17s. They then operated a non-stop transport loop between Kabul and Qatar 24/7 for over a week. 
+- Aug: the US operates self contained charter flights for the US Olympic Team to Tokyo for a delayed Olympics. 
+- October 14: Alitalia is officially closed
+- OCtober 15: ITA takes over, but while everyone expected Bouelvard to block the airline (the court case was delayed due to the Pandemic) they actually allow it to fly
+- Nov: President Biden Award the aircrews and the airline the presidential medal of freedom for its own in the Kabul Airbridge Crisis.
+- Nov: the US reopens.
+- Dec: Omicron wave (COVID-19 Varient) shuts down a number of borders again.  
+- Overall the demand that year exploded domestically, but still stayed below 50%.  Bouelvard airlines opted a stepped in approach to return to operation capacity. It also activated exactly zero of its MAX aircraft that year.  However the MAX 737s did enter service in a reduced capcity mainly getting pilots used and comfortable with the aircraft and handling non-commerical activties.  
+41. 2022
+- As apart of a realignment, the London Airport Authority starts shifting Bouelvard longhaul flights from Standstead to LHR Terminal 2 with the intent of giving the airline T1, but massive traffic issues at the airport allow only the larger aircraft to make the move. 
+- The year of revenge travel, overall capcities shot up to nearly 200% cacpacity for airlines causing many airlines to rush planes back into service.  Boulevard continued its stepped return to service, ensuring aircraft were fully inspected prior to return to service.  
+- China's support of Russia leads to unwanted tensions.  It is decided that moving forward Bouelvard will not have anymore direct US to China flights, but replaces those flights with Cathay Pacific. 
+- Boulevard Airlines ALitalia lawsuite goes to court in Fed 5.  By July 15 the court rules that the government of Italy, Airbus, and France did collude to kill the Alitalia deal for fear of turning Alitalia to a Boeing stronghold within Europe (note: but this time there are few Boeing operators in Europe especially on domestic routes).  Boulevard wins, making nearly $75 billion and ITA, however controlling state in ITA is to be released over 10 years. However it is still seen as an Airbus win as the company still succesfully gained an all Airbus customer. 
+- Fed: at the Winter Olympics one of the skaters has a major crash out and the airline offers her a free vacation afterwords as apart of a program the airline has operated since 2010. 
+- Fed: Also, Russia would invade Ukraine and the US would ban all travel to Russia. Russia would close its airspace, making all flights from the US east coast to Japan, China and Asian from 5-10% longer and forcing European flights to over the US adding in some cases over 500 miles to the flights.  
+- Most the world has reoped outside China, Australia, Japan and New Zealand.  Most would open towards the Summer travel season just just after, China would not open till late December
+- Summer LHR and Amsterdam lead to choas as baggage systems fail.
+- Also that summer the BLVD's A380s start flying again. 
+
+
+ 
+
 
 
 
