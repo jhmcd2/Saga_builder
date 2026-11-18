@@ -286,6 +286,7 @@ Dec 19: A380 is unvealed.
 - After a year check, the company comes up with a tree prong plan to keep cost fix for the next 15 years even with high fuel cost. Bouelvard Holdings became necessary to keep the company afloat and becames an investment firm.  Start using real estat through BRAC as much of its real estate in MD is targeted by the DOD for expansion projects. Also looks into aquiring a refinery. Invest in Biofuels, adopts a program of constant fleet upgrades and commissions a aircraft seat manufacturer to create a new composite seat.  Also save money by keeping tech managment inhouse.  
 - Boulevard Japan is register in Japan, but needs to go through review by Japanese regulators.
 - Bouelvard is named the official airline of the USIOC.  
+- Flights to Israel stopped between July-August
 27. 2007
 - Japanese regulators appove Boulevard Japan, and 12 smaller operators are obsorbed overnight.  Many in Japan decry the mergers, especially by a foriegn company.  Boulevard Japan is formed.  However the Boulevard owner sees the situation with the airlines.  On the jets the service is excelent, behind the scenes they are behind, and wasting tons of money, and only make money due to subsidies that were running out.  The airline's management is refocused in Nakai, JP with sims located in Kyoto,JP primary classrooms in Tokyo. US quality of life policies are put into place along wiht heavy technological adoption. It is not accepted well. especially when it comes to the stamps
 - Boulevard starts working with a large finacial services company in an attempt to build a Pension program
@@ -353,6 +354,7 @@ Dec 19: A380 is unvealed.
 - Jan: Massive polar vortex messes with Aircraft systems casuing a number of cancelations. 
 - The MD-11 retirement is annouced.  It will be the last trijet in the fleet.
 - July 17: Ukranian airspace closed after Russia shoots down a passenger aircraft. 
+- July 22: Tel Aviv airport closes due to rocket attack. FAA imposes 36 hour flight ban, but boulevard halts flights for a month. 
 - Oil crashes from $115 a barrel in June to $60 in December 
 - Alitalia restructure stalls once more as the Senior pilots file a lawsuite. 
 - A320neo first flight 
@@ -416,6 +418,7 @@ Dec 19: A380 is unvealed.
 - Jan 6: A angry mob tries to stop the election certification for president at the captial of the United States, the first time in history. THe airline owner calls Donal Trump a traitor and a wanna bid dictator and calls for his imprisonment. 
 - Some countries reopen, however slowly and only for those who are vaccinated.  
 - Boulevard deptermined about 25% of its staff came down with COVID, and about 2% had died.  The airline decided to make their full pensions availible to their fmailies. 
+- May: Rocket attacks in Israel cause flights to the country to be cancled. 
 - Aug: The fallout of Donald Trump continues as his negotiation with the Taliban leads to the fall of Afghanistan.  Due to the lack of transport capacity, the US government calls the company to see if they can help.  The ailine mobilizes its grounded A380s, and the Thai 747-400s which were about to be trasported from Thailand to the US for conversion.  While the C-17s. They then operated a non-stop transport loop between Kabul and Qatar 24/7 for over a week. 
 - Aug: the US operates self contained charter flights for the US Olympic Team to Tokyo for a delayed Olympics. 
 - October 14: Alitalia is officially closed
@@ -430,11 +433,44 @@ Dec 19: A380 is unvealed.
 - China's support of Russia leads to unwanted tensions.  It is decided that moving forward Bouelvard will not have anymore direct US to China flights, but replaces those flights with Cathay Pacific. 
 - Boulevard Airlines ALitalia lawsuite goes to court in Fed 5.  By July 15 the court rules that the government of Italy, Airbus, and France did collude to kill the Alitalia deal for fear of turning Alitalia to a Boeing stronghold within Europe (note: but this time there are few Boeing operators in Europe especially on domestic routes).  Boulevard wins, making nearly $75 billion and ITA, however controlling state in ITA is to be released over 10 years. However it is still seen as an Airbus win as the company still succesfully gained an all Airbus customer. 
 - Fed: at the Winter Olympics one of the skaters has a major crash out and the airline offers her a free vacation afterwords as apart of a program the airline has operated since 2010. 
-- Fed: Also, Russia would invade Ukraine and the US would ban all travel to Russia. Russia would close its airspace, making all flights from the US east coast to Japan, China and Asian from 5-10% longer and forcing European flights to over the US adding in some cases over 500 miles to the flights.  
+- Fed: Also, Russia would invade Ukraine and the US would ban all travel to Russia. Russia would close its airspace, making all flights from the US east coast to Japan, China and Asian from 5-10% longer and forcing European flights to over the US adding in some cases over 500 miles to the flights.  This also causes fuel to spike. 
 - Most the world has reoped outside China, Australia, Japan and New Zealand.  Most would open towards the Summer travel season just just after, China would not open till late December
 - Summer LHR and Amsterdam lead to choas as baggage systems fail.
-- Also that summer the BLVD's A380s start flying again. 
-
+- July: Also that summer the BLVD's A380s start flying again. 
+- Dec 6: Final 747.
+42. 2023
+- Jan 10: Bouelvard Airlines very first hire pilot, retires. 
+- The PW geared Turb fan fails.  This is a massive problem for the A320neo series aircraft which almost 50% use this engine.  
+- Jan: Boulevard finally returns to 100% operational level.  
+- Oct 7: The terroorist attacks leads to a war in Gaza.  Boulevard stops all flights the country and has not restarted them.  
+43. 2024
+- With Trump coming out as the GOP condidate for president, Bouelvard opts to submit its certification document a year before its do.  The certification process is completed by October 
+- Jan 5: A 737MAX9 door plug blows out.  The fleet is grounded, however, due to Boulvard still performing post delievery inspects on the 737s they return to flight 2 days latter. 
+- Jan: Jet Blue Spirit Merger blocked.
+- Nov 4: Spirit files Bankrupcy 
+44. 2025
+- Trump admin's crack down on immigrations is wreckless and attacks even people in the country legally.  The airline sees a drop to the US so bad that it is forced to ground its A380 fleets in May, with capcity dropping to around 75% to the US. The worse are Canadaian - US flights, which drop to less than 50%.  The World cup from June 11- July 19 saw a surge in international travel to the US back up to 95% normal but it dropped back to 70% post games.
+- Jan 29:  A crash of a AA Flight 5342 crashes next to DCA. The airport was closed that evening. Boulevard owner provided services to the families despite the the aircraft belonging to a competitor.  However Boulevard states that the problem is with COngress jamming as many flights as poossible out of DCA, but also the Trump admin's DODGE organization.  Trump calls the owner a loser, and a traitor who should be jailed, and threatens to investigate a number contracts the company has amased. WHen secretary Duffy blamed the crash on DEI, the owner called him a "f*** racist" on national TV.
+- Feb 5: Congress starts a number of politically motivated investigations against the company and thretens to cancel the airlines operational permits. There is a massive push in GOP states to refuse the carrier. 
+- May 10: A congressional hearing on capital hill is the first of 5 for the company, but the owner attacked the GOP hard. then gives each of the men a suppena.  Ironically, the wave make him hyper popular, and actually increases bookings on the airline, leaving the airline boarderlin oversold
+- May 15: The owner opts to state that he will not sit in a meeting with Sec. Duffy saying he will not meet with a racist.  By this point the leverage which Boulevard it became official that the airlines was by far the largest in the world.  Magazines also started wondering what the just how large and the true value was. 
+- June 5:  The DOT states that the companies push to renew its liscence early was potentially illegal and opts to freeze the new cert, meaning the company would have to stop flying on October 1. 
+- June 6: THe airline files have $10 billion dollar law suite against not just the FAA but individual members of the Trump admin.  The trump admin states its illegal to file lawsuites against them specifically however 1 week latter the expose the fact that the airline sued for deformation.  
+- Jul 5: Sec. Duffy states that they will not be renewing the airlines operational certificate, spreading the lie that the company paid off members of the administration to get it renewed early.
+- Aug 2: The Fed opts to delay the court proceedings to December.  So the airline states it will not comply with a shut down order. Come October 1st. The admin states it will find the carrier $10 million if it tries not to comply or impound jets. 
+- Aug 25:  The Admin opts to push back trail again, and so the company asks for an emergency injuction to stay open. It is immediatly granted, and granted till the end of the year.  The company then petitions to have the exception extended to 2029.  
+- Aug 30: The Trump admin calls the judge a Liberal leftist judge and attempts to move the cases venue.     
+- Sept 12:  The DOJ attempts to fire the judge in charge of the case, but is unable
+- October 1:  Boulevard starts an overhaul process on the 757-200 and -300s.  They are being redirected towards international flights, and gain lay flat first class seating.  Even with the A321XLR, the new interior wins best interior.  New symitar wingletts also imprive effeciency 5%.  They will be replaced on domestic routes by 737MAX9s
+- Nov 1:  As discovery starts in the FAA, the FAA quietly drops its case against Bouelvard. It then pushes the case and lawsuites to be dropped, but Bouelvard refuses to drop the deformation suites. 
+- December 2:  Bouevlard wins its deformation case.  
+- December 6: Bouelvard wins the STARTRAK and becomes a 4.5 stars, citing that its only missing lounds.  They also rate the aline number 1 in safety 
+45. 2026
+- Airbus attempts to burry the hatched and tries to sell the A321 and A350 to the airline. While the A350 certainly has its merits, the A321 is still far less fuel effecient than the 737s.  
+- 737 MAX7 and MAX10 get certified, deliveries won't start till 2027
+- Feb: War in Iran starts. fuel prices climb and shortages start world wide.  While demand stays high, fuel availiblity causes places like Philipeans, Africa and Oceana to be depresses as much as 50% over the course of the year.  In the US, fuel prices just nearly 3x. 
+- May 2: Spirit Airlines goes to liquidation 
+- October: Jet Blue enters pre-bankrupcy
 
  
 
